@@ -26,12 +26,6 @@ h1 {
 	outline: 3px solid #FF8833;;
 }
 
-.sig {
-	position: absolute;
-	right: 100px;
-	top: 50px;
-}
-
 .menu {
 	height: 100%;
 	width: 99%;
@@ -46,9 +40,4 @@ h1 {
 	width: 99%;
 	float: bottom;
 	padding-left: 10px;
-}
-
-.edit {
-	outline:3px ridge #CCA9EA;
-	color: #CCA9EA
 }
