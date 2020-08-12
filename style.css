@@ -2,7 +2,7 @@ body {
 	height: 100%;
 	width: 99%;
 	font-size: 18px;
-	font-family: Times;
+	font-family: Monospace;
 	color: #FFFFFF;
 	background-color: #000000;
 }
@@ -13,6 +13,7 @@ a {
 }
 
 .footer {
+    padding: 5px;
 	height: 100%;
 	width: 99%;
 	float: bottom;
@@ -22,6 +23,7 @@ a {
 }
 
 .menu {
+    padding: 5px;
 	height: 100%;
 	width: 99%;
 	float: top;
@@ -32,6 +34,7 @@ a {
 
 .main {
     outline: 3px solid #FFFFFF;
+    padding: 5px;
 	height: 100%;
 	width: 99%;
 	float: bottom;
