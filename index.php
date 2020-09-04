@@ -1,15 +1,11 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<meta charset="UTF-8" />
-		<meta name="viewport" content="width=device-width" />
-		<link rel="stylesheet" type="text/css" href="style.css">
-		<link rel="icon" href="./files/shroom0.jpg">
+		<?php include "head.php"; ?>
 		<title>Home - Brody Rethy</title>
 	</head>
 
 	<body>
-
 		<div class="menu">
 			<?php include "menu.php"; ?>
 		</div>
@@ -46,9 +42,7 @@
         <br>
 
 		<div class="footer">
-			<?php 
-				include "footer.php"; 
-			?>
+			<?php include "footer.php"; ?>
 		</div>
 	</body>
 </html>
