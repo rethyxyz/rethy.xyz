@@ -10,7 +10,9 @@
 
 	<body>
 
-		<?php include "menu.php"; ?>
+		<div class="menu">
+			<?php include "menu.php"; ?>
+		</div>
 
         <br>
 
@@ -43,6 +45,8 @@
 
         <br>
 
-		<?php include "footer.php"; ?>
+		<div class="footer">
+			<?php include "footer.php"; ?>
+		</div>
 	</body>
 </html>
