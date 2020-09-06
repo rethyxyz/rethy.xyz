@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<?php include "../Divs/head.php"; ?>
+		<?php include "head_mobile.php"; ?>
 		<title>Articles - Brody Rethy</title>
 	</head>
 
 	<body>
 		<div class="menu">
-		<?php include "../Divs/menu.php"; ?>
+		<?php include "menu.php"; ?>
 		</div>
 
         <br>
@@ -25,7 +25,7 @@
 				</p>
 				<ol>
                     <li>
-                        <a href="../article_pages/algorithms.html">An Explanation of Various Algorithms (using Python 3.x (bubble sort, quick sort, binary search, etc))</a> - 2020-08-23
+                        <a href="/article_pages/algorithms.html">An Explanation of Various Algorithms (using Python 3.x (bubble sort, quick sort, binary search, etc))</a> - 2020-08-23
                     </li>
 				</ol>
 
@@ -36,7 +36,7 @@
         <br>
         
         <div class="footer">
-			<?php include "../Divs/footer.php"; ?>
+			<?php include "footer.php"; ?>
         </div>
 	</body>
 </html>
