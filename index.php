@@ -5,9 +5,9 @@
     , $_SERVER["HTTP_USER_AGENT"]); 
     } 
     if(isMobileDevice()) { 
-        header("Location: /Mobile\ Pages/home_mobile.php");
+        header("Location: /Mobile Pages/home_mobile.php");
     } 
     else { 
-        header("Location: /Desktop\ Pages/home.php");
+        header("Location: /Desktop Pages/home.php");
     } 
 ?> 
