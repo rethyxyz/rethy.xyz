@@ -37,7 +37,7 @@ small {
 body {
 	height: 100%;
 	width: 99%;
-	font-size: 18px;
+	font-size: 14px;
 	font-family: Monospace;
 	color: #FFFFFF;
 	background-color: #000000;
@@ -51,27 +51,28 @@ a {
 .footer {
     padding: 5px;
 	height: 100%;
-	width: 99%;
+	width: 95%;
 	float: bottom;
 	text-align: center;
 	display: line;
-	outline: 3px solid #FFFFFF;
+	outline: 1px solid #FFFFFF;
 }
 
 .menu {
     padding: 5px;
 	height: 100%;
-	width: 99%;
+	width: 95%;
 	float: top;
 	text-align: center;
 	display: line;
-	outline: 3px solid #FFFFFF;
+	font-size: 9px;
+	outline: 1px solid #FFFFFF;
 }
 
 .main {
-    outline: 3px solid #FFFFFF;
+    outline: 1px solid #FFFFFF;
     padding: 5px;
 	height: 100%;
-	width: 99%;
+	width: 95%;
 	float: bottom;
 }

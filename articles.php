@@ -25,7 +25,7 @@
 				</p>
 				<ol>
                     <li>
-                        <a href="/Articles Page/algorithms.html">An Explanation of Various Algorithms (using Python 3.x (bubble sort, quick sort, binary search, etc))</a> - 2020-08-23
+                        <a href="/Articles Pages/algorithms.html">An Explanation of Various Algorithms (using Python 3.x (bubble sort, quick sort, binary search, etc))</a> - 2020-08-23
                     </li>
 				</ol>
 
