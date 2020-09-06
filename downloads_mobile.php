@@ -6,8 +6,8 @@
 	</head>
   
 	<body>
-		<div class="menu">
-			<?php include "menu.php"; ?>
+		<div class="menu_mobile">
+			<?php include "menu_mobile.php"; ?>
 		</div>
 
         <br>
