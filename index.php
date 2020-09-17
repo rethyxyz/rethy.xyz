@@ -28,8 +28,13 @@
             </p>
 
             <p>
-                The top panel, being the menu panel, contains the website index followed by all other exterior website links.
+                The top panel, being the menu panel, contains the website index followed by any other exterior website links.
             </p>
+
+			<p>
+				IF ON MOBILE, VIEW THIS SITE IN DESKTOP MODE
+				(hit the settings button and hit "Desktop site")
+			</p>
 
             <hr>
 
