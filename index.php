@@ -31,9 +31,11 @@
                 The top panel, being the menu panel, contains the website index followed by any other exterior website links.
             </p>
 
+			<hr>
+
 			<p>
 				IF ON MOBILE, VIEW THIS SITE IN DESKTOP MODE
-				(hit the settings button and hit "Desktop site")
+				(hit the settings button and hit "Desktop site" button).
 			</p>
 
             <hr>
