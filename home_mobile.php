@@ -33,10 +33,6 @@
 
             <hr>
 
-            <p>
-                <center><b>THIS SITE IS BEST VIEWED ON A DESKTOP OR LAPTOP</b></center>
-            </p>
-
             <center>
                 <img src="/files/penguineyes.gif">
                 <br>

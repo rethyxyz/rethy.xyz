@@ -16,7 +16,7 @@
 			<h1>Articles</h1>
             <hr>
 				<p>
-					Each of the links below are articles I wrote ordered by newest to oldest.
+					Each link below are articles I wrote ordered from newest to oldest.
 					All of them are related to computing.
 				</p>
                 <hr>
@@ -25,7 +25,7 @@
 				</p>
 				<ol>
                     <li>
-                        <a href="/Articles Pages/algorithms.html">An Explanation of Various Algorithms (using Python 3.x (bubble sort, quick sort, binary search, etc))</a> - 2020-08-23
+                        <a href="/Articles Pages/algorithms.php">An Explanation of Various Algorithms (using Python 3.x (bubble sort, quick sort, binary search, etc))</a> - 2020-08-23
                     </li>
 				</ol>
 
