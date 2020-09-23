@@ -6,13 +6,11 @@
 	</head>
   
 	<body>
-		<div class="menu">
-			<?php include "menu.php"; ?>
-		</div>
-
-        <br>
-
 		<div class="main">
+            <div class="menu">
+                <?php include "menu.php"; ?>
+            </div>
+
 			<h1>Downloads</h1>
                 <h2>GitHub Projects</h2>
                 <p>Indulge yourself in the sea of my software...</p>
@@ -96,13 +94,10 @@
                         <li><a href="https://github.com/brodyrethy/Website/archive/master.zip">My Website files</a></li>
                     </ol>
                     <br>
+
+            <div class="footer">
+                <?php include "footer.php"; ?>
+            </div>
 		</div>
-
-        <br>
-
-        <div class="footer">
-			<?php include "footer.php"; ?>
-        </div>
-
 	</body>
 </html>

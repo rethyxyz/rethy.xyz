@@ -6,22 +6,18 @@
 	</head>
 
 	<body>
-		<div class="menu">
-            <?php include "menu.php"; ?>
-		</div>
-
-        <br>
-
 		<div class="main">
+            <div class="menu">
+                <?php include "menu.php"; ?>
+            </div>
+
             <p>
                 <center>You can email me at: brody@rethy.xyz.</center>
             </p>
-        </div>
 
-        <br>
-
-        <div class="footer">
-            <?php include "footer.php"; ?>
+            <div class="footer">
+                <?php include "footer.php"; ?>
+            </div>
         </div>
 	</body>
 </html>

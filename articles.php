@@ -6,13 +6,12 @@
 	</head>
 
 	<body>
-		<div class="menu">
-			<?php include "menu.php"; ?>
-		</div>
-
-        <br>
-
 		<div class="main">
+
+            <div class="menu">
+                <?php include "menu.php"; ?>
+            </div>
+
 			<h1>Articles</h1>
             <hr>
 				<p>
@@ -26,25 +25,20 @@
 				<ol>
                     <li>
                         <?php
-                            $directory = "https://rethy.xyz/articles/programming";
+                            $directory = "articles/programming";
                             $filecount = 0;
                             $files = glob($directory . "*");
                             if ($files){
                              $filecount = count($files);
                             }
-                            echo "<a href='https://rethy.xyz//article_pages/programming/index.php'>Programming</a> - $filecount articles";
+                            echo "<a href='https://rethy.xyz/article_pages/programming/index.php'>Programming</a> - $filecount articles";
                         ?>
                     </li>
 				</ol>
 
-        <br>
-
+            <div class="footer">
+                <?php include "footer.php"; ?>
+            </div>
 		</div>
-
-        <br>
-        
-        <div class="footer">
-			<?php include "footer.php"; ?>
-        </div>
 	</body>
 </html>

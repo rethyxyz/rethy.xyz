@@ -6,13 +6,11 @@
 	</head>
 
 	<body>
-		<div class="menu">
-			<?php include "menu.php"; ?>
-		</div>
-
-        <br>
-
 		<div class="main">
+            <div class="menu">
+                <?php include "menu.php"; ?>
+            </div>
+
             <h1>Disclaimer</h1>
             <p>
             I do not have a <i>"formal"</i> educational background in Mathematics, therefore most, if not all, of the variable names I use during the explanations are not true to the original mathematical equations and are instead made to be easy to understand.
@@ -20,6 +18,7 @@
             </p>
             <hr>
             <h1>Algorithms <small>(sorted alphabetically)</small></h1>
+<!-- 
                 <h2>Bubble Sort</h2>
                 <img src="https://rethy.xyz/files/construction.gif">
 
@@ -30,7 +29,7 @@
                     <br>
                     (By <a href="https://commons.wikimedia.org/w/index.php?title=User:Swfung8&action=edit&redlink=1" class="new" title="User:Swfung8 (page does not exist)"&gt;Swfung8</a&gt; - <span class="int-own-work" lang="en"&gt;Own work</span&gt;, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=14961648">Link</a>)
                 </p>
-
+-->
                 <h2>Quick Sort</h2>
                 <p>
                     <a href="https://rethy.xyz/files/quick_sort.gif"><img src="../files/quick_sort.gif"></a>
@@ -92,17 +91,15 @@
                     </code_block>
                 </p>
 				<p>
-					I feel the code is clear, therefore I won't bother to explain it.
+					I feel the code is clear, therefore I won't bother to explain it anymore.
                 </p>
 
-                <h2>Binary Search</h2>
+<!--    <h2>Binary Search</h2>
                 <img src="https://rethy.xyz/files/construction.gif">
+-->
+            <div class="footer">
+                <?php include "footer.php"; ?>
+            </div>
 		</div>
-
-        <br>
-
-        <div class="footer">
-			<?php include "footer.php"; ?>
-        </div>
 	</body>
 </html>
