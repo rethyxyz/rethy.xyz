@@ -43,8 +43,8 @@
                     </li>
                     <li>
                         <div class="click_box">
-                            <a href="https://rethy.xyz/download.php">
-                                <img src="https://rethy.xyz/files/download_banner.png">
+                            <a href="https://rethy.xyz/downloads.php">
+                                <img src="https://rethy.xyz/files/downloads_banner.png">
                                 <br>
                                 Downloads
                             </a>
