@@ -34,15 +34,6 @@
                     </li>
                     <li>
                         <div class="click_box">
-                            <a href="https://rethy.xyz/resume.php">
-                                <img src="https://rethy.xyz/files/resume_banner.png">
-                                <br>
-                                Resume
-                            </a>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="click_box">
                             <a href="https://rethy.xyz/downloads.php">
                                 <img src="https://rethy.xyz/files/downloads_banner.png">
                                 <br>
