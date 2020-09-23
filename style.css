@@ -1,29 +1,28 @@
-code {
+indent {
     margin-left: 20px;
-
 }
 
-code2 {
+indent_2 {
     margin-left: 40px;
 }
 
-code3 {
+indent_3 {
     margin-left: 60px;
 }
 
-code4 {
+indent_4 {
     margin-left: 80px;
 }
 
-f_g {
+font_green {
     color: darkgreen;
 }
 
-f_b {
+font_blue {
     color: darkblue;
 }
 
-.program {
+code_block {
     font-size: 14px;
     color: #000000;
     background: grey;
@@ -35,8 +34,6 @@ small {
 }
 
 body {
-	height: 100%;
-	width: 99%;
 	font-size: 18px;
 	font-family: Monospace;
 	color: #FFFFFF;
@@ -50,8 +47,6 @@ a {
 
 .footer {
     padding: 5px;
-	height: 100%;
-	width: 99%;
 	float: bottom;
 	text-align: center;
 	display: line;
@@ -60,7 +55,6 @@ a {
 
 .menu {
     padding: 5px;
-	height: 100%;
 	width: 99%;
 	float: top;
 	text-align: center;

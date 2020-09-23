@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-	<?php include "head.php"; ?>
+        <?php include "head.php"; ?>
 		<title>Algorithms - Brody Rethy</title>
 	</head>
 
@@ -63,33 +63,33 @@
                 <p>
                     Here's my example of code written in Python 3.x:
                     <br>
-                    <div class="program">
-                        <code><b>def</b> <f_g>quick_sort</f_g>(sequence):</code> <br>
-                            <code2>items_greater = []</code2><br>
-                            <code2>items_lower = []</code2><br>
+                    <code_block>
+                        <indent><b>def</b> <font_green>quick_sort</font_green>(sequence):</indent> <br>
+                            <indent_2>items_greater = []</indent_2><br>
+                            <indent_2>items_lower = []</indent_2><br>
                             <br>
-                            <code2>length = <f_g>len</f_g>(sequence)</code><br>
-                            <code2><f_b>#this means dip out if nothing was given</f_b></code><br>
-                            <code2><b>if</b> (length <= <f_g>1</f_g>): </code2><br>
-                                <code3><b>return</b> sequence</code3><br>
-                            <code2><b>else:</b></code2> <br>
-                                <code3><f_b>#pop removes, or "pops" out, if you will, the last item in a list</f_b></code3><br>
-                                <code3>pivot = sequence.pop()</code2> <br>
-                            <code2><b>for</b> x <b>in</b> sequence:</code2> <br>
-                                <code3><b>if</b> (x > pivot):</code3> <br>
-                                    <code4>items_greater.append(x)</code4> <br>
-                                <code3><b>else</b>:</code3> <br>
-                                    <code4>items_lower.append(x)</code4> <br>
-                            <code2><b>return</b> quick_sort(items_lower) + [pivot] + quick_sort(items_greater)</code2><br>
+                            <indent_2>length = <font_green>len</font_green>(sequence)</indent><br>
+                            <indent_2><font_blue>#this means dip out if nothing was given</font_blue></indent><br>
+                            <indent_2><b>if</b> (length <= <font_green>1</font_green>): </indent_2><br>
+                                <indent_3><b>return</b> sequence</indent_3><br>
+                            <indent_2><b>else:</b></indent_2> <br>
+                                <indent_3><font_blue>#pop removes, or "pops" out, if you will, the last item in a list</font_blue></indent_3><br>
+                                <indent_3>pivot = sequence.pop()</indent_2> <br>
+                            <indent_2><b>for</b> x <b>in</b> sequence:</indent_2> <br>
+                                <indent_3><b>if</b> (x > pivot):</indent_3> <br>
+                                    <indent_4>items_greater.append(x)</indent_4> <br>
+                                <indent_3><b>else</b>:</indent_3> <br>
+                                    <indent_4>items_lower.append(x)</indent_4> <br>
+                            <indent_2><b>return</b> quick_sort(items_lower) + [pivot] + quick_sort(items_greater)</indent_2><br>
 							<br>
-                        <code>def <f_g>main</f_g>():</code><br>
-                            <code2>sequence = [<f_b>1, 20, 1882, 85, 33, 2039, 1287319823, 1293801298301298390, 5893495, 3, 7, 324636, 123, 2, 1293, 93, 1001203</f_b>]</code2><br>
+                        <indent>def <font_green>main</font_green>():</indent><br>
+                            <indent_2>sequence = [<font_blue>1, 20, 1882, 85, 33, 2039, 1287319823, 1293801298301298390, 5893495, 3, 7, 324636, 123, 2, 1293, 93, 1001203</font_blue>]</indent_2><br>
 							<br>
-                            <code2>print(<f_b>"Before:"</f_b>, sequence)</code2><br>
-                            <code2>print(<f_b>"After:"</f_b>, quick_sort(sequence))</code2><br>
+                            <indent_2>print(<font_blue>"Before:"</font_blue>, sequence)</indent_2><br>
+                            <indent_2>print(<font_blue>"After:"</font_blue>, quick_sort(sequence))</indent_2><br>
 							<br>
-                        <code>main()</code><br>
-                    </div>
+                        <indent>main()</indent><br>
+                    </code_block>
                 </p>
 				<p>
 					I feel the code is clear, therefore I won't bother to explain it.
