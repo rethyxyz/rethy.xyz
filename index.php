@@ -22,15 +22,13 @@
 
                 <hr>
 
-                <p>
-                    <div class="click_box">
-                        <a href="https://rethy.xyz/articles.php">
-                            <img src="https://rethy.xyz/files/quick_sort.gif">
-                            <br>
-                            Articles
-                        </a>
-                    </div>
-                </p>
+                <div class="click_box">
+                    <a href="https://rethy.xyz/articles.php">
+                        <img src="https://rethy.xyz/files/quick_sort.gif">
+                        <br>
+                        Articles
+                    </a>
+                </div>
 
                 <hr>
 
