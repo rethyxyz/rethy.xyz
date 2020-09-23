@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-    <?php include "header.php"; ?>
+        <?php include "head.php"; ?>
         <title>Home - Brody Rethy</title>
 	</head>
 
