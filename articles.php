@@ -25,8 +25,8 @@
 				<ol>
                     <li>
                         <?php
-                            $directory = "articles/programming";
                             $filecount = 0;
+                            $directory = "articles/programming/";
                             $files = glob($directory . "*");
                             if ($files){
                              $filecount = count($files);
