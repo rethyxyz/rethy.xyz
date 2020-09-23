@@ -53,6 +53,7 @@ small {
 }
 
 .footer {
+    outline: solid 2px black;
     padding: 5px;
 	text-align: center;
 	float: bottom;
@@ -60,6 +61,7 @@ small {
 }
 
 .menu {
+    outline: solid 2px black;
     padding: 5px;
 	text-align: center;
 	float: top;
