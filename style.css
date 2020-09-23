@@ -67,9 +67,9 @@ small {
     font-size: 30px;
 }
 
-click_box {
+.click_box {
     padding: 5px;
     border: solid thin black;
     border-radius: 10px;
-    outline: solid 2px;
+    outline: 2px solid black;
 }
