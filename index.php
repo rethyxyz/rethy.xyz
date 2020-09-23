@@ -20,6 +20,8 @@
                     Programming, Unix admin, general computing, and music.
                 </p>
 
+                <hr>
+
                 <p>
                     <click_box>
                         <a href="https://rethy.xyz/articles.php">
