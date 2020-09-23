@@ -23,17 +23,17 @@ font_blue {
 }
 
 code_block {
-    color: #FFFFFF;
+    color: #000000;
     font-size: 14px;
     background: grey;
     width: 50%;
 }
 
 body {
-	color: #000000;
+	color: #FFFFFF;
 	font-size: 14px;
 	font-family: Arial;
-	background-color: #FFFFFF;
+	background-color: #000000;
 }
 
 a {

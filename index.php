@@ -22,29 +22,35 @@
 
                 <hr>
 
-                <div class="click_box">
-                    <a href="https://rethy.xyz/articles.php">
-                        <img src="https://rethy.xyz/files/quick_sort.gif">
-                        <br>
-                        Articles
-                    </a>
-                </div>
-
-                <div class="click_box">
-                    <a href="https://rethy.xyz/resume.php">
-                        <img src="https://rethy.xyz/files/resume_banner.png">
-                        <br>
-                        Resume
-                    </a>
-                </div>
-
-                <div class="click_box">
-                    <a href="https://rethy.xyz/download.php">
-                        <img src="https://rethy.xyz/files/download_banner.png">
-                        <br>
-                        Downloads
-                    </a>
-                </div>
+                <ol>
+                    <li>
+                        <div class="click_box">
+                            <a href="https://rethy.xyz/articles.php">
+                                <img src="https://rethy.xyz/files/quick_sort.gif">
+                                <br>
+                                Articles
+                            </a>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="click_box">
+                            <a href="https://rethy.xyz/resume.php">
+                                <img src="https://rethy.xyz/files/resume_banner.png">
+                                <br>
+                                Resume
+                            </a>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="click_box">
+                            <a href="https://rethy.xyz/download.php">
+                                <img src="https://rethy.xyz/files/download_banner.png">
+                                <br>
+                                Downloads
+                            </a>
+                        </div>
+                    </li>
+                </ol>
 
                 <hr>
 
