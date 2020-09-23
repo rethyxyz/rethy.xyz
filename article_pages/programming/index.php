@@ -15,7 +15,7 @@
             <h1>Programming</h1>
                 <p>
                     <ol>
-                        <li><a href="https://rethy.xyz/articles/programming/algorithms.php">Algorithms (Binary Search, Bubble Sort, BOGO, etc.)</a></li>
+                        <li><a href="https://rethy.xyz/article_pages/programming/algorithms.php">Algorithms (Binary Search, Bubble Sort, BOGO, etc.)</a></li>
                     <ol>
                 </p>
 

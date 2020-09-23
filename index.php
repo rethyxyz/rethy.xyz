@@ -30,6 +30,22 @@
                     </a>
                 </div>
 
+                <div class="click_box">
+                    <a href="https://rethy.xyz/resume.php">
+                        <img src="https://rethy.xyz/files/resume_banner.png">
+                        <br>
+                        Resume
+                    </a>
+                </div>
+
+                <div class="click_box">
+                    <a href="https://rethy.xyz/download.php">
+                        <img src="https://rethy.xyz/files/download_banner.png">
+                        <br>
+                        Downloads
+                    </a>
+                </div>
+
                 <hr>
 
                 <p>

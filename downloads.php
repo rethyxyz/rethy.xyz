@@ -14,10 +14,7 @@
 			<h1>Downloads</h1>
                 <h2>GitHub Projects</h2>
                 <p>Indulge yourself in the sea of my software...</p>
-                <hr>
-
                     <h3>Programs and Malware</h3>
-
                     <ol>
                         <li><a href="https://github.com/brodyrethy/Moses-RAT/archive/master.zip">Moses</a></li>
                         <ol>
@@ -68,7 +65,6 @@
                             <li>Scrapes a URLs HTML content and delivers the content to the sender through email (used for a situation such as poor Internet connection, or a restrictive data-cap (or privacy))</li>
                         </ol>
                     </ol>
-                    <hr>
                     <h3>Configurations</h3>
                     <ol>
                         <li><a href="https://github.com/brodyrethy/dotfiles_e550/archive/master.zip">My general dotfiles for ThinkPad E550</a></li>
@@ -81,14 +77,12 @@
                             <li>My general configuration files for Debian for Desktop</li>
                         </ol>
                     </ol>
-                    <hr>
                     <h3>Scripts</h3>
                     <ol>
                         <li><a href="https://github.com/brodyrethy/AutoHotkeyScripts/archive/master.zip">My AutoHotkey scripts</a></li>
 
                         <li><a href="https://github.com/brodyrethy/BWiSS/archive/master.zip">Brody's Windows Setup Scripts</a></li>
                     </ol>
-                    <hr>
                     <h3>Others</h3>
                     <ol>
                         <li><a href="https://github.com/brodyrethy/Website/archive/master.zip">My Website files</a></li>
