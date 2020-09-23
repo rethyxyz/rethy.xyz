@@ -20,28 +20,9 @@
                     Programming, Unix admin, general computing, and music.
                 </p>
 
-                <hr>
-
-                <ol>
-                    <li>
-                        <div class="click_box">
-                            <a href="https://rethy.xyz/articles.php">
-                                <img src="https://rethy.xyz/files/quick_sort.gif">
-                                <br>
-                                Articles
-                            </a>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="click_box">
-                            <a href="https://rethy.xyz/downloads.php">
-                                <img src="https://rethy.xyz/files/downloads_banner.png">
-                                <br>
-                                Downloads
-                            </a>
-                        </div>
-                    </li>
-                </ol>
+                <p>
+                    Click on an item found in the menu bar (top of page) to navigate the site.
+                </p>
 
                 <hr>
 
@@ -61,6 +42,7 @@
             <div class="footer">
                 <?php include "footer.php"; ?>
             </div>
+            <br>
 		</div>
 	</body>
 </html>
