@@ -25,7 +25,15 @@
 				</p>
 				<ol>
                     <li>
-                        <a href="/article_pages/algorithms.php">An Explanation of Various Algorithms (using Python 3.x (bubble sort, quick sort, binary search, etc))</a> - 2020-08-23
+                        <?php
+                            $directory = "https://rethy.xyz/articles/programming";
+                            $filecount = 0;
+                            $files = glob($directory . "*");
+                            if ($files){
+                             $filecount = count($files);
+                            }
+                            echo "<a href='https://rethy.xyz//article_pages/programming/index.php'>Programming</a> - $filecount articles";
+                        ?>
                     </li>
 				</ol>
 
