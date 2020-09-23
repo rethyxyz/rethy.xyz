@@ -19,14 +19,24 @@
                 <p>
                     Programming, Unix admin, general computing, and music.
                 </p>
-                    <p>
 
-                    </p>
+                <p>
+                    <click_box>
+                        <a href="https://rethy.xyz/articles.php">
+                            <img src="https://rethy.xyz/files/quick_sort.gif">
+                            <br>
+                            Articles
+                        </a>
+                    </click_box>
+                </p>
+
                 <hr>
+
                 <p>
                     IF ON MOBILE, VIEW THIS SITE IN DESKTOP MODE
                     (hit the settings button and hit "Desktop site" button).
                 </p>
+
                 <center>
                     <img src="https://rethy.xyz/files/penguineyes.gif">
                     <br>

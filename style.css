@@ -66,3 +66,10 @@ small {
 	display: line;
     font-size: 30px;
 }
+
+click_box {
+    padding: 5px;
+	text-align: center;
+    border: solid thin black;
+    border-radius: 10px;
+}
