@@ -23,20 +23,16 @@ font_blue {
 }
 
 code_block {
-    font-size: 14px;
     color: #000000;
+    font-size: 14px;
     background: grey;
     width: 50%;
 }
 
-small {
-    font-size: 18px;
-}
-
 body {
+	color: #FFFFFF;
 	font-size: 18px;
 	font-family: Monospace;
-	color: #FFFFFF;
 	background-color: #000000;
 }
 
@@ -45,27 +41,28 @@ a {
 	text-decoration: none;
 }
 
-.footer {
+small {
+    font-size: 18px;
+}
+
+.main {
     padding: 5px;
 	float: bottom;
+    outline: 3px solid #FFFFFF;
+}
+
+.footer {
+    padding: 5px;
 	text-align: center;
+	float: bottom;
 	display: line;
 	outline: 3px solid #FFFFFF;
 }
 
 .menu {
     padding: 5px;
-	width: 99%;
-	float: top;
 	text-align: center;
+	float: top;
 	display: line;
 	outline: 3px solid #FFFFFF;
-}
-
-.main {
-    outline: 3px solid #FFFFFF;
-    padding: 5px;
-	height: 100%;
-	width: 99%;
-	float: bottom;
 }
