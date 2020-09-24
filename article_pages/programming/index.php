@@ -2,7 +2,7 @@
 <html>
 	<head>
         <?php include "https://rethy.xyz/head.php"; ?>
-		<title>Coming Soon - Brody Rethy</title>
+		<title>Programming - Brody Rethy</title>
 	</head>
 
 	<body>
@@ -22,7 +22,7 @@
             <div class="footer">
                 <?php include "https://rethy.xyz/footer.php"; ?>
             </div>
-
+            <br>
         </div>
 	</body>
 </html>

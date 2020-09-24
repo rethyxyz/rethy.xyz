@@ -13,7 +13,6 @@
             </div>
 
 			<h1>Articles</h1>
-            <hr>
 				<p>
 					Each link below are articles I wrote ordered from newest to oldest.
 					All of them are related to computing.

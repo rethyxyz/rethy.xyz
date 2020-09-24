@@ -92,6 +92,7 @@
             <div class="footer">
                 <?php include "footer.php"; ?>
             </div>
+            <br>
 		</div>
 	</body>
 </html>

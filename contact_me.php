@@ -19,5 +19,6 @@
                 <?php include "footer.php"; ?>
             </div>
         </div>
+        <br>
 	</body>
 </html>
