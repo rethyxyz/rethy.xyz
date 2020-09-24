@@ -21,7 +21,7 @@
                 </p>
 
                 <p>
-                    Click on an item found in the menu bar (top of page) to navigate the site.
+                    Click on any item found in the menu bar (top of page) to navigate the site.
                 </p>
 
                 <hr>
