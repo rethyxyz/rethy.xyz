@@ -25,12 +25,23 @@
                     <li>
                         <?php
                             $filecount = 0;
-                            $directory = "article_pages/programming/";
+                            $directory = "https://rethy.xyz/article_pages/programming/";
                             $files = glob($directory . "*");
                             if ($files){
                              $filecount = count($files);
                             }
                             echo "<a href='https://rethy.xyz/article_pages/programming/index.php'>Programming</a> - $filecount articles";
+                        ?>
+                    </li>
+                    <li>
+                        <?php
+                            $filecount = 0;
+                            $directory = "https://rethy.xyz/article_pages/computing/";
+                            $files = glob($directory . "*");
+                            if ($files){
+                             $filecount = count($files);
+                            }
+                            echo "<a href='https://rethy.xyz/article_pages/computing/index.php'>Computing</a> - $filecount articles";
                         ?>
                     </li>
 				</ol>

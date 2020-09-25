@@ -14,7 +14,6 @@
             <h1>3D Rendered Images from 1990 to 2005</h1>
             The purpose of this page is to store my collection of 3D Rendered images from 1990 to 2005.
             <h2>Plants</h2>
-
             <a href="https://rethy.xyz/files/red_flower.jpg">
                 <img src="https://rethy.xyz/files/red_flower.jpg">
             </a>
@@ -26,15 +25,11 @@
             <a href="https://rethy.xyz/files/landscape_1.jpg">
                 <img src="https://rethy.xyz/files/landscape_1.jpg">
             </a>
-
             <br>
-
             <a href="https://rethy.xyz/files/landscape_2.jpg">
                 <img src="https://rethy.xyz/files/landscape_2.jpg">
             </a>
-
             <br>
-
             <a href="https://rethy.xyz/files/landscape_3.jpg">
                 <img src="https://rethy.xyz/files/landscape_3.jpg">
             </a>
@@ -43,14 +38,33 @@
             <a href="https://rethy.xyz/files/psy_1.jpg">
                 <img src="https://rethy.xyz/files/psy_1.jpg">
             </a>
-
             <br>
-
             <a href="https://rethy.xyz/files/psy_2.jpg">
                 <img src="https://rethy.xyz/files/psy_2.jpg">
             </a>
             
             <h2>Weird</h2>
+            <a href="https://rethy.xyz/files/weird_1.jpg">
+                <img src="https://rethy.xyz/files/weird_1.jpg">
+            </a>
+
+            <br>
+
+            <a href="https://rethy.xyz/files/weird_2.jpg">
+                <img src="https://rethy.xyz/files/weird_2.jpg">
+            </a>
+
+            <br>
+
+            <a href="https://rethy.xyz/files/weird_3.png">
+                <img src="https://rethy.xyz/files/weird_3.png">
+            </a>
+
+            <br>
+
+            <a href="https://rethy.xyz/files/weird_4.jpg">
+                <img src="https://rethy.xyz/files/weird_4.jpg">
+            </a>
 
             <div class="footer">
                 <?php include "https://rethy.xyz/footer.php"; ?>
