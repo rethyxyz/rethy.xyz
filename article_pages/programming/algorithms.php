@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
 	<head>
-        <?php include "head.php"; ?>
+        <?php include "https://rethy.xyz/head.php"; ?>
 		<title>Algorithms - Brody Rethy</title>
 	</head>
 
 	<body>
 		<div class="main">
             <div class="menu">
-                <?php include "menu.php"; ?>
+                <?php include "https://rethy.xyz/menu.php"; ?>
             </div>
 
             <h1>Disclaimer</h1>
@@ -98,7 +98,7 @@
                 <img src="https://rethy.xyz/files/construction.gif">
 -->
             <div class="footer">
-                <?php include "footer.php"; ?>
+                <?php include "https://rethy.xyz/footer.php"; ?>
             </div>
 		</div>
 	</body>
