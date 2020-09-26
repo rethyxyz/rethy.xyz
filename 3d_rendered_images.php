@@ -39,11 +39,13 @@
             <a href="files/weird_3.png"> <img src="files/weird_3.png" width="500px"> </a>
             <br>
             <a href="files/weird_4.jpg"> <img src="files/weird_4.jpg" width="500px"> </a>
+			<br>
 
             <div class="footer">
                 <?php include "footer.php"; ?>
             </div>
             <br>
+
         </div>
 	</body>
 </html>

@@ -23,26 +23,10 @@
 				</p>
 				<ol>
                     <li>
-                        <?php
-                            $filecount = 0;
-                            $directory = "article_pages/programming/";
-                            $files = glob($directory . "*");
-                            if ($files){
-                             $filecount = count($files);
-                            }
-                            echo "<a href='article_pages/programming/index.php'>Programming</a> - $filecount articles";
-                        ?>
+						<a href='programming.php'>Programming</a>
                     </li>
                     <li>
-                        <?php
-                            $filecount = 0;
-                            $directory = "article_pages/computing/";
-                            $files = glob($directory . "*");
-                            if ($files){
-                             $filecount = count($files);
-                            }
-                            echo "<a href='article_pages/computing/index.php'>Computing</a> - $filecount articles";
-                        ?>
+						<a href='computing.index'>Computing</a>
                     </li>
 				</ol>
 
