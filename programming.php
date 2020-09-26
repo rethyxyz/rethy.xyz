@@ -16,7 +16,7 @@
                 <p>
                     <ol>
                         <li><a href="algorithms.php">Algorithms (Binary Search, Bubble Sort, BOGO, etc.)</a></li>
-                    <ol>
+                    </ol>
                 </p>
 
             <div class="footer">

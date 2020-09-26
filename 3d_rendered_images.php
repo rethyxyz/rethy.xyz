@@ -29,7 +29,7 @@
             <a href="files/landscape_2.jpg"> <img src="files/landscape_2.jpg" width="500px"> </a>
             <br>
             <a href="files/landscape_3.jpg"> <img src="files/landscape_3.jpg" width="500px"> </a>
-			<p>Image taken from <a href="https://digitalblasphemy.com/">https://digitalblasphemy.com/</a>.</p> 
+			<p>Taken from <a href="https://digitalblasphemy.com/">https://digitalblasphemy.com/</a>.</p> 
 
             <h2>Weird</h2>
 			<a href="files/weird_1.jpg"> <img src="files/weird_1.jpg" width="500px"> </a>
