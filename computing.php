@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-        <?php include "https://rethy.xyz/head.php"; ?>
+        <?php include "head.php"; ?>
 		<title>Computing - Brody Rethy</title>
 	</head>
 
@@ -9,18 +9,18 @@
 		<div class="main">
 
             <div class="menu">
-                <?php include "https://rethy.xyz/menu.php"; ?>
+                <?php include "menu.php"; ?>
             </div>
 
             <h1>Computing</h1>
                 <p>
                     <ol>
-                        <li><a href="https://rethy.xyz/3d_rendered_images.php">3D Rendered Images from 1990 to 2005</a></li>
+                        <li><a href="3d_rendered_images.php">3D Rendered Images from 1990 to 2005</a></li>
                     <ol>
                 </p>
 
             <div class="footer">
-                <?php include "https://rethy.xyz/footer.php"; ?>
+                <?php include "footer.php"; ?>
             </div>
             <br>
         </div>

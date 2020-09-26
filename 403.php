@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 	<head>
-        <?php include "/Divs/head.php"; ?>
+        <?php include "head.php"; ?>
 		<title>Contact Me - Brody Rethy</title>
 	</head>
 
 	<body>
 		<div class="menu">
-            <?php include "/Divs/menu.php"; ?>
+            <?php include "menu.php"; ?>
 		</div>
 
         <br>
@@ -21,7 +21,7 @@
 		</div>
         
         <div class="footer">
-            <?php include "/Divs/footer.php"; ?>
+            <?php include "footer.php"; ?>
         </div>
 	</body>
 </html>

@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
 	<head>
-        <?php include "https://rethy.xyz/head.php"; ?>
+        <?php include "head.php"; ?>
 		<title>Algorithms - Brody Rethy</title>
 	</head>
 
 	<body>
 		<div class="main">
             <div class="menu">
-                <?php include "https://rethy.xyz/menu.php"; ?>
+                <?php include "menu.php"; ?>
             </div>
 
             <h1>Disclaimer</h1>
@@ -20,19 +20,19 @@
             <h1>Algorithms <small>(sorted alphabetically)</small></h1>
 <!-- 
                 <h2>Bubble Sort</h2>
-                <img src="https://rethy.xyz/files/construction.gif">
+                <img src="files/construction.gif">
 
                 <h2>Merge Sort</h2>
-                <img src="https://rethy.xyz/files/construction.gif">
+                <img src="files/construction.gif">
                 <p>
-                    <a href="https://rethy.xyz/files/merge_sort.gif"><img src="../files/merge_sort.gif"></a>
+                    <a href="files/merge_sort.gif"><img src="../files/merge_sort.gif"></a>
                     <br>
                     (By <a href="https://commons.wikimedia.org/w/index.php?title=User:Swfung8&action=edit&redlink=1" class="new" title="User:Swfung8 (page does not exist)"&gt;Swfung8</a&gt; - <span class="int-own-work" lang="en"&gt;Own work</span&gt;, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=14961648">Link</a>)
                 </p>
 -->
                 <h2>Quick Sort</h2>
                 <p>
-                    <a href="https://rethy.xyz/files/quick_sort.gif"><img src="../files/quick_sort.gif"></a>
+                    <a href="files/quick_sort.gif"><img src="../files/quick_sort.gif"></a>
                     <br>
                     (By <a href="https://en.wikipedia.org/wiki/User:RolandH" class="extiw" title="en:User:RolandH">en:User:RolandH</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=1965827">Link</a>)
                 </p>
@@ -95,10 +95,10 @@
                 </p>
 
 <!--    <h2>Binary Search</h2>
-                <img src="https://rethy.xyz/files/construction.gif">
+                <img src="files/construction.gif">
 -->
             <div class="footer">
-                <?php include "https://rethy.xyz/footer.php"; ?>
+                <?php include "footer.php"; ?>
             </div>
 		</div>
 	</body>
