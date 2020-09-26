@@ -16,7 +16,7 @@
                 <p>
                     <ol>
                         <li><a href="3d_rendered_images.php">3D Rendered Images from 1990 to 2005</a></li>
-                    <ol>
+                    </ol>
                 </p>
 
             <div class="footer">
