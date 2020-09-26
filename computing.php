@@ -15,7 +15,7 @@
             <h1>Computing</h1>
                 <p>
                     <ol>
-                        <li><a href="https://rethy.xyz/article_pages/computing/3d_rendered_images.php">3D Rendered Images from 1990 to 2005</a></li>
+                        <li><a href="https://rethy.xyz/3d_rendered_images.php">3D Rendered Images from 1990 to 2005</a></li>
                     <ol>
                 </p>
 
