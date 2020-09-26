@@ -26,7 +26,7 @@
 						<a href='programming.php'>Programming</a>
                     </li>
                     <li>
-						<a href='computing.index'>Computing</a>
+						<a href='computing.php'>Computing</a>
                     </li>
 				</ol>
 
