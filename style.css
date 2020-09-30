@@ -18,6 +18,10 @@ font_green {
     color: darkgreen;
 }
 
+font_red {
+    color: darkred;
+}
+
 font_blue {
     color: darkblue;
 }
@@ -42,7 +46,7 @@ a {
 }
 
 small {
-    font-size: 18px;
+    font-size: 11px;
 }
 
 .main {
