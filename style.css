@@ -26,10 +26,14 @@ font_blue {
     color: darkblue;
 }
 
+font_brown {
+	color: brown;
+}
+
 code_block {
-    color: #000000;
+    color: #ffffff;
     font-size: 14px;
-    background: grey;
+    background-color: grey;
     width: 50%;
 }
 
@@ -49,16 +53,22 @@ small {
     font-size: 11px;
 }
 
+big {
+    font-size: 40px;
+}
+
 .main {
-    width: 1280px;
-    height: 720px;
-    margin: 0 auto;
+    width: 75%;
+    height: 100%;
     padding: 5px;
 	float: bottom;
+	min-width: 650px;
+	margin: auto;
+    outline: 2px solid white;
 }
 
 .footer {
-    outline: 2px solid white;
+
     padding: 5px;
 	text-align: center;
 	float: bottom;
@@ -66,7 +76,7 @@ small {
 }
 
 .menu {
-    outline: 2px solid white;
+
     padding: 5px;
 	text-align: center;
 	float: top;
@@ -75,4 +85,8 @@ small {
 
 .click_box {
     padding: 5px;
+}
+
+table, th, td {
+   border: 1px solid white;
 }
