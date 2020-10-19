@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="stylesheet" type="text/css" href="style.css" />
+		<link rel="icon" href="files/shroom0.jpg" />
+		<title>My dwm Status Bar - rethy.xyz</title>
+	</head>
+
+	<body>
+        <div class="main">
+            <div class="menu">
+				<img src='files/shroom0.jpg' height='15' width='15'> <a href='https://rethy.xyz'>Home</a> | <a href='articles.html'>Articles</a> | <a href='computing.html'>Computing</a> | <a href='programming.html'>Programming</a> | <a href='downloads.html'>Downloads</a> | <a href='https://github.com/rethyxyz/'>GitHub</a> | <a href='contact_me.html'>Contact Me</a> <img src='files/shroom0.jpg' height='15' width='15'> 
+            </div>
+
+			<h1>My dwm Status Bar</h1>
+			<p>
+				<a href="files/dwm_bar.png">
+					<img src="files/dwm_bar.png" width=650 />
+					<br />
+					<small><a href="files/dwm_bar.png">Click to view in full</a></small>
+				</a>
+			</p>
+
+			<p>
+			My dwm (dynamic window manager) status bar is a simple bash script. I broke each piece of status information I needed into separate functions for easy management. Here are the functions I use:
+				<ul>
+					<li>Print MPD current song time</li>
+					<li>Print MPD current song name (Artist - Track Name)</li>
+					<li>Print current volume percentage</li>
+					<li>Print unallocated RAM in Megabytes</li>
+					<li>Print current CPU temperature in Celsius</li>
+					<li>Print remaining battery power percentage</li>
+					<li>Print month and date (month-date) in numerical formats</li>
+					<li>Print current time in 24-hour format</li>
+				</ul>
+			</p>
+
+			<p>All that's left to create a status bar is to insert the functions into <code>xsetroot</code> with the <code>-name</code> tag. Dwm uses xsetroot to display status information on it's bar (i.e., create a status bar).</p>
+
+			<p>
+				<small>xsetroot - "The xsetroot program allows you to tailor the appearance of the background ("root") window on a workstation display running X."</small>
+				<br />
+				<small>Taken from <a href="https://linux.die.net/man/1/xsetroot">xsetroot man page</a></small>
+			</p>
+
+			<p>To run the script during dwm startup, copy and paste this (or create your own) script and save it as a file. Simply give it the correct permissions for your user to execute it (755, 644, etc.), and place the path to the script inside of your <code>.xinitrc</code> file. Ensure that it's placed before the <code>exec dwm</code> command for it to run correctly.</p>
+
+			<p>
+				Your <code>.xinitrc</code> file should look something like this: <br />
+				<br />
+				<code>
+					#!/bin/bash <br />
+					<br />
+					/home/user/path/to/script.sh <br />
+					<br />
+					exec dwm
+				</code>
+			</p>
+
+			<hr />
+
+			<p>
+				Here's the dwm status bar script source code:
+				<br />
+				<br />
+				<code>
+					#!/bin/bash <br />
+					<br />
+					print_mpd_time() { <br />
+						<indent>mpcTime=$(mpc -p 6601 | sed -n 2p | awk '{print $3}')</indent> <br />
+						<indent>echo -e "$mpcTime"</indent> <br />
+					} <br />
+						<br />
+					print_mpd() { <br />
+						<indent>mpcCurrent=$(mpc -p 6601 current)</indent> <br />
+						<indent>echo -e "$mpcCurrent"</indent> <br />
+					} <br />
+						<br />
+					print_volume() { <br />
+						<indent>volume=$(echo $(pulsemixer --get-volume | awk '{print $2}')%)</indent> <br />
+						<indent>echo -e "$volume"</indent> <br />
+					} <br />
+					<br />
+					print_mem() { <br />
+						<indent>memFree=$(($(grep -m1 'MemAvailable:' /proc/meminfo | awk '{print $2}') / 1024))</indent> <br />
+						<indent>memSym=$(echo "MB")</indent> <br />
+						<indent>echo -e "$memFree$memSym"</indent> <br />
+					} <br />
+					<br />
+					print_temp(){ <br />
+						<indent>temp=$(echo $(head -c 2 /sys/class/thermal/thermal_zone0/temp)C)</indent> <br />
+						<indent>echo -e "$temp"</indent> <br />
+					} <br />
+					<br />
+					print_bat(){ <br />
+						<indent>bat="$(awk '{ sum += $1 } END { print sum }' /sys/class/power_supply/BAT*/capacity)"</indent> <br />
+						<indent>batSym=$(echo "%")</indent> <br />
+						<indent>echo -e "$bat$batSym"</indent> <br />
+					} <br />
+					<br />
+					print_date(){ <br />
+						<indent>date=$(date +"%m-%d")</indent> <br />
+						<indent>time=$(date +"%R")</indent> <br />
+						<indent>echo -e "$date |$time"</indent> <br />
+					} <br />
+					<br />
+					separator(){ <br />
+						<indent>sep=$(echo " |")</indent> <br />
+						<indent>echo -e "$sep"</indent> <br />
+					}
+					<br />
+					<br />
+					while true
+					<br />
+					do
+					<br />
+					<br />
+						<indent>xsetroot -name "$(print_mpd_time) $(print_mpd)$(separator)$(print_volume)$(separator)$(print_mem)$(separator)$(print_temp)$(separator)$(print_bat)$(separator)$(print_date)"</indent>
+						<br />
+						<br />
+						sleep 1
+					<br />
+					<br />
+					done
+				</code>
+			</p>
+
+            <div class="footer">
+				2020 (C) Brody Rethy. All rights reserved.
+            </div>
+        </div>
+	</body>
+</html>
