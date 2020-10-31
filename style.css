@@ -65,15 +65,14 @@ big {
 }
 
 .footer {
-    padding: 5px;
+    background-image: url("files/bg.png");
 	text-align: center;
 	float: bottom;
 	display: line;
 }
 
 .menu {
-
-    padding: 5px;
+    background-image: url("files/bg.png");
 	text-align: center;
 	float: top;
 	display: line;
