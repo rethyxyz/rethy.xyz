@@ -1,17 +1,14 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<meta charset="UTF-8" />
-		<meta name="viewport" content="width=device-width" />
-		<link rel="stylesheet" type="text/css" href="style.css" />
-		<link rel="icon" href="files/shroom0.jpg" />
+		<?php include "header.php";?>
         <title>Home - rethy.xyz</title>
 	</head>
 
 	<body>
         <div class="main">
             <div class="menu">
-                <img src='files/shroom0.jpg' height='15' width='15'> <a href='https://rethy.xyz'>Home</a> | <a href='articles.html'>Articles</a> | <a href='computing.html'>Computing</a> | <a href='programming.html'>Programming</a> | <a href='downloads.html'>Downloads</a> | <a href='https://github.com/rethyxyz/'>GitHub</a> | <a href='contact_me.html'>Contact Me</a> <img src='files/shroom0.jpg' height='15' width='15'> 
+				<?php include "menu.php";?>
                 <br />
             </div>
             <br />
@@ -37,7 +34,7 @@
 
             <div class="footer">
                 <br />
-                2020 (C) Brody Rethy. All rights reserved.
+				<?php include "footer.php";?>
             </div>
         </div>
 	</body>
