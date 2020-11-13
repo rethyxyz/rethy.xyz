@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 	<head>
 		<?php include "header.php";?>
@@ -14,8 +13,8 @@
 
             <h1>Articles</h1>
 			<ol>
-				<li><a href="computing.html">Computing</a></li>
-				<li><a href="programming.html">Programming</a></li>
+				<li><a href="computing.php">Computing</a></li>
+				<li><a href="programming.php">Programming</a></li>
 			</ol>
             
             <div class="footer">
