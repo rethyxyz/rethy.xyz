@@ -11,7 +11,7 @@
                 <br />
             </div>
 
-            <h1>Articles</h1>
+            <h1>Reading</h1>
 			<ol>
 				<li><a href="books_that_ive_read.php">Books That I've Read</a></li>
 			</ol>
