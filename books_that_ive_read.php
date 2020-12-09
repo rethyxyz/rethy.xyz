@@ -12,10 +12,12 @@
             </div>
 
             <h1>Books That I've Read</h1>
-            <p>This page serves as a chronicle of the books that I've read (or at least recall reading).</p>
+            <p>This page serves as a chronicle of the books that I've read (or at least recall reading). More will be added whenever I get around to it.</p>
 
             <h2>Fiction</h2>
             <ul>
+                <li>Trainspotting by Irvine Welsh</li>
+                <br>
                 <li>Lost in the Barrens by Farley Mowat</li>
                 <br>
                 <li>Crime and Punishment by Fyodor Dostoevesky</li>
@@ -33,8 +35,6 @@
                 <li>After Dark by Haruki Murakami</li>
                 <li>Kafka on the Shore by Haruki Murakami</li>
                 <li>Norwegian Wood by Haruki Murakami</li>
-                <br>
-                <li></li>
             </ul>
 
             <h2>Non-Fiction</h2>
