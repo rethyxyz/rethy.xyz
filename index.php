@@ -16,7 +16,7 @@
             <img src='files/shroom0.jpg' height='100' width='100' />
 
             <h1>Home</h1>
-                <p> Programming, malware analysis, *nix, and computing. </p>
+                <p> Programming, malware analysis, *nix, computing, and lifestyle. </p>
                 <p> Click on any item found in the menu bar (top of page) to navigate the site. </p>
                 <hr />
                 <center>

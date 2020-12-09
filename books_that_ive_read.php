@@ -42,6 +42,10 @@
             <h2>Non-Fiction</h2>
             <h3>Politics</h3>
             <ul>
+                <li>Industrial Society and Its Future by Ted Kaczynski</li>
+                <br>
+                <li>The Communist Manifesto by Karl Marks and Friedrich Engels</li>
+                <br>
                 <li>Incoherent Empire by Michael Mann</li>
             </ul>
 
