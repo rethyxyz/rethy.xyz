@@ -1,7 +1,7 @@
 <html>
 	<head>
 		<?php include "header.php";?>
-		<title>Lifestyle - rethy.xyz</title>
+		<title>Music - rethy.xyz</title>
 	</head>
 
 	<body>
@@ -11,9 +11,9 @@
                 <br />
             </div>
 
-            <h1>Lifestyle</h1>
+            <h1>Music</h1>
 			<ol>
-				<li><a href="reading.php">Reading</a></li>
+				<li><a href="albums_ive_heard.php">Albums I've Heard</a></li>
 			</ol>
             
             <div class="footer">

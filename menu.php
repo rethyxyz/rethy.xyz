@@ -3,6 +3,7 @@
 		  <a href='https://rethy.xyz'>Home</a> ||
 		  <a href='computing.php'>Computing</a> |
 		  <a href='programming.php'>Programming</a> |
+		  <a href='music.php'>Music</a> |
 		  <a href='lifestyle.php'>Lifestyle</a> ||
 		  <a href='downloads.php'>Downloads</a> ||
 		  <a href='https://github.com/rethyxyz/'>GitHub</a> ||
