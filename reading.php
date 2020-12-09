@@ -1,7 +1,7 @@
 <html>
 	<head>
 		<?php include "header.php";?>
-		<title>Lifestyle - rethy.xyz</title>
+		<title>Reading - rethy.xyz</title>
 	</head>
 
 	<body>
@@ -13,7 +13,7 @@
 
             <h1>Articles</h1>
 			<ol>
-				<li><a href="reading.php">Reading</a></li>
+				<li><a href="books_that_ive_read.php">Books That I've Read</a></li>
 			</ol>
             
             <div class="footer">
