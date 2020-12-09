@@ -72,7 +72,7 @@ Deftones - [2016] Diamond Eyes -->
                 <li>Debut - Bjork</li>
                 <li>Post - Bjork</li>
                 <li>Homogenic - Bjork</li>
-                <li>Medúlla - Bjork</li>
+                <li>Medulla - Bjork</li>
                 <li>In the Flat Field - Bauhaus</li>
                 <li>Filosofem - Burzum</li>
                 <li>Slaughter of the Soul - At the Gates</li>
