@@ -16,11 +16,9 @@
 
 
 			<h2>What Is Moses?</h2>
-			<p>A high-level DDoS (Distributed Denial-of-Service) botnet utility written for research purposes. </p>
+			<p>A tiny DDoS (Distributed Denial-of-Service) botnet utility written for research purposes. </p>
 
 			<p>
-				<img src="files/moses_source_code.png" height="400" alt="Moses source code"/>
-				<br />
 				<small>Moses source code</small> 
 				<br />
 				<small>You can download Moses <a href="https://github.com/rethyxyz/Moses/archive/master.zip">here</a></small>
@@ -29,7 +27,10 @@
 			<h2>How Does Moses Work?</h2>
 			<p>
 				<ul>
-					<li>The <b>Moses</b> program is initialized and placed into an infinite <a href="https://en.wikipedia.org/wiki/While_loop">While</a> loop</li>
+					<li>Moses gets Windows username</li>
+					<li>Moses copies itself to AppData directory, Windows startup folder, and a few others</li>
+					<li>Moses will copy itself to all storage devices connected to the computer (A-Z) if drive exists and permissions allow for it</li>
+					<li><b>Moses</b> is placed into an infinite While loop</li>
 					<ul>
 						<li><b>Moses</b> ingests URL/tar{1,2,3}.html web pages as variables named web_content_{1,2,3}</li>
 						<li><b>Moses</b> checks if the first variable (web_content_1) contains the command "DDoS"</li>
@@ -43,14 +44,14 @@
 			</p>
 
 			<h2>Operation</h2>
-			<p>Each <b>Moses</b> instance is operated globally and is accomplished using a <b>remote_control</b> file (bash and Python versions). The file is used to append commands to your web server using SSH. </p>
+			<p>Each <b>Moses</b> instance is operated globally through the <b>remote_control</b> files (bash and Python versions). The remote appends commands to a web server using SSH.</p>
 
 			<h2>Features</h2>
 			<p>
 				<ul>
-					<li>Each <b>Moses</b> zombie instance is operated indirectly through the use of a web server as an intermediary device</li>
+					<li>Each <b>Moses</b> zombie is operated indirectly through the use of a web server as an intermediary/proxy device</li>
 					<ul>
-						<li>This enforces a layer of anonymity through ensuring there's no direct connection with the CnC server</li>
+						<li>This enforces a layer of anonymity through ensuring there's no direct connection with the CnC (Command and Control) client</li>
 					</ul>
 				</ul>
 			</p>

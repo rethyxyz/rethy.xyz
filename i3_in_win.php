@@ -13,7 +13,7 @@
             </div>
 
             <h1>My i3wm-Like Setup in Windows</h1>
-            <p>I run Linux most of the time, except for when I can't, like when I'm studying cybersecurity (specifically during malware analysis). During those times, I choose to use Windows + My AutoHotkey Master Script + Vim/Vim-like keybindings/programs. My script tries (and succeeds) to create an i3-like environment inside of Windows without the tiling functionality of i3wm. There are a three key portions to the setup, being Firefox for web browser needs, AutoHotkey for defining OS wide keybindings, and gVim (graphical vim) for text editing/programming/writing. I also added a few other customizations, such as F1-12 keys do various actions such as minimize active window, maximize active window, and switch to preview window (better than alt+tab, keyboard chords cause RSI).</p>
+            <p>I run Linux most of the time, except for when I can't, like when I'm studying cybersecurity (specifically during malware analysis). During those times, I choose to use Windows + My AutoHotkey Master Script + Vim/Vim-like keybindings/programs. My setup tries (and succeeds) to create an i3-like environment inside of Windows without the RSI-indusing tiling functionality of i3wm. There are a three key portions to the setup, being Firefox for web browser needs, AutoHotkey for defining OS wide keybindings, and gVim (graphical vim) for text editing/programming/writing (sometimes vscodium too). I also add a few other functionalities, such as F1-12 keys to minimize/maximize active window, switch to previous window (better than alt+tab, keyboard chords cause RSI), and to execute or switch to programs.</p>
 
             <h2>AutoHotkey</h2>
             <p>
