@@ -7,7 +7,7 @@
 	<body>
         <div class="main">
             <div class="menu">
-				<?php include "menu.php";?>
+		<?php include "menu.php";?>
                 <br />
             </div>
 
@@ -76,6 +76,9 @@ Deftones - [2016] Diamond Eyes -->
                 <li>In the Flat Field - Bauhaus</li>
                 <li>Filosofem - Burzum</li>
                 <li>Slaughter of the Soul - At the Gates</li>
+                <li>Either/Or - Elliott Smith</li>
+                <li>Elliott Smith - Elliott Smith</li>
+                <li>Roman Candle - Elliott Smith</li>
             </ul>
 
             <h2>9/10s</h2>
@@ -103,6 +106,9 @@ Deftones - [2016] Diamond Eyes -->
                 </ul>
                 <li>Funeral - Arcade Fire</li>
                 <li>Relationship of Command - At the Drive-In</li>
+                <li>XO - Elliott Smith</li>
+                <li>From a Basement on the Hill - Elliott Smith</li>
+                <li>New Moon - Elliott Smith</li>
             </ul>
 
             <h2>8/10s</h2>
@@ -114,6 +120,7 @@ Deftones - [2016] Diamond Eyes -->
                 <li>Syro - Aphex Twin</li>
                 <li>Peel Session 2 - Aphex Twin</li>
                 <li>Take off Your Pants and Jacket - blink-182</li>
+                <li>Figure 8 - Elliott Smith</li>
             </ul>
 
             <h2>7/10s</h2>
