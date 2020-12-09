@@ -18,6 +18,7 @@
                         <li><a href="3d_rendered_images.php">3D Rendered Images From 1990 to 2005</a></li>
                         <li><a href="window_managers.php">Window Managers</a></li>
                         <li><a href="battlestations.php">Battlestations</a></li>
+                        <li><a href="i3_in_win.php">My i3wm-Like Setup in Windows</a></li>
                     </ol>
                 </p>
 

@@ -32,15 +32,15 @@ font_brown {
 
 code {
 	font-size: Arial;
-    color: #ffffff;
+    color: #000000;
     font-size: 11px;
 }
 
 body {
-	color: #FFFFFF;
+	color: #000000;
 	font-size: 14px;
 	font-family: Arial;
-	background-color: #000000;
+	background-color: #FFFFFF;
 }
 
 a {
@@ -61,18 +61,16 @@ big {
 	float: bottom;
 	min-width: 650px;
 	margin: auto;
-    outline: 2px solid white;
+    outline: 2px solid black;
 }
 
 .footer {
-    background-image: url("files/bg.png");
 	text-align: center;
 	float: bottom;
 	display: line;
 }
 
 .menu {
-    background-image: url("files/bg.png");
 	text-align: center;
 	float: top;
 	display: line;
@@ -83,5 +81,5 @@ big {
 }
 
 table, th, td {
-   border: 1px solid white;
+   border: 1px solid black;
 }
