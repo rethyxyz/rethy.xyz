@@ -31,25 +31,21 @@ font_brown {
 }
 
 code {
-	font-size: Arial;
     color: #000000;
     font-size: 11px;
 }
 
 body {
 	color: #000000;
-	font-size: 14px;
-	font-family: Arial;
 	background-color: #FFFFFF;
 }
 
 a {
-	color: #FF8833;
 	text-decoration: none;
 }
 
 small {
-    font-size: 11px;
+    font-size: 13px;
 }
 
 big {
