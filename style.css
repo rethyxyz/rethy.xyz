@@ -59,9 +59,8 @@ big {
 .main {
     padding: 5px;
 	float: bottom;
-	min-width: 650px;
+	min-width: 680px;
 	margin: auto;
-    outline: 2px solid black;
 }
 
 .footer {
