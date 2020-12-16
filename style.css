@@ -55,12 +55,10 @@ big {
 .main {
     padding: 5px;
 	float: bottom;
-	min-width: 750px;
 	margin: auto;
 }
 
 .footer {
-	text-align: center;
 	float: bottom;
 	display: line;
 }

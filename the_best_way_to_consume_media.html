@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="stylesheet" type="text/css" href="style.css" />
+		<link rel="icon" href="files/shroom0.jpg" />
+		<title>The Best Way to Consume Media - rethy.xyz</title>
+	</head>
+
+	<body>
+        <div class="main">
+			<h1>The Best Way to Consume Media: Newsboat</h1>
+			<small><b>Created: 2020-12-16</b></small>
+			<p>
+				I consume all media (news, new youtube posts, twitch going live notifications, website blog posts, etc.) in a centralized environment using Newsboat.
+				There are a few reasons why I use newsboat over other RSS readers:
+				<ul>
+					<li>Vim keybindings (not default (<a href="https://forums.freebsd.org/threads/newsboat-rss-reader-enable-vim-key-bindings.69448/">here's a link to add them</a>))</li>
+					<li>Centralization: Less distractions, just news</li>
+					<li>Terminal based</li>
+					<li>Extensibility</li>
+					<li>Content is saved and viewable offline</li>
+					<li><a href="https://forums.freebsd.org/threads/newsboat-rss-reader-enable-vim-key-bindings.69448/">Macros</a>: Allows for opening selected link with <b>{program}</b> (allows me to watch YouTube videos in mpv)</li>
+					<ul>
+						
+					</ul>
+				</ul>
+			</p>
+			<p>
+				If that sounds apealing to you, here's how you can get it:
+				<ul>
+					<li><b>Arch based</b>: <code>sudo pacman -S newsboat</code></li>
+					<li><b>Debian based</b>: <code>sudo apt install newsboat</code></li>
+				</ul>
+				To add RSS an feed, simply paste the link into the <code>urls</code> file located at <code>~/.newsboat/</code>.
+				Here are a few RSS feeds to get you started: 
+				<br>
+				<br>
+				<code>
+					https://lukesmith.xyz/rss.xml
+					<br>
+					https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA
+					<br>
+					https://stallman.org/rss/rss.xml
+				</code>
+			</p>
+
+            <div class="footer">
+                <br />
+				<b>2020 (C) Brody Rethy. All rights reserved.</b>
+            </div>
+            <br>
+        </div>
+	</body>
+</html>
