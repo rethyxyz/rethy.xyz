@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="stylesheet" type="text/css" href="style.css" />
+		<link rel="icon" href="files/shroom0.jpg" />
+		<title>The Best Vim Config - rethy.xyz</title>
+	</head>
+
+	<body>
+        <div class="main">
+			<h1>The Best Vim Config</h1>
+			<p>
+				<small><b>Created: 2020-12-23 | Modified: 2020-12-26</b></small>
+			</p>
+			<p>You can find my entire .vimrc <a href="https://raw.githubusercontent.com/rethyxyz/dotfiles/master/.vimrc">here</a>.</p>
+
+			<h2>Autocomplete</h2>
+			<p>This is a vim function that I never see people using. Instead, most opt to use plugins that encorporate an different autocomplete function to fill the gap (a good one being supertab). Little do they know, it already exists by default...</p>
+			<p>
+				<b>While in <code><b>Insert</b></code> Mode</b>
+				<br>
+				<code><b>Ctrl+N/P</b></code>
+				<br>
+				<code><b>Ctrl+X Ctrl+N/P</b></code>
+				<br>
+			</p>
+			<p>Both keybindings achieve the same thing. Ctrl+N/P selects the next or previous item in the autocomplete list.</p>
+
+			<h2>A Built in (Fuzzy) File Finder</h2>
+			<p>
+				By simply adding
+				<br>
+				<br>
+				<code><b>set path+=**</b></code>
+				<br>
+				<br>
+				to your <code><b>.vimrc</b></code>, you enable the option to search recursively using vim's <code>:find</code> command.
+			</p>
+
+			<h2>Rebind Colon (Command Mode) to Semi-Colon</h2>
+			<p>
+				<code><b>:nmap ; :</b></code>
+			</p>
+			<p>
+				Quite simple and effortless compared to original Shift+Semi-Colon key chord.
+			</p>
+
+			<h2>Infinite File Modification History</h2>
+			<p>
+				<code><b>set undofile</b></code> and <code><b>set undodir=~/.vim/undodir</b></code>.
+				This will make vim save all change history for every file.
+				You can find the change files in <code>~/.vim/undodir</code>.
+			</p>
+
+			<h2>Relative Line Number</h2>
+			<p>
+				Relative line numbers allow you to see the lines relative to you both positively and negatively.
+				This allows you to easily spot the exact line you want to go to using <code><b>line number + Return</b></code> or <code><b>- line number + Return</b></code>.
+			</p>
+
+			<h2>No Need For a <code>Nerdtree</code>; Use <code>Netrw</code> and the <code>Leader</code> Key</h2>
+			<p>
+				<b>Note</b>: The Leader key is typically mapped to \ (forward slash).
+			</p>
+			<p>
+				Instead of using a nerdtree to move through directories/files, use <code>netrw</code> and the <code>leader</code> key.
+				I typically take the most common directories I spend time in, and bind their paths to leader like this:
+				<br>
+				<br>
+				<code>:map <leader>ghh :e ~/1TBDrive/github<CR></code>
+				<br>
+				<br>
+				As shown by the code, I change to the <code>github</code> directory by hitting
+				<br>
+				<br>
+				<code>\ g h h</code>
+				<br>
+				<br>
+				in quick succession.
+				This enables me to quickly move around to various working directories.
+				I also take the <code>:Explore</code> command, which opens your current working directory in <code>netrw</code>.
+			</p>
+
+			<h2>Backspace in Insert Mode</h2>
+			<p>
+				I think most vimmers already know about this, but if you don't, you'll probably want to enable it, as I feel it's essential:
+				<br>
+				<br>
+				<code>set backspace=indent,eol,start</code>
+  	 	 		<br>
+				<br>
+				This will enable you to use backspace while in Insert mode.
+			</p>
+
+            <div class="footer">
+                <hr />
+				<center><b>2020 (C) Brody Rethy. All rights reserved.</b></center>
+            </div>
+        </div>
+	</body>
+</html>
