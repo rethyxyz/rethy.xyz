@@ -31,13 +31,13 @@ font_brown {
 }
 
 code {
-    color: #000000;
+    color: #FFFFFF;
     font-size: 11px;
 }
 
 body {
-	color: #000000;
-	background-color: #FFFFFF;
+	color: #FFFFFF;
+	background-color: #000000;
 }
 
 a {
@@ -74,5 +74,5 @@ big {
 }
 
 table, th, td {
-   border: 1px solid black;
+   border: 1px solid white;
 }
