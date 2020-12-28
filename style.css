@@ -2,6 +2,7 @@ indent {
     margin-left: 20px;
 }
 
+
 indent_2 {
     margin-left: 40px;
 }
@@ -31,13 +32,14 @@ font_brown {
 }
 
 code {
-    color: #FFFFFF;
+    font-color: #000000;
+    background-color: #D3D3D3;
     font-size: 11px;
 }
 
 body {
-	color: #FFFFFF;
-	background-color: #000000;
+	color: #000000;
+	background-color: #FFFFFF;
 }
 
 a {
@@ -63,16 +65,10 @@ big {
 	display: line;
 }
 
-.menu {
-	text-align: center;
-	float: top;
-	display: line;
-}
-
-.click_box {
-    padding: 5px;
-}
-
 table, th, td {
-   border: 1px solid white;
+   border: 1px solid black;
+}
+
+img {
+	  border:solid thin grey;
 }

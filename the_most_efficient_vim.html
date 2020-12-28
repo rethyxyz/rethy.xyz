@@ -1,0 +1,105 @@
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+
+<link rel="stylesheet" type="text/css" href="style.css" />
+<link rel="icon" href="files/shroom0.jpg" />
+
+<title>The Most Efficient Vim - rethy.xyz</title>
+</head>
+
+<body>
+<div class="main">
+<h1>The Most Efficient Vim</h1>
+<p><small><b>Created: 2020-12-23 | Modified: 2020-12-28</b></small></p>
+
+<p>The page serves as a demonstration of the best options/features for creating the most efficient vim. You can find my entire .vimrc <a href="https://raw.githubusercontent.com/rethyxyz/dotfiles/master/.vimrc">here</a>.</p>
+
+<h2>Vim's Built in Auto-complete</h2>
+<p>Vim's auto-complete is something that I never see anyone using. Instead, most opt to use plugins that incorporate the same features as the built in one (supertab is the most popular, as far as I know). Little do they know, it already exists by default...</p>
+
+<p>
+While in Insert Mode do <b>Ctrl+n/p</b> or <b>Ctrl+x Ctrl+n/p</b> to sift through an auto-complete list of different words/vars found in your current buffer. Both keybindings mentioned achieve the same thing. <b>Ctrl+n/p</b> selects the next/previous item in a list of recommendations.
+</p>
+
+<p>You can also auto-complete file paths by pressing <b>Ctrl+x Ctrl+f</b> (<b>Ctrl+n/p</b> for next/previous is optional) which will being up a similar menu, but for paths instead of keywords.</p><br>
+
+<h2>Vim's Built in (Fuzzy) File Finder</h2>
+<p>
+By simply adding<br><br>
+<code>set path+=**</code><br><br>
+to your .vimrc, you enable the option to search recursively inside of the directory you're in using vim's <code>:find</code> command.
+</p><br>
+
+<h2>Bind Colon (Command Mode) to Semi-Colon</h2>
+
+<p>Add <code>:nmap ; :</code> to your .vimrc add the functionality (; will not be overwritten). It's more efficient compared to the original Shift+Semi-Colon key chord, and reduces RSI in the long run due to a reduction of key chording.</p><br>
+
+<h2>Defining Macros in .vimrc</h2>
+<p>I'm assuming that you already know how to record/write macros. If you don't, check out <a href="https://vim.fandom.com/wiki/Macros">this</a> tutorial first. If you don't already have a macro, record one now, then open your .vimrc, and write<br><br>
+<code>let @l=""</code><br><br>
+where <code>l</code> is the letter you want to bind the macro to. Then, while in command mode, hit<br><br>
+<code>" (double quote) + l + y y</code><br><br>
+where <code>l</code> is the letter you want to bind the macro to. This will copy the macro contents to vim's register. Then, paste the contents in between the two double quotes ("") of the command previously written out into your .vimrc.
+</p><br />
+
+<h2>Infinite File Modification History</h2>
+<p>
+Add<br /><br />
+<code>set undofile</code><br><br>
+and<br><br>
+<code>set undodir=~/.vim/undodir</code><br><br>
+to your .vimrc. This will setup vim to write all change history of every file to the directory ~/.vim/undodir. This means your undo history is persistent. Even if you close the buffer and vim, your undo history will be accessible when you reopen the file.
+</p><br>
+
+<h2>Relative Line Number</h2>
+<p>This allows you to see the line numbers relative to you both positively and negatively. This lets you easily spot the exact line you want to go to using<br><br>
+<code>line number + Return</code><br><br>
+or<br><br>
+<code> - (minus button) line number + Return</code>.<br><br>
+An example would be <code>20 + Return</code> to go to the positive 20th line relative to you.
+</p><br>
+
+<h2>Bind Everything to the Leader Key</h2>
+<h3>No Need For Nerdtree; Use Netrw Plus the Leader Key</h3>
+<p>
+Instead of using a nerdtree to move through directories/files, use netrw and the leader key. I typically take the most commonly used directories, and bind their paths to leader like this example:<br><br>
+<code>:map &lt;leader&gt;ghh :e ~/1TBDrive/github<CR></code><br><br>
+As shown by the code, I change to the github directory by hitting<br><br>
+<code>\ g h h</code><br><br>
+in quick succession. This enables me to quickly move around to and through various working directories. I also take the <code>:Explore</code> command, which opens your current working directory using netrw in your current buffer.
+</p>
+
+<h3>Don't Type :split/vsplit; Use Leader+c/v</h3>
+<p>
+I cut the current buffer in half vertically using <b>leader+v</b>, and horizontally using <b>leader+c</b>. To replicate, add<br><br>
+<code>:map &lt;leader&gt;v :split<CR></code><br><br>
+<code>:map &lt;leader&gt;c :vsplit<CR></code><br><br>
+to your .vimrc.
+</p>
+
+<h3>Resize Vim Buffers Using Leader+-/=</h3>
+<p>
+This is how i resize active vim buffers. Add these<br><br>
+<code>:map &lt;leader&gt;]- :resize -5&lt;CR&gt;</code><br><br>
+<code>:map &lt;leader&gt;]= :resize +5&lt;CR&gt;</code><br><br>
+<code>:map &lt;leader&gt;- :vertical resize -5&lt;CR&gt;</code><br><br>
+<code>:map &lt;leader&gt;= :vertical resize +5&lt;CR&gt;</code><br><br>
+to your .vimrc.
+</p><br>
+
+<h2>Backspace in Insert Mode</h2>
+<p>
+I think most vimmers already know about this, but if you don't, you'll probably want to enable it, as I feel it's essential to an effective setup:<br><br>
+<code>set backspace=indent,eol,start</code><br><br>
+This will enable you to use backspace while in Insert mode. I feel like there's no reason not to enable this.
+</p>
+</div>
+
+<div class="footer">
+<hr />
+<center><b>2020 (C) Brody Rethy. All rights reserved.</b></center>
+</div>
+</body>
+</html>
