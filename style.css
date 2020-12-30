@@ -2,7 +2,6 @@ indent {
     margin-left: 20px;
 }
 
-
 indent_2 {
     margin-left: 40px;
 }
@@ -32,26 +31,27 @@ font_brown {
 }
 
 code {
-    font-color: #000000;
-    background-color: #D3D3D3;
+    font-color: #FFFFFF;
+    background-color: #a3a3a3;
+	/* D3D3D3 */
     font-size: 11px;
 }
 
 body {
-	color: #000000;
-	background-color: #FFFFFF;
+	color: #FFFFFF;
+	background-color: #000000;
 }
 
 a {
 	text-decoration: none;
 }
 
-small {
-    font-size: 13px;
-}
-
 big {
     font-size: 40px;
+}
+
+small {
+    font-size: 13px;
 }
 
 .main {
