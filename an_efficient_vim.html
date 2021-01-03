@@ -12,7 +12,7 @@
 <body>
 <div class="main">
 <h1>An Efficient Vim</h1>
-<p><small><b>Created: 2020-12-23 | Modified: 2020-12-28</b></small></p>
+<p><small><b>Created: 2020-12-23 | Modified: 2020-01-03</b></small></p>
 
 <p>The page serves as a demonstration of the best options/features for an efficient vim. You can find my entire .vimrc <a href="https://raw.githubusercontent.com/rethyxyz/dotfiles/master/.vimrc">here</a>.</p>
 
@@ -33,8 +33,14 @@ to your .vimrc, you enable the option to search recursively inside of the direct
 </p><br>
 
 <h2>Bind Colon (Command Mode) to Semi-Colon</h2>
-
 <p>Add <code>:nmap ; :</code> to your .vimrc add the functionality (; will not be overwritten). It's more efficient compared to the original Shift+Semi-Colon key chord, and reduces RSI in the long run due to a reduction of key chording.</p><br>
+
+<h2>Defining Filetype Specific Macros</h2>
+<p>
+I use a lot of macros, most being filetype specific. This means that there's no reason to define each globally. Definition go like this:<br><br>
+<code>:autocmd FileType html let @s='macro_contents_go_here'</code><br><br>
+<code>html</code> is the filetype, and everything after that is the macro command. You can also replace <code>html</code> with any other filetype, such as <code>python</code>, <code>c</code>, <code>txt</code>, <code>php</code>, etc.
+</p><br>
 
 <h2>Defining Macros in .vimrc</h2>
 <p>I'm assuming that you already know how to record/write macros. If you don't, check out <a href="https://vim.fandom.com/wiki/Macros">this</a> tutorial first. If you don't already have a macro, record one now, then open your .vimrc, and write<br><br>
@@ -61,25 +67,24 @@ or<br><br>
 An example would be <code>20 + Return</code> to go to the positive 20th line relative to you.
 </p><br>
 
-<h2>Bind Everything to the Leader Key</h2>
-<h3>No Need For Nerdtree; Use Netrw Plus the Leader Key</h3>
+<h2>No Need For Nerdtree; Use Netrw Plus the Leader Key</h2>
 <p>
 Instead of using a nerdtree to move through directories/files, use netrw and the leader key. I typically take the most commonly used directories, and bind their paths to leader like this example:<br><br>
 <code>:map &lt;leader&gt;ghh :e ~/1TBDrive/github<CR></code><br><br>
 As shown by the code, I change to the github directory by hitting<br><br>
 <code>\ g h h</code><br><br>
 in quick succession. This enables me to quickly move around to and through various working directories. I also take the <code>:Explore</code> command, which opens your current working directory using netrw in your current buffer.
-</p>
+</p><br> 
 
-<h3>Don't Type :split/vsplit; Use Leader+c/v</h3>
+<h2>Don't Type :split/vsplit; Use Leader+c/v</h2>
 <p>
 I cut the current buffer in half vertically using <b>leader+v</b>, and horizontally using <b>leader+c</b>. To replicate, add<br><br>
 <code>:map &lt;leader&gt;v :split<CR></code><br><br>
 <code>:map &lt;leader&gt;c :vsplit<CR></code><br><br>
 to your .vimrc.
-</p>
+</p><br> 
 
-<h3>Resize Vim Buffers Using Leader+-/=</h3>
+<h2>Resize Vim Buffers Using Leader+-/=</h2>
 <p>
 This is how i resize active vim buffers. Add these<br><br>
 <code>:map &lt;leader&gt;]- :resize -5&lt;CR&gt;</code><br><br>
