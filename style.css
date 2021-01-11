@@ -31,15 +31,16 @@ font_brown {
 }
 
 code {
-    font-color: #FFFFFF;
-    background-color: #242424;
+	font-family: monospace;
+    font-color: #000000;
+    background-color: #ffffff;
 	/* D3D3D3 */
-    font-size: 11px;
+    font-size: 16px;
 }
 
 body {
-	color: #FFFFFF;
-	background-color: #000000;
+	color: #000000;
+	background-color: #b9acc5;
 }
 
 a {
@@ -58,11 +59,14 @@ small {
     padding: 5px;
 	float: bottom;
 	margin: auto;
+	font-size: 18px;
+	font-family: fantasy;
 }
 
 .footer {
 	float: bottom;
 	display: line;
+	font-family: fantasy;
 }
 
 table, th, td {
