@@ -33,14 +33,14 @@ font_brown {
 code {
 	font-family: monospace;
     font-color: #000000;
-    background-color: #ffffff;
+    background-color: #b9acc5;
 	/* D3D3D3 */
     font-size: 16px;
 }
 
 body {
 	color: #000000;
-	background-color: #b9acc5;
+	background-color: #ffffff;
 }
 
 a {
