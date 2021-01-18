@@ -31,16 +31,16 @@ font_brown {
 }
 
 code {
-	font-family: monospace;
-    font-color: #000000;
+    color: #000000;
     background-color: #b9acc5;
 	/* D3D3D3 */
     font-size: 16px;
 }
 
 body {
-	color: #000000;
-	background-color: #ffffff;
+	font-family: fixed;
+	color: #FFFFFF;
+	background-color: #000000;
 }
 
 a {
@@ -48,29 +48,31 @@ a {
 }
 
 big {
+	font-family: fixed;
     font-size: 40px;
 }
 
 small {
+	font-family: fixed;
     font-size: 13px;
 }
 
 .main {
+	font-family: fixed;
     padding: 5px;
 	float: bottom;
 	margin: auto;
 	font-size: 18px;
-	font-family: fantasy;
 }
 
 .footer {
 	float: bottom;
 	display: line;
-	font-family: fantasy;
 }
 
 table, th, td {
-   border: 1px solid black;
+	font-family: fixed;
+	border: 1px solid black;
 }
 
 img {
