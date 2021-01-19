@@ -58,6 +58,7 @@ small {
     padding: 5px;
 	float: bottom;
 	margin: auto;
+	outline: solid 1px;
 }
 
 .footer {
