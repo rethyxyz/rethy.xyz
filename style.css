@@ -38,7 +38,6 @@ code {
 }
 
 body {
-	font-family: fixed;
 	color: #FFFFFF;
 	background-color: #000000;
 }
@@ -48,21 +47,17 @@ a {
 }
 
 big {
-	font-family: fixed;
     font-size: 40px;
 }
 
 small {
-	font-family: fixed;
     font-size: 13px;
 }
 
 .main {
-	font-family: fixed;
     padding: 5px;
 	float: bottom;
 	margin: auto;
-	font-size: 18px;
 }
 
 .footer {
@@ -71,7 +66,6 @@ small {
 }
 
 table, th, td {
-	font-family: fixed;
 	border: 1px solid black;
 }
 

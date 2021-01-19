@@ -14,7 +14,7 @@
 <h1>An Efficient Vim</h1>
 <p><small><b>Created: 2020-12-23 | Modified: 2020-01-03</b></small></p>
 
-<p>The page serves as a demonstration of the best options/features for an efficient vim. You can find my entire .vimrc <a href="https://raw.githubusercontent.com/rethyxyz/dotfiles/master/.vimrc">here</a>.</p><hr>
+<p>The page serves as a demonstration of the best options/features for an efficient vim. You can find my entire .vimrc <a href="https://raw.githubusercontent.com/rethyxyz/dotfiles/master/.vimrc">here</a>.</p><br>
 
 <h2>Vim's Built in Auto-complete</h2>
 <p>Vim's auto-complete is something that I never see anyone using. Instead, most opt to use plugins that incorporate the same features as the built in one (supertab is the most popular, as far as I know). Little do they know, it already exists by default...</p>
@@ -23,24 +23,24 @@
 While in Insert Mode do <b>Ctrl+n/p</b> or <b>Ctrl+x Ctrl+n/p</b> to sift through an auto-complete list of different words/vars found in your current buffer. Both keybindings mentioned achieve the same thing. <b>Ctrl+n/p</b> selects the next/previous item in a list of recommendations.
 </p>
 
-<p>You can also auto-complete file paths by pressing <b>Ctrl+x Ctrl+f</b> (<b>Ctrl+n/p</b> for next/previous is optional) which will being up a similar menu, but for paths instead of keywords.</p><hr>
+<p>You can also auto-complete file paths by pressing <b>Ctrl+x Ctrl+f</b> (<b>Ctrl+n/p</b> for next/previous is optional) which will being up a similar menu, but for paths instead of keywords.</p><br>
 
 <h2>Vim's Built in (Fuzzy) File Finder</h2>
 <p>
 By simply adding<br><br>
 <code>set path+=**</code><br><br>
 to your .vimrc, you enable the option to search recursively inside of the directory you're in using vim's <code>:find</code> command.
-</p><hr>
+</p><br>
 
 <h2>Bind Colon (Command Mode) to Semi-Colon</h2>
-<p>Add <code>:nmap ; :</code> to your .vimrc add the functionality (; will not be overwritten). It's more efficient compared to the original Shift+Semi-Colon key chord, and reduces RSI in the long run due to a reduction of key chording.</p><hr>
+<p>Add <code>:nmap ; :</code> to your .vimrc add the functionality (; will not be overwritten). It's more efficient compared to the original Shift+Semi-Colon key chord, and reduces RSI in the long run due to a reduction of key chording.</p><br>
 
 <h2>Defining Filetype Specific Macros</h2>
 <p>
 I use a lot of macros, most being filetype specific. This means that there's no reason to define each globally. Definition go like this:<br><br>
 <code>:autocmd FileType html let @s='macro_contents_go_here'</code><br><br>
 <code>html</code> is the filetype, and everything after that is the macro command. You can also replace <code>html</code> with any other filetype, such as <code>python</code>, <code>c</code>, <code>txt</code>, <code>php</code>, etc.
-</p><hr>
+</p><br>
 
 <h2>Defining Macros in .vimrc</h2>
 <p>I'm assuming that you already know how to record/write macros. If you don't, check out <a href="https://vim.fandom.com/wiki/Macros">this</a> tutorial first. If you don't already have a macro, record one now, then open your .vimrc, and write<br><br>
@@ -48,7 +48,7 @@ I use a lot of macros, most being filetype specific. This means that there's no 
 where <code>l</code> is the letter you want to bind the macro to. Then, while in command mode, hit<br><br>
 <code>" (double quote) + l + y y</code><br><br>
 where <code>l</code> is the letter you want to bind the macro to. This will copy the macro contents to vim's register. Then, paste the contents in between the two double quotes ("") of the command previously written out into your .vimrc.
-</p><hr />
+</p><br>
 
 <h2>Infinite File Modification History</h2>
 <p>
@@ -57,7 +57,7 @@ Add<br /><br />
 and<br><br>
 <code>set undodir=~/.vim/undodir</code><br><br>
 to your .vimrc. This will setup vim to write all change history of every file to the directory ~/.vim/undodir. This means your undo history is persistent. Even if you close the buffer and vim, your undo history will be accessible when you reopen the file.
-</p><hr>
+</p><br>
 
 <h2>Relative Line Number</h2>
 <p>This allows you to see the line numbers relative to you both positively and negatively. This lets you easily spot the exact line you want to go to using<br><br>
@@ -65,7 +65,7 @@ to your .vimrc. This will setup vim to write all change history of every file to
 or<br><br>
 <code> - (minus button) line number + Return</code>.<br><br>
 An example would be <code>20 + Return</code> to go to the positive 20th line relative to you.
-</p><hr>
+</p><br>
 
 <h2>No Need For Nerdtree; Use Netrw Plus the Leader Key</h2>
 <p>
@@ -74,7 +74,7 @@ Instead of using a nerdtree to move through directories/files, use netrw and the
 As shown by the code, I change to the github directory by hitting<br><br>
 <code>\ g h h</code><br><br>
 in quick succession. This enables me to quickly move around to and through various working directories. I also take the <code>:Explore</code> command, which opens your current working directory using netrw in your current buffer.
-</p><hr> 
+</p><br> 
 
 <h2>Don't Type :split/vsplit; Use Leader+c/v</h2>
 <p>
@@ -82,7 +82,7 @@ I cut the current buffer in half vertically using <b>leader+v</b>, and horizonta
 <code>:map &lt;leader&gt;v :split<CR></code><br><br>
 <code>:map &lt;leader&gt;c :vsplit<CR></code><br><br>
 to your .vimrc.
-</p><hr> 
+</p><br> 
 
 <h2>Resize Vim Buffers Using Leader+-/=</h2>
 <p>
@@ -92,7 +92,7 @@ This is how i resize active vim buffers. Add these<br><br>
 <code>:map &lt;leader&gt;- :vertical resize -5&lt;CR&gt;</code><br><br>
 <code>:map &lt;leader&gt;= :vertical resize +5&lt;CR&gt;</code><br><br>
 to your .vimrc.
-</p><hr>
+</p><br>
 
 <h2>Backspace in Insert Mode</h2>
 <p>
@@ -103,7 +103,7 @@ This will enable you to use backspace while in Insert mode. I feel like there's 
 </div>
 
 <div class="footer">
-<hr />
+<br>
 <center><b>2020 (C) Brody Rethy. All rights reserved.</b></center>
 </div>
 </body>
