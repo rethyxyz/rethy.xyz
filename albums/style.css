@@ -31,10 +31,10 @@ font_brown {
 }
 
 code {
-    font-color: #FFFFFF;
-    background-color: #242424;
+    color: #000000;
+    background-color: #b9acc5;
 	/* D3D3D3 */
-    font-size: 11px;
+    font-size: 16px;
 }
 
 body {
@@ -58,6 +58,7 @@ small {
     padding: 5px;
 	float: bottom;
 	margin: auto;
+	outline: solid 1px;
 }
 
 .footer {
@@ -66,7 +67,7 @@ small {
 }
 
 table, th, td {
-   border: 1px solid black;
+	border: 1px solid black;
 }
 
 img {
