@@ -13,10 +13,11 @@
 <body>
 <div class="main">
 <h1>Moses.rat</h1>
-<p>
-An modified version of Moses. A tiny RAT targeting Windows systems. I decided to keep it small and limited it to only 4 command modules.<br><br>
+<p><small>Created: 2020-01-26 | Modified: 2020-01-26</small></p>
 
-System modules:
+<p>A modified version of Moses. A tiny RAT targeting Windows systems. I decided to keep it relatively small by limiting it to four command modules. After it's executed on the victim's machine, you can interact with the instance by appending commands to a public web server using the remote control file via SSH. The website it hosts will be accessed by the virus instance, downloading three webpages containing the commands and other info needed for the commands. After the pages are accessed, the page information is quickly purged by the remote. The command is then carried out on the instances, which then becomes dormant again, waiting for the pages to change. Right now the commands are send in plaintext, but in the future I may implement some sort of symmetric encryption.<br><br>
+
+<b>System modules</b>:
 <ul>
 <li>Self destruct</li>
 <li>Check platform</li>
@@ -27,7 +28,7 @@ System modules:
 <li>Download file from mega</li>
 <li>Check if file exists in path</li>
 </ul>
-Command modules:
+<b>Command modules</b>:
 <ul>
 <li>Take screenshot</li>
 <li>Execute command</li>
@@ -35,6 +36,11 @@ Command modules:
 <li>DDoS target web server</li>
 </ul>
 </p>
+
+<p>You can check out the source code <a href="https://github.com/rethyxyz/moses.rat">here</a>.</p><br>
+
+<h1>Legal Disclaimer</h1>
+<p>All tools provided by this project are for research and study purposes only. You must obey the laws and regulations of your country during use. I will not be held responsible for any misuse that may arise during the usage of this project.</p>
 
 </div>
 
