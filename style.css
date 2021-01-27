@@ -73,3 +73,8 @@ table, th, td {
 img {
 	  border:solid thin grey;
 }
+
+.img_box {
+    padding: 0px;
+	width: 25%;
+}
