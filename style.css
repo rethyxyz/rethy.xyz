@@ -30,37 +30,6 @@ font_brown {
 	color: brown;
 }
 
-code {
-    color: #000000;
-    background-color: #b9acc5;
-	/* D3D3D3 */
-    font-size: 16px;
-}
-
-body {
-	color: #FFFFFF;
-	background-color: #000000;
-}
-
-a {
-	text-decoration: none;
-}
-
-big {
-    font-size: 40px;
-}
-
-small {
-    font-size: 13px;
-}
-
-.main {
-    padding: 5px;
-	float: bottom;
-	margin: auto;
-	outline: solid 1px;
-}
-
 .footer {
 	float: bottom;
 	display: line;
@@ -70,11 +39,15 @@ table, th, td {
 	border: 1px solid black;
 }
 
-img {
-	  border:solid thin grey;
+element {
 }
 
-.img_box {
-    padding: 0px;
-	width: 25%;
+.main div {
+    display: flex;
+}
+
+.pd {
+    width: 7em;
+    flex-shrink: 0;
+    padding-bottom: .9em;
 }
