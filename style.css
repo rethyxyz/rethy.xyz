@@ -51,3 +51,7 @@ element {
     flex-shrink: 0;
     padding-bottom: .9em;
 }
+
+img {
+	max-width: 75%;
+}
