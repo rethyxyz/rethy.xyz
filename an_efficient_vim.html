@@ -23,13 +23,13 @@
 While in Insert Mode do <b>Ctrl+n/p</b> or <b>Ctrl+x Ctrl+n/p</b> to sift through an auto-complete list of different words/vars found in your current buffer. Both keybindings mentioned achieve the same thing. <b>Ctrl+n/p</b> selects the next/previous item in a list of recommendations.
 </p>
 
-<p>You can also auto-complete file paths by pressing <b>Ctrl+x Ctrl+f</b> (<b>Ctrl+n/p</b> for next/previous is optional) which will being up a similar menu, but for paths instead of keywords.</p>
+<p>You can also auto-complete file paths by pressing <b>Ctrl+x Ctrl+f</b> (<b>Ctrl+n/p</b> for next/previous is optional) which will bring up a similar menu, but for paths instead of keywords.</p>
 
 <h2><code>vim</code> Built in (Fuzzy) File Finder</h2>
 <p>
 By simply adding<br><br>
 <code>set path+=**</code><br><br>
-to your <code>.vimrc</code>, you enable the option to search recursively inside of the directory you're in using <code>vim</code> <code>:find</code> command.
+to your <code>.vimrc</code>, you enable the option to search recursively inside of the directory you're in using the <code>vim</code> <code>:find</code> command.
 </p>
 
 <h2>Bind Colon (Command Mode) to Semi-Colon</h2>
@@ -37,8 +37,8 @@ to your <code>.vimrc</code>, you enable the option to search recursively inside 
 
 <h2>Defining Filetype Specific Macros</h2>
 <p>
-I use a lot of macros, most being filetype specific. There's no reason to define each globally. My filetype definition go like this:<br><br>
-<code>:autocmd FileType html let @s='macro_contents_go_here'</code><br><br>
+I use a lot of macros, most being filetype specific. It would be useless to define each globally. Filetype definitions go like this:<br><br>
+<code>:autocmd FileType html let @s='macro_contents_goes_here'</code><br><br>
 <code>HTML</code> is the filetype, and everything after that is the macro command. You can also replace <code>html</code> with any other filetype, such as <code>python</code>, <code>c</code>, <code>txt</code>, <code>php</code>, etc.
 </p>
 
@@ -46,8 +46,8 @@ I use a lot of macros, most being filetype specific. There's no reason to define
 <p>I'm assuming that you already know how to record/write macros. If you don't, check out <a href="https://vim.fandom.com/wiki/Macros">this</a> tutorial first. If you don't already have a macro, record one now, then open your <code>.vimrc</code>, and write<br><br>
 <code>let @l=""</code><br><br>
 where <code>l</code> is the letter you want to bind the macro to. Then, while in command mode, hit<br><br>
-<code>" (double quote) + l + y y</code><br><br>
-where <code>l</code> is the letter you want to bind the macro to. This will copy the macro contents to <code>vim</code> register. Then, paste the contents in between the two double quotes ("") of the command previously written out into your <code>.vimrc</code>.
+<code>" (double quote) + l + p</code><br><br>
+to paste the contents. Move the pasted contents between the two double quotes ("") of the command previously written out into your <code>.vimrc</code>. This will allow you to create a persistent macro.
 </p>
 
 <h2>Infinite File Modification History</h2>
@@ -58,12 +58,12 @@ Add<br /><br />
 to your <code>.vimrc</code>. This will setup <code>vim</code> to write all change history of every file to the directory <code>~/.vim/undodir</code>. This means your undo history is persistent. Even if you close the buffer and <code>vim</code>, your undo history will be accessible when you reopen the file.
 </p>
 
-<h2>Relative Line Number</h2>
-<p>This allows you to see the line numbers relative to you both positively and negatively. This lets you easily spot the exact line you want to go to using<br><br>
+<h2>Moving By Relative Line Number</h2>
+<p>This default keybinding will allow you to move by the line number relative to your cursor in both directions (positively and negatively).<br><br>
 <code>line number + Return</code><br><br>
 or<br><br>
 <code> - (minus button) line number + Return</code>.<br><br>
-An example would be <code>20 + Return</code> to go to the positive 20th line relative to you.
+An example would be <code>20 + Return</code> to go to the positive 20th line relative to you. This is the best way to get around.
 </p>
 
 <h2>No Need For Nerdtree; Use Netrw Plus the Leader Key</h2>
@@ -72,7 +72,9 @@ Instead of using a nerdtree to move through directories/files, use netrw and the
 <code>:map &lt;leader&gt;ghh :e ~/1TBDrive/github<CR></code><br><br>
 As shown by the code, I change to the github directory by hitting<br><br>
 <code>\ g h h</code><br><br>
-in quick succession. This enables me to quickly move around to and through various working directories. I also take the <code>:Explore</code> command, which opens your current working directory using netrw in your current buffer.
+in quick succession. This enables me to quickly move around to and through various working directories. I also take the <code>:Explore</code> command, which opens your current working directory using netrw in your current buffer, and bind it to: <code>\ \</code>.
+Add this to your <code>.vimrc</code>:<br><br>
+<code>:map &lt;leader&gt;&lt;leader&gt; :Explore<CR></code>
 </p>
 
 <h2>Don't Type :split/vsplit; Use Leader+c/v</h2>
