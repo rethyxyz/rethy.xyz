@@ -9,123 +9,115 @@
 
 <body>
 <div class="main">
-<h1>My dwm Configuration</h1>
+<h1>My <code>dwm</code> Configuration</h1>
 <p><small><b>Created: 2020-12-25</b> | <b>Modified: 2020-12-25</b></small></p>
 
-<p>You can find my entire configuration <a href="https://github.com/rethyxyz/dotfiles/blob/master/.config/config.h_e550">here</a>.</p><br>
+<p>You can find my entire configuration <a href="https://github.com/rethyxyz/dotfiles/blob/master/.config/config.h_e550">here</a>.</p>
 
 <h2>General Appearance/Theme</h2>
-<img src="files/dwm_setup.png" width=50%>
-<br>
-<small>My setup | Image captured 2020-12-25</small><br>
+
+<center>
+	<img src="files/dwm_setup.png">
+	<br>
+	<small>My setup. Image captured 2020-12-25</small>
+</center>
 
 <h3>Font</h3>
-<p>
-I use classic IBM 8x14 VGA lookalike font called <code>BigBlue TerminalPlus</code>.
-It's my favorite because of its sharpness.
-I dislike any font smoothing or anti-aliasing, as I feel it causes strain.
-</p><br>
+<p>I use the classic IBM 8x14 VGA lookalike font called <code>BigBlue TerminalPlus</code>. It's my favorite because of its sharpness. I dislike any font smoothing or anti-aliasing, as I feel it causes strain. My only issue with the font is it's lack of size options. Each size bigger and smaller than 12 is blurry and asymmetrical. This isn't usually a problem, as I rarely resize my font, but I still wish the option was there.</p>
 
 <h3>Status Bar</h3>
 <p>
-I use xsetroot to aggregate information into a sort of status bar.
-I pack all of the commands I need into a simple bash script, of which I run upon startx.
-</p>
+Like most <code>dwm</code> users, I use <code>xsetroot</code> to aggregate information into a sort of status bar. I pack all of the commands I use into a simple Bash script which I run upon start up.</p>
 
 <p>
-Here's my status bar:
-<br>
-<br>
-<img src="files/status_bar.png" width=50%>
-<br>
-<code><small>mpd song length |mpd Artist - Track |current volume |RAM remaining |CPU temp |battery percentage |date-month |24-hour time</small></code>
-<br>
-<br>
-It's simple, but it functions fully as a status bar.
+Here's how it looks:<br><br>
+<center>
+<img src="files/status_bar.png"><br>
+<code><small>mpd song length |mpd Artist - Track |current volume |RAM remaining |CPU temp |battery percentage |date-month |24-hour time</small></code><br><br>
+</center>
+It's simple, but it fully functions as a status bar.
 Plus, it's dead easy to modify and modular.
 <a href="https://raw.githubusercontent.com/rethyxyz/Scripts/master/dwmbar_e550">You can download it here</a>.
-</p><br>
+</p>
 
 <h2>Keybindings</h2>
 <h3>Alphabet Keys</h3>
 <ul>
-<li><code>modifier</code>+<code>b</code> execute <code>firefox</code></li>
-<li><code>modifier</code>+<code>n</code> execute <code>ncmpcpp</code></li>
-<li><code>modifier</code>+<code>p</code> execute <code>dmenu</code></li>
-<li><code>modifier</code>+<code>r</code> execute <code>ranger</code></li>
-<li><code>modifier</code>+<code>s</code> execute <code>scratchpad</code></li>
-<li><code>modifier</code>+<code>Shift</code>+<code>m</code> execute <code>mutt</code></li>
-<li><code>modifier</code>+<code>Shift</code>+<code>r</code> execute <code>randomize_wallpaper</code></li>
-<li><code>modifier</code>+<code>Shift</code>+<code>n</code> execute <code>newsboat</code></li>
-<li><code>modifier</code>+<code>Shift</code>+<code>s</code> execute <code>soulseek</code></li>
-<li><code>modifier</code>+<code>Shift</code>+<code>t</code> execute <code>todo</code></li>
-<li><code>modifier</code>+<code>Shift</code>+<code>d</code> execute <code>dmenumount</code></li>
-</ul><br>
+<code>
+<li>modifier + b execute firefox</li>
+<li>modifier + n execute ncmpcpp</li>
+<li>modifier + p execute dmenu</li>
+<li>modifier + r execute ranger</li>
+<li>modifier + s execute scratchpad</li>
+<li>modifier + Shift + m  execute mutt</li>
+<li>modifier + Shift + r  execute randomize_wallpaper</li>
+<li>modifier + Shift + n  execute newsboat</li>
+<li>modifier + Shift + s  execute soulseek</li>
+<li>modifier + Shift + t  execute todo</li>
+<li>modifier + Shift + d  execute dmenumount</li>
+</code>
+</ul>
 
 <h3>Secondary Keyboard Keys</h3>
 <ul>
-<li><code>modifier</code>+<code>comma</code> execute <code>mpcseekback</code></li>
-<li><code>modifier</code>+<code>period</code> execute <code>mpcseekfor</code></li>
-<li><code>modifier</code>+<code>Return</code> execute <code>st</code></li>
-</ul><br>
+<code>
+<li>modifier + comma execute mpcseekback</li>
+<li>modifier + period execute mpcseekfor</li>
+<li>modifier + Return execute st</li>
+</code>
+</ul>
 
 <h3>F1-12 Keys</h3>
 <ul>
-<li><code>modifier</code>+<code>F1</code> execute <code>volmute</code></li>
-<li><code>modifier</code>+<code>F2</code> execute <code>voldown</code></li>
-<li><code>modifier</code>+<code>F3</code> execute <code>volup</code></li>
-<li><code>modifier</code>+<code>F5</code> execute <code>brightdown</code></li>
-<li><code>modifier</code>+<code>F6</code> execute <code>brightup</code></li>
-<li><code>modifier</code>+<code>F9</code> execute <code>ncmpcpp</code></li>
-<li><code>modifier</code>+<code>F10</code> execute <code>mpcprev</code></li>
-<li><code>modifier</code>+<code>F11</code> execute <code>mpctoggle</code></li>
-<li><code>modifier</code>+<code>F12</code> execute <code>mpcnext</code></li>
-</ul><br>
+<code>
+<li>modifier + F1 execute volmute</li>
+<li>modifier + F2 execute voldown</li>
+<li>modifier + F3 execute volup</li>
+<li>modifier + F5 execute brightdown</li>
+<li>modifier + F6 execute brightup</li>
+<li>modifier + F9 execute ncmpcpp</li>
+<li>modifier + F10 execute mpcprev</li>
+<li>modifier + F11 execute mpctoggle</li>
+<li>modifier + F12 execute mpcnext</li>
+</code>
+</ul>
 
 <h2>Typical Operation</h2>
-<p>I only use the tiling, and monocle layouts. I type to keep a maximum of three windows max on a single tag (workspace).</p><br>
+<p>I only use the tiling and monocle layouts. I type to keep a maximum of three windows max on a single workspace (tag).</p>
 
-<h2>Workspaces</h2>
+<h2>Patches</h2>
+<p>I use none (I think). I use default dwm, plus the additons to my config.h file.</p>
+
+<h2>Workspaces/Tags</h2>
 <p>
-<b>a-b-c</b> - Dev
-<br>
-<br>
-This is the main development workspace.
-Most of my time spend on my computer is here.
-Typically, <code>vim</code>, and two <code>st</code> instances.
-The other workspaces are used for any overflow terminals.
-<br>
-<br>
-<b>d</b> - Media
-<br>
-<br>
+<b>a-b-c</b> - Dev<br><br>
+This is the main development workspace. Most of my time spent inside of <code>dwm</code> is here. Typically, it's <code>vim</code>, <code>ranger</code>, and an idle <code>st</code> instance.
+</p>
+
+<p>
+<b>d</b> - Media<br><br>
 <code>Mpd</code>, <code>youtube-dl</code> viewer (if any), and <code>newsboat</code> goes here.
-<br>
-<br>
-<b>e</b> - Comunication
-<br>
-<br>
-<code>Telegram-cli</code>, <code>discord</code>, <code>neomutt</code>, and <code>irc</code>.
-<br>
-<br>
-<b>f-g-h</b> - Status terminals
-<br>
-<br>
-Any excess terminals from opened programs go here.
-<br>
-<br>
-<b>i</b> - Web browsing
-<br>
-<br>
-Firefox instances go here.
-Used for anything web browser based.
-That's pretty much it.
+</p>
+
+<p>
+<b>e</b> - Comunication<br><br>
+<code>Telegram-cli</code>, <code>discord</code>, <code>neomutt</code>, and <code>irc</code> (sadly, not <code>irc</code> as much anymore).
+</p>
+
+<p>
+<b>f-g-h</b> - Status terminals<br><br>
+Any excess terminals from opened programs go here (e.g., <code>mpv</code> status text, active backups, scripts running...).
+</p>
+
+<p>
+<b>i</b> - Web browsing<br><br>
+Firefox instances go here. Used for anything web browser based. That's pretty much it.
 </p>
 </div>
 
 <div class="footer">
 <hr />
-<center><b>2020 (C) Brody Rethy. All rights reserved.</b></center>
+<center><b>2020,2021 (C) Brody Rethy. All rights reserved.</b></center>
 </div>
 
 </body>
