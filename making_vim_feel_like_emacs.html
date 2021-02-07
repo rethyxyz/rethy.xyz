@@ -18,7 +18,7 @@
 
 <p><code>Emacs</code>: A text editor, IDE, email client, file manager - and so much more - all in one. A great - yet completely bloated - piece of software. Featureful, yet much in excess. Fast, yet carries around a 1000 pound ball and chain... You get the point.</p>
 
-<p>I should mention, when I say that I want to make <code>vim</code> like Emacs, I don't mean that I want to make <code>vim</code> weight a thousand pounds. I mean that I want to live in <code>vim</code>, and show how you can live in <code>vim</code> like you can in <code>Emacs</code>.</p>
+<p>I should mention, when I say that I want to make <code>vim</code> like Emacs, I don't mean that I want to make <code>vim</code> weigh a thousand pounds. I mean that I want to live in <code>vim</code>, and will show you how you can too.</p>
 
 <p>Even though <code>Emacs</code> is great, it's far from perfect. One might even say it's the Swiss army knife of text editors/IDEs/file managers/email clients/gaming centers/operating systems... Jack of all trades, master of none... What I mean to say, is that <code>Emacs</code> is good, but much too bloated for my liking. I prefer something that's immediately fast - like <code>vim</code> - and uses sensible key bindings. I hate the <code>Emacs</code> key bindings for a hole bunch of reasons I won't get into. I will say this: Even pro-church of <code>Emacs</code> types agree with me (for the most part), that its defaults are RSI-inducing none sense, and terribly inconsistent.</p>
 
@@ -32,25 +32,30 @@ Fair enough. I understand the sentiment. I'd like to stay in <code>vim</code> to
 </p>
 
 <p>
-Here's how you can open <code>WSL</code>, <code>PowerShell</code>, and <code>cmd</code> in Windows 10:
+Here's how you can open <code>WSL</code>, <code>PowerShell</code>, and <code>cmd</code> in your operating system:
 <ul>
 <li><code>:terminal cmd</code></li>
 <li><code>:terminal bash</code></li>
 <li><code>:terminal powershell</code></li>
 </ul>
+This should be cross platform.
 </p>
 
+<p>Basically, you should be using this command inside of <code>vim</code> instead of leaving it to do shell related activities. Even though I use mostly use tiling window managers, I prefer to open a Bash session while inside of <code>vim</code>: It's simpler.</p>
+
 <h2><code>dired</code> Command Equivalent</h2>
-<p><code>Emacs</code> people use <code>dired</code>. <code>vim</code> has something built in that's similar to <code>dired</code> called <code>netrw</code>.</p>
+<p><code>Emacs</code> people use <code>dired</code>. <code>vim</code> has something built in that's similar to <code>dired</code> called <code>netrw</code>. It's just as good.</p>
+
+<p>This lets you have a TUI (terminal user interface) file explorer for file and directory management.</p>
 
 <h2><code>magit</code></h2>
-<p>I don't use this, but someone ported it to <code>vim</code>. <a href="https://github.com/jreybert/vimagit">Download it here</a>. I use the <code>:terminal</code> command + <code>Bash</code> instead.</p>
+<p>I don't use this. No matter, someone ported it to <code>vim</code>. <a href="https://github.com/jreybert/vimagit">Download it here</a>. I use the <code>:terminal</code> command + <code>Bash</code> and <code>git</code> instead.</p>
 
 <h2>Use <code>:split</code>/<code>:vsplit</code></h2>
 <p><code>Emacs</code> people use splits instead of multiple floating <code>Emacs</code> windows. So do I. Now use them!</p>
 
 <h2>Emailing in <code>vim</code></h2>
-<p>Well, this is sort of a hack, as it isn't really built <i>inside</i> <code>vim</code>. Either way, it can be opened in of <code>vim</code> using the <code>:terminal</code> command. Plus, it uses <code>vim</code> key bindings.</p>
+<p>Well, this is sort of a hack, as it isn't really built <i>inside</i> <code>vim</code>. Either way, it can be opened in <code>vim</code> using the <code>:terminal</code> command. Plus, it uses <code>vim</code> key bindings. It's nice to use if you want a centralized console for programs. <code>vim</code> will be come that.</p>
 
 <p>Opening <code>mutt</code> inside of <code>vim</code> is probably still more lightweight than the <code>Emacs</code> equivalents, but I haven't tested this theory.</p>
 
