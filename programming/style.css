@@ -91,6 +91,16 @@ a:active {
     margin: 4px; 
 }
 
+.back_button a {
+    max-width: 150px;
+    max-height: 150px;
+    display: inline-block;
+    border: solid thin grey;
+    border-radius: 1rem;
+    padding: 8px;
+    margin: 4px; 
+}
+
 /* This was stolen from Xah Lee's website at http://xahlee.info (thanks, Xah)*/
 section {
     border: solid thin grey;
