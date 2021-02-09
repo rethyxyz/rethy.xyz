@@ -86,7 +86,6 @@ a:active {
     max-height: 150px;
     display: inline-block;
     border: solid thin grey;
-    border-radius: 1rem;
     padding: 8px;
     margin: 4px; 
 }
@@ -96,7 +95,6 @@ a:active {
     max-height: 150px;
     display: inline-block;
     border: solid thin grey;
-    border-radius: 1rem;
     padding: 8px;
     margin: 4px; 
 }
@@ -106,5 +104,4 @@ section {
     border: solid thin grey;
     padding: .3rem;
     margin: 4px; 
-    border-radius: 1rem;
 }

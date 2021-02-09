@@ -80,13 +80,11 @@ a:active {
   color: blue;
 }
 
-/* This was stolen from Xah Lee's website at http://xahlee.info (thanks, Xah)*/
 .image_box a {
     max-width: 150px;
     max-height: 150px;
     display: inline-block;
     border: solid thin grey;
-    border-radius: 1rem;
     padding: 8px;
     margin: 4px; 
 }
@@ -96,15 +94,12 @@ a:active {
     max-height: 150px;
     display: inline-block;
     border: solid thin grey;
-    border-radius: 1rem;
     padding: 8px;
     margin: 4px; 
 }
 
-/* This was stolen from Xah Lee's website at http://xahlee.info (thanks, Xah)*/
 section {
     border: solid thin grey;
     padding: .3rem;
     margin: 4px; 
-    border-radius: 1rem;
 }
