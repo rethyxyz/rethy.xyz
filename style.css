@@ -80,6 +80,7 @@ a:active {
   color: blue;
 }
 
+/* NOTE TO READER: Some of the CSS here is stolen from Xah Lee's website (http://xahlee.info) and modified to my preferences. He is a god tier functional web designer. Be sure to check out his website. */
 .image_box a {
     max-width: 150px;
     max-height: 150px;
@@ -103,3 +104,5 @@ section {
     padding: .3rem;
     margin: 4px; 
 }
+
+
