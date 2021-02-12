@@ -12,9 +12,9 @@
 <body>
 <div class="main">
 <h1>An Efficient <code>vim</code></h1>
-<p><small><b>Created: 2020-12-23 | Modified: 2020-01-03</b></small></p><hr>
+<p><small><b>Created: 2020-12-23 | Modified: 2020-02-11</b></small></p><hr>
 
-<p>This page serves as a demonstration of the best options/features for an efficient <code>vim</code>. You can find my entire <code>.vimrc</code> <a href="https://raw.githubusercontent.com/rethyxyz/dotfiles/master/.vimrc">here</a>.</p>
+<p>This page serves as a demonstration of the best options/features for an efficient <code>vim</code>. You can find my entire <code>.vimrc</code> <a href="https://raw.githubusercontent.com/rethyxyz/dotfiles/master/.vimrc">here</a>. Add these to your <code>.vimrc</code>.</p>
 
 <h2><code>vim</code> Built in Auto-complete</h2>
 <p><code>vim</code> auto-complete is something that I never see anyone using. Instead, most opt to use plugins that incorporate the same features as the built in one (supertab is the most popular, as far as I know). Little do they know, it already exists by default...</p>
@@ -27,13 +27,11 @@ While in Insert Mode do <b>Ctrl+n/p</b> or <b>Ctrl+x Ctrl+n/p</b> to sift throug
 
 <h2><code>vim</code> Built in (Fuzzy) File Finder</h2>
 <p>
-By simply adding<br><br>
-<code>set path+=**</code><br><br>
-to your <code>.vimrc</code>, you enable the option to search recursively inside of the directory you're in using the <code>vim</code> <code>:find</code> command.
+<code>set path+=**</code>
 </p>
 
 <h2>Bind Colon (Command Mode) to Semi-Colon</h2>
-<p>Add <code>:nmap ; :</code> to your <code>.vimrc</code> to implement the functionality (; will not be overwritten). It's more efficient compared to the original Shift+Semi-Colon key chord, and reduces RSI in the long run.</p>
+<p><code>:nmap ; :</code></p>
 
 <h2>Defining Filetype Specific Macros</h2>
 <p>
@@ -52,10 +50,8 @@ to paste the contents. Move the pasted contents between the two double quotes ("
 
 <h2>Infinite File Modification History</h2>
 <p>
-Add<br /><br />
 <code>set undofile</code><br>
-<code>set undodir=~/.vim/undodir</code><br><br>
-to your <code>.vimrc</code>. This will setup <code>vim</code> to write all change history of every file to the directory <code>~/.vim/undodir</code>. This means your undo history is persistent. Even if you close the buffer and <code>vim</code>, your undo history will be accessible when you reopen the file.
+<code>set undodir=~/.vim/undodir</code>
 </p>
 
 <h2>Moving By Relative Line Number</h2>
@@ -79,28 +75,29 @@ Add this to your <code>.vimrc</code>:<br><br>
 
 <h2>Don't Type :split/vsplit; Use Leader+c/v</h2>
 <p>
-I cut the current buffer in half vertically using <b>leader+v</b>, and horizontally using <b>leader+c</b>. To replicate, add<br><br>
 <code>:map &lt;leader&gt;v :split<CR></code><br>
-<code>:map &lt;leader&gt;c :vsplit<CR></code><br><br>
-to your <code>.vimrc</code>.
+<code>:map &lt;leader&gt;c :vsplit<CR></code>
 </p>
 
 <h2>Resize <code>vim</code> Buffers Using Leader+-/=</h2>
 <p>
-This is how i resize active <code>vim</code> buffers. Add these<br><br>
 <code>:map &lt;leader&gt;]- :resize -5&lt;CR&gt;</code><br>
 <code>:map &lt;leader&gt;]= :resize +5&lt;CR&gt;</code><br>
 <code>:map &lt;leader&gt;- :vertical resize -5&lt;CR&gt;</code><br>
-<code>:map &lt;leader&gt;= :vertical resize +5&lt;CR&gt;</code><br><br>
-to your <code>.vimrc</code>.
+<code>:map &lt;leader&gt;= :vertical resize +5&lt;CR&gt;</code>
 </p>
 
 <h2>Backspace in Insert Mode</h2>
 <p>
-I think most <code>vim</code>mers already know about this, but if you don't, you'll probably want to enable it, as I feel it's essential to an effective setup:<br><br>
-<code>set backspace=indent,eol,start</code><br><br>
-This will enable you to use backspace while in Insert mode. I feel like there's no reason not to enable this.
+<code>set backspace=indent,eol,start</code>
 </p>
+
+<h2>Open in Firefox</h2>
+<p>
+<code>:map &lt;leader&gt;off :exe ':silent !"C:\Program Files\Mozilla Firefox\firefox.exe" "%"'&lt;CR&gt;</code><br><br>
+This is for Windows, but it can be modified to work in linux by changing out the path.
+</p>
+
 </div>
 
 <hr>
