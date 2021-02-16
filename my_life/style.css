@@ -49,6 +49,10 @@ img {
 	max-width: 75%;
 }
 
+b {
+	color: orange;
+}
+
 code {
 	font-family: monospace;
 }
