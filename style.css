@@ -39,45 +39,18 @@ table, th, td {
 	border: 1px solid black;
 }
 
-element {
-}
-
 body {
-	font-family: Arial;
-}
-
-.main div {
-    display: flex;
-}
-
-.pd {
-    width: 7em;
-    flex-shrink: 0;
-    padding-bottom: .9em;
+	font-family: bigblue_terminalplus;
+	color: white;
+	background-color: black;
 }
 
 img {
 	max-width: 75%;
 }
 
-/* unvisited link */
-a:link {
-  color: red;
-}
-
-/* visited link */
-a:visited {
-  color: green;
-}
-
-/* mouse over link */
-a:hover {
-  color: hotpink;
-}
-
-/* selected link */
-a:active {
-  color: blue;
+code {
+	font-family: monospace;
 }
 
 /* NOTE TO READER: Some of the CSS here is stolen from Xah Lee's website (http://xahlee.info) and modified to my preferences. He is a god tier functional web designer. Be sure to check out his website. */
@@ -91,8 +64,6 @@ a:active {
 }
 
 .back_button a {
-    max-width: 150px;
-    max-height: 150px;
     display: inline-block;
     border: solid thin grey;
     padding: 8px;
@@ -105,4 +76,19 @@ section {
     margin: 4px; 
 }
 
+h1 {
+	color: red;
+}
 
+h2 {
+	color: green;
+}
+
+h3 {
+	color: blue;
+}
+
+@font-face {
+	font-family: bigblue_terminalplus;
+	src: url(files/BigBlue_TerminalPlus.TTF);
+}

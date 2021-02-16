@@ -17,8 +17,13 @@
 
 <hr>
 
-<p>A modified version of moses. A tiny RAT targeting Windows systems. I decided to keep it relatively small by limiting it to four command modules. After it's executed on the victim's machine, you can interact with the instance by appending commands to a public web server using the remote control file via SSH. The website it hosts will be accessed by the virus instance, downloading three webpages containing the commands and other info needed for the commands. After the pages are accessed, the page information is quickly purged by the remote. The command is then carried out on the instances, which then becomes dormant again, waiting for the pages to change. Right now the commands are send in plaintext, but in the future I may implement some sort of symmetric encryption.<br><br>
+<p>A modified version of moses, originally a botnet utility. Now, a somewhat tiny RAT targeting Windows systems.</p>
 
+<p>I decided to keep it small by limiting it to four command modules. After it's executed on a victim's machine, you can interact with it by appending commands to a public web server using the remote control file which uses SSH. The website you host is accessed by the virus instance, downloading three webpages containing commands or any other info it may need. After the pages are accessed, its information is quickly purged by the remote. The command is then carried out on the instance, which then becomes dormant again, waiting for the pages to change.</p>
+
+<p>As of now the commands are send in plaintext, but in the future I may implement some sort of symmetric encryption.</p>
+
+<p>
 <b>System modules</b>:
 <ul>
 <li>Self destruct</li>
@@ -30,6 +35,9 @@
 <li>Download file from mega</li>
 <li>Check if file exists in path</li>
 </ul>
+</p>
+
+<p>
 <b>Command modules</b>:
 <ul>
 <li>Take screenshot</li>
