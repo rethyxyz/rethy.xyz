@@ -80,6 +80,10 @@ section {
     margin: 4px; 
 }
 
+iframe {
+	max-width: 75%;
+}
+
 h1 {
 	color: red;
 }
