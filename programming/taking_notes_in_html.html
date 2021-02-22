@@ -1,0 +1,92 @@
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+
+<link rel="stylesheet" type="text/css" href="style.css" />
+<link rel="icon" href="files/shroom0.jpg" />
+
+<title>Taking Notes in HTML - rethy.xyz</title>
+</head>
+
+<body>
+<div class="main">
+<h1>Taking Notes in HTML</h1>
+<p><b><small>Created: 2021-02-21 | Modified: 2021-02-21</small></b></p> <hr>
+
+<p>Something I've recently started doing, about a month or so ago, is taking notes in HTML. Previously, I had been using vim-wiki, and before that vim-notes, which are both semi-similar note taking plugins for <code>vim</code>. I enjoyed each of them, but always felt it was difficult to manage the files they produced. By taking notes using HTML, they are easy to manage, as they are standalone HTML files. I first had the idea while thinking about the need for something stronger and more independant than vim-wiki. Naturally, HTML came up. I already write so much of it, so why not just write notes using the oh-so-powerful HTML? No weird middle-man management systems, just simple files. There are plenty of benefits for doing it this way, which I'll sum up:</p>
+
+<p>
+<ul>
+<li>A familiar format</li>
+<li>Easy to manage</li>
+<li>Highly extensible (CSS)</li>
+    <ul>
+    <li>Themable using style sheets</li>
+    </ul>
+<li>Powerful (more features than vim-wiki, vim-notes, or MS Word)</li>
+<li>Able to display images</li>
+<li>Can be edited using any text editor or IDE</li>
+<li>Easy to turn note page into something for a website</li>
+<li>Simple</li>
+<li>Universal</li>
+</ul>
+</p>
+
+
+
+<h2>How I Make It Easy</h2>
+<p>My <b>vim</b> configuration makes it easy, as I use persistent macros to wrap tags around text quickly.</p>
+
+
+
+<h3>Macros</h3>
+<p>
+<ul>
+<li>@p</li>
+    <ul>
+    <li>Wrap selected in paragraph tags</li>
+    </ul>
+<li>@l</li>
+    <ul>
+    <li>Wrap line in list item tags</li>
+    </ul>
+<li>@u</li>
+    <ul>
+    <li>create ul table</li>
+    </ul>
+<li>@e</li>
+    <ul>
+    <li>wrap selected in center tags</li>
+    </ul>
+<li>@z, x, v</li>
+    <ul>
+    <li>Wrap selected in h1, h2, or h3 tags</li>
+    </ul>
+<li>@c</li>
+    <ul>
+    <li>Wrap selected in code</li>
+    </ul>
+</ul>
+... And plenty more. I can access these macros <b>ONLY</b> when I'm in an HTML file, as they are filetype specific. This allows me to choose different macros for different filetypes, but that's something unrelated. <a href="..\computing\an_efficient_vim.html">Check out this article to see how to implement them</a>. Specificially the section called <b>Defining Filetype Specific Macros</b>. <a href="https://raw.githubusercontent.com/rethyxyz/dotfiles_windows/master/.vimrc">If you just want my config file, click here</a>.
+</p>
+
+<hr>
+
+<p>See also:
+<ul>
+<li><a href="..\computing\an_efficient_vim.html">An Efficient <code>vim</code></a></li>
+</ul>
+</p>
+
+</div> <hr>
+
+<div class="footer">
+<center>
+	<b>2020, 2021 (C) Brody Rethy. All rights reserved.</b> <br>
+	<img src="files\shroom0.jpg" width=25px height=25px>
+</center>
+</div>
+
+</body>
+</html>
