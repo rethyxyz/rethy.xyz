@@ -13,11 +13,16 @@
 <body>
 <div class="main">
 <h1>The Unix Hater's Handbook Overview</h1>
-<p><small>Created: 2021-01-26 | Modified : 2021-01-26</small></p>
+<p><small><b>Created: 2021-01-26 | Modified : 2021-01-26</b></small></p>
 
 <hr>
 
-<center><img src="https://upload.wikimedia.org/wikipedia/en/7/77/UNIX-HATERS_Handbook_cover_ISBN_1-56884-203-1.png" width=20% /><br><small>Sorry, I couldn't find a higher-res image. From <a href="https://en.wikipedia.org/wiki/The_UNIX-HATERS_Handbook">here</a>.</small></center>
+<p>
+<center>
+    <img src="https://upload.wikimedia.org/wikipedia/en/7/77/UNIX-HATERS_Handbook_cover_ISBN_1-56884-203-1.png" width=20% /> <br> <br>
+    <small><b>Sorry, I couldn't find a higher-res image. Taken from <a href="https://en.wikipedia.org/wiki/The_UNIX-HATERS_Handbook">here</a>.</b></small>
+</center>
+</p> <br>
 
 <p>I recently read <i>The Unix Hater's Handbook</i>, which is a lighthearted take on the bad parts of Unix, or at least, the bad parts in their view. Overall, they have some good points, but they didn't convince me that Unix was bad.</p>
 
@@ -34,7 +39,7 @@
 	<li>No real warnings before removing entire files/dirs</li>
 	<li>"rm -r is very easy to hit accidentally... Could delete everything recursively"</li>
 		<ul>
-		<li>rm *.o - rm *>o</li>
+		<li>rm *.o - rm *&gt;o</li>
 		</ul>
 	</ul>
 <li>No recycle bin</li>
@@ -52,11 +57,24 @@ Instead of going chapter to chapter and summarizing, I'll talk about some of the
 
 <h2>No Command Safety Nets</h2>
 <p>
-<img src="files/rm_hell.png" width=25% /><br>
-<small>This is an example from the book.</small><br><br>
+<center>
+    <img src="files/rm_hell.png" width=25% /><br><br>
+    <small><b>This is an example from the book</b></small>
+</center>
+</p> <br>
+
+<p>
 I can't say I've ever done this, but I can definitely see how easy it could. Quite scary, really.<br><br>
-<img src="files/rm_all.png" width=25% /> <br>
-<small>This too.</small><br><br>
+</p><br>
+
+<p>
+<center>
+    <img src="files/rm_all.png" width=25% /> <br><br>
+    <small><b>This too</b></small>
+</center>
+</p> <br>
+
+<p>
 This can be fixed by amending <code>rm</code> to prompt y/n if you want to delete the file/dir. Either put it into a script, or write an alias.
 </p>
 
