@@ -36,13 +36,17 @@ font_brown {
 }
 
 table, th, td {
-	border: 1px solid white;
+	border: 1px solid black;
 }
 
 body {
-	font-family: bigblue_terminalplus;
-	color: white;
-	background-color: black;
+	margin: auto;
+	max-width: 1080px;
+	font-family: monospace;
+	color: black;
+	background-color: white;
+	font-size: 16px;
+	padding: 10px;
 }
 
 img {
@@ -55,6 +59,8 @@ b {
 
 code {
 	font-family: monospace;
+	color: white;
+	background-color: grey;
 }
 
 /* NOTE TO READER: Some of the CSS here is stolen from Xah Lee's website (http://xahlee.info) and modified to my preferences. He is a god tier functional web designer. Be sure to check out his website. */
@@ -97,6 +103,6 @@ h3 {
 }
 
 @font-face {
-	font-family: bigblue_terminalplus;
+	font-family: monospace;
 	src: url(files/BigBlue_TerminalPlus.TTF);
 }

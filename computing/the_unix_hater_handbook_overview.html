@@ -30,20 +30,20 @@
 <ul>
 <li>Inconsistencies in program naming</li>
 	<ul>
-	<li><code>head</code> and <code>tail</code></li>
+	<li>head and tail</li>
 	<li>rm = bad because vague</li>
 </ul>
 
 <li>No command safety nets</li>
 	<ul>
 	<li>No real warnings before removing entire files/dirs</li>
-	<li>"rm -r is very easy to hit accidentally... Could delete everything recursively"</li>
+	<li>"<code>rm -r</code> is very easy to hit accidentally... Could delete everything recursively"</li>
 		<ul>
-		<li>rm *.o - rm *&gt;o</li>
+		<li><code>rm *.o - rm *&gt;o</code></li>
 		</ul>
 	</ul>
 <li>No recycle bin</li>
-<li><code>man</code></li>
+<li>man</li>
 <li>Too much user scripting</li>
 <li>Baby duck syndrome</li>
 <li><i>"For Programmers, Not Users"</i></li>
@@ -53,7 +53,7 @@ Instead of going chapter to chapter and summarizing, I'll talk about some of the
 <font_red>NOTE</font_red>: When I use the word Unix, I'm refering to Unix based operating systems as well, such as Linux.</p>
 
 <h2>Inconsistencies in Similar Programs</h2>
-<p>Their example talks about <code>head</code> and <code>tail</code>, two programs which do similar things. <code>head</code> shows the top of a document, and <code>tail</code> shows the bottom. These two programs take totally different options when they should be taking similar one to remain consistent. This is a fair criticism.</p>
+<p>Their example talks about head and tail, two programs which do similar things. head shows the top of a document, and tail shows the bottom. These two programs take totally different options when they should be taking similar one to remain consistent. This is a fair criticism.</p>
 
 <h2>No Command Safety Nets</h2>
 <p>
@@ -75,14 +75,21 @@ I can't say I've ever done this, but I can definitely see how easy it could. Qui
 </p> <br>
 
 <p>
-This can be fixed by amending <code>rm</code> to prompt y/n if you want to delete the file/dir. Either put it into a script, or write an alias.
+This can be fixed by amending rm to prompt y/n if you want to delete the file/dir. Either put it into a script, or write an alias.
 </p>
 
 <h2>No Recycle Bin</h2>
-<p>This is an issue. It's one of the things I wish would be implemented natively into Unix instead of having DE/WM specific variants. That being said, it isn't too hard to implement yourself. All you need to do is either create a script or an alias that amends <code>rm</code> to move the file to your <code>trash</code> directory instead of deleting it. This would be similar to the purge/remove trash system.</p>
+<p>This is an issue. It's one of the things I wish would be implemented natively into Unix instead of having DE/WM specific variants. That being said, it isn't too hard to implement yourself. All you need to do is either create a script or an alias that amends rm to move the file to your trash directory instead of deleting it. This would be similar to the purge/remove trash system.</p>
+
+<section>
+<small><b>2020-03-03</b></small>
+
+<p>I made my own take on the recycle bin for Linux called rethyxyz-recycle-bin. You can go to <a href="https://github.com/rethyxyz/scripts/">https://github.com/rethyxyz/rethyxyz-recycle-bin/</a>. The base scripting only took approximately 1 hour.</p>
+</section>
+
 
 <h2>man Sucks</h2>
-<p>The authors say that <code>man</code> files suck because 1) they're hard to use, 2) are found in too many different dirs, and 3) are too minimal to be considered a manual. The last one is especially true. The issue really comes down to a naming problem: <code>man</code> is short for manual, when it was/is not manual. <code>man</code> is just an index of the flags/options you can use in a program. These flags include small explanations for each. Their problem is that they think it's a manual, when it isn't.</p>
+<p>The authors say that man files suck because 1) they're hard to use, 2) are found in too many different dirs, and 3) are too minimal to be considered a manual. The last one is especially true. The issue really comes down to a naming problem: man is short for manual, when it was/is not manual. man is just an index of the flags/options you can use in a program. These flags include small explanations for each. Their problem is that they think it's a manual, when it isn't.</p>
 
 <h2>User Scripting</h2>
 <p>They say that user scripting is something that is forced upon the user without choice. I agree. They say that this is something that should be unnecessary to the user. I disagree. Personally, I enjoy scripting, and find that by scripting stuff myself, I am able to understand and manipulate my computer to do what I want. I do understand that some people enjoy being out of control of their computers by using systems that dumb down the UX. In my mind, I should always be using the best tools for job. That's why I create my own scripts. Sometimes, the best way to get the job done is to use multiple tools. There's no point in doing everything by hand by using trash GUIs and having to switch programs each time I want to do a new action. That's just not optimal. I'd rather use the command line and automate the use of multiple programs (tools). After I'm done doing whatever job/task, I'll save the script so I won't every have to think about doing it again. All I'll need to do is run the script and get the job done; No thought. This is why I think user scripting is not an issue, as it enhances the user experience.</p>

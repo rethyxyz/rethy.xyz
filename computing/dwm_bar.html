@@ -12,33 +12,34 @@
 			<h1>My dwm Status Bar</h1>
 			<p>
 				<a href="files/dwm_bar.png">
-					<img src="files/dwm_bar.png" width=650 />
-					<br />
-					<small><a href="files/dwm_bar.png">Click to view in full</a></small>
+					<center>
+						<img src="files/dwm_bar.png" /><br><br>
+						<small>
+							<a href="files/dwm_bar.png">Click to view in full</a>
+						</small>
+					</center> 
 				</a>
 			</p>
 
 			<p>
-				My dwm (dynamic window manager) status bar is a simple bash script. I broke each piece of status information I needed into separate functions for easy management. Here are the functions I use:
+				My dwm (dynamic window manager) status bar is a simple Bash script. I broke each piece of status text I needed into separate functions for easy management and modification. Here are the functions I used:
 				<ul>
-					<li>Print MPD current song time</li>
-					<li>Print MPD current song name (Artist - Track Name)</li>
-					<li>Print current volume percentage</li>
-					<li>Print unallocated RAM in Megabytes</li>
-					<li>Print current CPU temperature in Celsius</li>
-					<li>Print remaining battery power percentage</li>
-					<li>Print month and date (month-date) in numerical formats</li>
-					<li>Print current time in 24-hour format</li>
+					<li>Get MPD current song time</li>
+					<li>Get MPD current song name (Artist - Track Name)</li>
+					<li>Get current volume percentage</li>
+					<li>Get unallocated RAM in Megabytes</li>
+					<li>Get current CPU temperature in Celsius</li>
+					<li>Get remaining battery power percentage</li>
+					<li>Get month and date (month-date) in numerical formats</li>
+					<li>Get current time in 24-hour format</li>
 				</ul>
 			</p>
 
-			<p>Dwm uses xsetroot to display optional status information (i.e., create a status bar).</p>
+			<p>Dwm uses <code>xsetroot</code> to display optional status information (i.e., create a status bar).</p><br>
 
-			<p>
-				<small>xsetroot - "The xsetroot program allows you to tailor the appearance of the background ("root") window on a workstation display running X."</small>
-				<br />
-				<small>Taken from <a href="https://linux.die.net/man/1/xsetroot">xsetroot man page</a></small>
-			</p>
+			<p><blockquote>xsetroot - "The xsetroot program allows you to tailor the appearance of the background ("root") window on a workstation display running X."<br><br> -Taken from <a href="https://linux.die.net/man/1/xsetroot">xsetroot man page</a></blockquote></p>
+
+			<br>
 
 			<p>To run my script with dwm, copy and paste my script into a file (or use/create your own), give the file the correct permissions in order to execute (755, 644, etc.), and place the path/to/your/script inside your <code>.xinitrc</code> file. Ensure that it's placed before the <code>exec dwm</code> command to ensure it executes properly.</p>
 
