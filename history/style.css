@@ -21,10 +21,9 @@ h3 { color: blue; }
 table, th, td { border: 1px solid black; }
 
 
-
 body {
-	font-size: 18px;
-	font-family: monospace;
+	margin: 0 auto;
+	max-width: 1440px;
 	color: white;
 	background-color: black;
 	padding: 10px;
@@ -36,13 +35,9 @@ img {
 }
 
 code {
-	font-family: monospace;
 	color: white;
-	background-color: grey;
-}
-
-small {
-	font-size: 12px;
+	font-size: 14px;
+    border: solid thin grey;
 }
 
 big {
@@ -75,17 +70,9 @@ blockquote {
     margin: 4px; 
 }
 
-
 /*
- * Much of this CSS was stolen from xahlee.info, as 
+ * Much of this CSS was stolen and redesigned from http://xahlee.info, as 
  * his site has very good design.
  *
  * Thanks, Xah.
-*/
-
-/*
-@font-face {
-	font-family: bigblue terminalplus;
-	src: url(files/BigBlue_TerminalPlus.TTF);
-}
 */

@@ -2,61 +2,59 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width" />
+
 <link rel="stylesheet" type="text/css" href="style.css" />
 <link rel="icon" href="files/shroom0.jpg" />
+
 <title>moses - rethy.xyz</title>
 </head>
 
 <body>
 <div class="main">
-<h1><a href="https://github.com/rethyxyz/Moses">moses</a></h1>
-<hr>
+<h1><a href="https://github.com/rethyxyz/Moses">moses</a></h1> <hr>
+<p><center><font color=red>Defunct, but now maintained as separate RAT project. Found <a href="moses_rat.html">here</a></font>.</center></p>
 
-<h2>What Is moses?</h2>
-<p>A tiny DDoS (Distributed Denial-of-Service) botnet utility written for research purposes. </p>
+<p>Tiny DoS (Denial-of-Service) botnet utility written for research purposes. </p>
 
 <p>
-<small>You can download moses <a href="https://github.com/rethyxyz/Moses/archive/master.zip">here</a></small>
+<small>Download moses <a href="https://github.com/rethyxyz/Moses/archive/master.zip">here</a></small>
 </p>
 
-<h2>How Does moses Work?</h2>
+<h2>Steps</h2>
 <p>
 <ul>
-<li><b>moses</b> gets Windows username</li>
-<li><b>moses</b> copies itself to AppData directory, Windows startup folder, and a few others</li>
-<li><b>moses</b> will copy itself to all storage devices connected to the computer (A-Z) if drive exists and permissions allow for it</li>
-<li><b>moses</b> is placed into an infinite While loop</li>
-<ul>
-<li><b>moses</b> ingests URL/tar{1,2,3}.htmll web pages as variables named web_content_{1,2,3}</li>
-<li><b>moses</b> checks if the first variable (web_content_1) contains the command "DDoS"</li>
-<ul>
-<li>If it's found, the start_ddos_attack() function is called while taking the second variable (web_content_2) as the first argument for the destination IP address, and the second (web_content_3) for the DDoS attack end time in 24-hour time format</li>
-</ul>
-<li><b>moses</b> sleeps for six seconds</li>
-<li>The loop starts again</li>
-</ul>
+<li>Get Windows username</li>
+<li>Auto-replicate to {AppData,shell:startup}</li>
+<li>Auto-replicate to all connected storage devices (letters A-Z) if permissions allow</li>
+<li><b>Enter infinite loop</b>:</li>
+	<ul>
+	<li>Download $URL/tar{1,2,3}.html web pages, set content as variables named <code>web_content_{1,2,3}</code></li>
+	<li>Check if <code>web_content_1</code> matches string "DoS"</li>
+		<ul>
+		<li>If so, execute <code>start_dos_attack()</code> function. <code>web_content_2</code> for destination IP address, <code>web_content_3</code> for attack end time in 24-hour time format</li>
+		</ul>
+	<li>Sleep for six seconds</li>
+	</ul>
 </ul>
 </p>
 
 <h2>Operation</h2>
-<p>Each <b>moses</b> instance is operated globally through the <b>remote_control</b> files (bash and Python versions). The remote appends commands to a web server using SSH.</p>
+<p><b>moses</b> instances are operated globally through <b>remote_control</b> files (there exists Bash and Python versions). Appends data to web server pages using SSH.</p>
 
 <h2>Features</h2>
 <p>
 <ul>
-<li>Each <b>moses</b> zombie is operated indirectly through the use of a web server as an intermediary/proxy device</li>
-<ul>
-<li>This enforces a layer of anonymity by ensuring there's no direct connection with the target (victim) machine.</li>
-</ul>
+<li><b>moses</b> zombie is operated indirectly through the use of a web server as an intermediary/proxy device</li>
+	<ul>
+	<li>This enforces a layer of anonymity by ensuring there's no direct connection with the target (victim) machine</li>
+	</ul>
 </ul>
 </p>
 
 <h2>Legal Disclaimer</h2>
 <p>All tools provided by this project are for research and study purposes only. You must obey the laws and regulations of your country during use. I will not be held responsible for any misuse that may arise during the usage of this project.</p>
 
-</div>
-
-<hr>
+</div> <hr>
 
 <div class="footer">
 <center><b>2020 (C) Brody Rethy. All rights reserved.</b></center>
