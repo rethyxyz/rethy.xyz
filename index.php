@@ -1,7 +1,6 @@
 <html>
     <head>
         <?php include 'header.php';?>
-
         <title>Home - rethy.xyz</title>
     </head>
 
@@ -13,6 +12,8 @@
                     <h3> <a href="https://rethy.xyz/">https://rethy.xyz/</a> </h3>
                 </center>
             </p>
+
+            <hr>
 
             <p>
                 <big><b>Schizo notes</b></big>

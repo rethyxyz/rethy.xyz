@@ -1,19 +1,16 @@
 <!DOCTYPE html>
 <html>
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width" />
-
-<link rel="stylesheet" type="text/css" href="style.css" />
-<link rel="icon" href="files/shroom0.jpg" />
-
-<title>A Case for Tiling Window Manager Usage - rethy.xyz</title>
-</head>
+	<head>
+		<?php include "header.php"; ?>
+		<title>A Case for Tiling Window Manager Usage - rethy.xyz</title>
+	</head>
 
 <body>
 <div class="main">
 <h1>A Case <i>for</i> Tiling Window Manager Usage</h1>
-<p><small><b>Created: 2021-01-23 | Modified: 2021-03-13</b></small></p> <hr>
+
+
+<p><small><b>Created: 2021-01-23 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></b></small></p> <hr>
 
 <p>I've recently been hearing more and more arguments against the usage of tiling window managers. More specifically, I've been hearing about people disliking TWM usage because of the need to configure things yourself, which to them is <i>"a waste of time"</i>. They'd rather run something that immediately takes care of configuration for them. This narrative has been popping up more and more on sites like /g/ (if you don't know, you won't know) ), lainchan, forums, etc. I'll debunk Xah's "Why Tiling Window Manager Sucks" article, as well as some of the typical arguments brought up when speaking against TWMs...</p>
 
@@ -36,7 +33,7 @@
 <h3>Quick Preface</h3>
 <p>First, I'd like to recognize the fact that Xah Lee is a genius. He has contributed immensely to the world of modern day computing and mathematics, and should be recognized as such.</p>
 
-<p>That being said, I believe that his understanding (or misunderstanding) of TWMs is: Grossly miscalculated, and comes from a point of view of ignorance and negative bias on the subject (to put it nicely, <a href="http://xahlee.info/UnixResource_dir/freebooks.php">Xah has a massive hatred of all things Unix</a>, and mostly rightfully so).</p>
+<p>That being said, I believe that his understanding (or misunderstanding) of TWMs is: Grossly miscalculated, and comes from a point of view of ignorance and negative bias on the subject (to put it nicely, <a href="http://xahlee.info/UnixResource_dir/freebooks.html">Xah has a massive hatred of all things Unix</a>, and mostly rightfully so).</p>
 
 <p>In case you don't know, his article is one that very generally bashes all TWMs. If you are a TWM consumer, like myself, someone who has tried the majority of TWMs out there, you are able to see that he doesn't know what he's talking about and hasn't used them. He tries to make up for his weak arguments through ad-homs, and it shows.</p>
 
@@ -96,14 +93,12 @@
 <section>
 <p><b><small>2020-02-16</small></b></p>
 <p><img src="files/another_person_posts.PNG" /></p>
-<p>Another damn post on /g/.</p>
+<p>Another damned post on /g/.</p>
 </section>
 
 </div> <hr>
 
-<div class="footer">
-<center><b>2020 (C) Brody Rethy. All rights reserved.</b></center>
-</div>
+<?php include "footer.php"; ?>
 
 </body>
 </html>

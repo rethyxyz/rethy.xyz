@@ -1,28 +1,32 @@
 <html>
 	<head>
-		<meta charset='UTF-8' />
-		<meta name='viewport' content='width=device-width' />
-		<link rel='stylesheet' type='text/css' href='style.css' />
-		<link rel='icon' href='files/shroom0.jpg' />
+		<?php include "header.php"; ?>
 		<title>My dwm Status Bar - rethy.xyz</title>
 	</head>
 
 	<body>
         <div class="main">
 			<h1>My dwm Status Bar</h1>
+			<p><small><b>Created: 2020-??-?? | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></b></small></p>
+
+			<!-- 
+				TODO: Update this page with my new taskbar system
+			-->
+
+			<hr>
+
 			<p>
 				<a href="files/dwm_bar.png">
 					<center>
 						<img src="files/dwm_bar.png" /><br><br>
-						<small>
-							<a href="files/dwm_bar.png">Click to view in full</a>
-						</small>
+						<small> <a href="files/dwm_bar.png">Click to view in full</a> </small>
 					</center> 
 				</a>
 			</p>
 
 			<p>
-				My dwm (dynamic window manager) status bar is a simple Bash script. I broke each piece of status text I needed into separate functions for easy management and modification. Here are the functions I used:
+				My dwm (dynamic window manager) status bar is a simple Bash script. I broke each piece of status text I needed into separate functions for easy management and modification.
+				Here are the functions I used:
 				<ul>
 					<li>Get MPD current song time</li>
 					<li>Get MPD current song name (Artist - Track Name)</li>

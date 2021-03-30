@@ -12,7 +12,7 @@
 <body>
 <div class="main">
 <h1>About Richard Stallman's Odd Website</h1>
-<p><b><small>Created: 2021-02-20 | Modified: 2021-02-20</small></b></p><hr>
+<p><b><small>Created: 2021-02-20 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></small></b></p><hr>
 
 <p><b>Note</b> I am not ridiculing either him or the things he shares on his personal website. I think that it's all great. Even more so, I enjoy that he shares the parts of life that some would see as odd. I'm hoping that more people act as he does. We, as people, still aren't completely genuine with others, but are moving in that direction by breaking societal norms more and more. I'm hopeful.</p>
 
@@ -55,7 +55,7 @@
 
 
 <section>
-<p><b><a href="https://stallman.org/articles/mouth.php"><h2>"My small mouth"</h2></a></b></p>
+<p><b><a href="https://stallman.org/articles/mouth.html"><h2>"My small mouth"</h2></a></b></p>
 <blockquote>When I was young, my mother used to say I had a big mouth.</blockquote>
 
 <blockquote>Around 2003, I had a root canal operation in a molar at the back of my jaw. The dentist had trouble gaining access and said that my mouth was unusually small.</blockquote>
@@ -68,14 +68,14 @@
 
 
 <section>
-<p><b><a href="https://stallman.org/articles/on-hacking.php"><h2>"On Hacking"</h2></a></b></p>
+<p><b><a href="https://stallman.org/articles/on-hacking.html"><h2>"On Hacking"</h2></a></b></p>
 <p>He gives a really weird and mundane story about the essence of hacking, and that it's not just limited to computer usage.</p>
 </section>
 
 
 
 <section>
-<p><b><a href="https://stallman.org/articles/extreme.php"><h2>Extreme P*rn*graphy Law in the UK</h2></a></b></p>
+<p><b><a href="https://stallman.org/articles/extreme.html"><h2>Extreme P*rn*graphy Law in the UK</h2></a></b></p>
 <p>I won't even copy and paste this one onto my website because of it's graphic nature and hot take. There are no images or videos, but it is textually graphic, so be aware if you're weak-minded (only joking).</p>
 <p>The controversy comes from 1st, his exclamation that none of this should be illegal if it causes no harm, and then the story that the gives, about a parrot sexually assaulting him. I won't go into it any further, </p>
 </section>
@@ -94,9 +94,7 @@ See also:
 
 <hr>
 
-<div class="footer">
-<center><b>2020,2021 (C) Brody Rethy. All rights reserved.</b></center>
-</div>
+<?php include "footer.php"; ?>
 
 </body>
 </html>

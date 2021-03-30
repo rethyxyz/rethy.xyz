@@ -1,18 +1,13 @@
 <html>
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width" />
-
-<link rel="stylesheet" type="text/css" href="style.css" />
-<link rel="icon" href="files/shroom0.jpg" />
-
-<title>Bad Openbox Configuration - rethy.xyz</title>
-</head>
+	<head>
+		<?php include "header.php"; ?>
+		<title>Bad Openbox Configuration - rethy.xyz</title>
+	</head>
 
 <body>
 <div class="main">
 <h1>Bad Openbox Configuration</h1>
-<p><b><small>Created: 2021-03-13 | Modified: 2021-03-13</small></b></p><hr>
+<p><b><small>Created: 2021-03-13 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></small></b></p><hr>
 
 <p>I haven't touched Openbox in eight years or so. Back when I started using Linux, it was the first WM (Window Manger) I really got deep into, starting from my first use of Crunchbang, a now defunct Debian-based distribution. I mained this back in the day. It was pretty good at the time, and still is. It was a WM that (en)forced a sleek minimal design while keeping the full functionality of a DE (Desktop Environment).</p>
 
@@ -40,12 +35,7 @@
 
 </div> <hr>
 
-<div class="footer">
-<center>
-	<b>2020, 2021 (C) Brody Rethy. All rights reserved.</b> <br>
-	<img src="files\shroom0.jpg" width=25px height=25px>
-</center>
-</div>
+<?php include "footer.php"; ?>
 
 </body>
 </html>

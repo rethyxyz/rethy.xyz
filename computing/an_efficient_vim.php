@@ -1,18 +1,13 @@
 <html>
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width" />
-
-<link rel="stylesheet" type="text/css" href="style.css" />
-<link rel="icon" href="files/shroom0.jpg" />
-
-<title>An Efficient vim - rethy.xyz</title>
-</head>
+	<head>
+		<?php include "header.php"; ?>
+		<title>An Efficient vim - rethy.xyz</title>
+	</head>
 
 <body>
 <div class="main">
 <h1>An Efficient vim</h1>
-<p><small><b>Created: 2020-12-23 | Modified: 2020-02-11</b></small></p> <hr>
+<p><small><b>Created: 2020-12-23 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></b></small></p> <hr>
 
 <p>This page serves as a chronicle of the best options/features for creating a truly efficient vim. You can find my entire <code>.vimrc</code> <a href="https://raw.githubusercontent.com/rethyxyz/dotfiles/master/.vimrc">here</a>. Add these to your <code>.vimrc</code>.</p>
 
@@ -124,12 +119,7 @@ See also:
 
 <hr>
 
-<div class="footer">
-<center>
-	<b>2020, 2021 (C) Brody Rethy. All rights reserved.</b> <br>
-	<img src="files\shroom0.jpg" width=25px height=25px>
-</center>
-</div>
+<?php include "footer.php"; ?>
 
 </body>
 </html>
