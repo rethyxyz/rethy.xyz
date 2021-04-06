@@ -67,12 +67,10 @@
             <p>
                 <h1><a href="sitemap.php">Sitemap</a></h1>
             </p>
+        </div>
 
-    </div>
+        <hr>
 
-    <hr>
-
-    <?php include 'footer.php';?>
-
+        <?php include 'footer.php';?>
     </body>
 <html>
