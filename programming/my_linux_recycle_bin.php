@@ -1,18 +1,13 @@
 <html>
 <head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width" />
-
-<link rel="stylesheet" type="text/css" href="style.css" />
-<link rel="icon" href="files/shroom0.jpg" />
-
+	<?php include 'header.php';?>
 <title>My Recycle Bin for Linux - rethy.xyz</title>
 </head>
 
 <body>
 <div class="main">
 <h1>rethyxyz-recycle-bin for Linux</h1>
-<p> <b> <small>Created: 2021-03-02 | Modified: 2021-03-02</small> </b> </p> <hr>
+<p> <b> <small>Created: 2021-03-02 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></small> </b> </p> <hr>
 
 <p>I recently decided to make a recycle bin setup for Linux. I made it into a Bash script that's simply meant to used instead of <code>rm</code>. On my system, I use an alias for <code>rm</code> that points to my script. Technically the script moves the file into the <code>.Trash</code> directory. I'm glad I created it, because it's safer than <code>rm</code>, and easier too. It also doesn't descriminate between file or directory. This is the typical program operation:</p>
 
@@ -56,12 +51,6 @@ See also:
 
 </div> <hr>
 
-<div class="footer">
-<center>
-	<b>2020, 2021 (C) Brody Rethy. All rights reserved.</b> <br>
-	<img src="files\shroom0.jpg" width=25px height=25px>
-</center>
-</div>
-
-</body>
+		<?php include 'footer.php';?>
+	</body>
 </html>

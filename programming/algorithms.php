@@ -1,12 +1,9 @@
 <!DOCTYPE html>
 <html>
-<head>
-<meta charset='UTF-8' />
-<meta name='viewport' content='width=device-width' />
-<link rel='stylesheet' type='text/css' href='style.css' />
-<link rel='icon' href='files/shroom0.jpg' />
-<title>Algorithms - rethy.xyz</title>
-</head>
+    <head>
+        <?php include 'header.php';?>
+        <title>Algorithms - rethy.xyz</title>
+    </head>
 
 <body>
 <div class="main">
@@ -130,10 +127,7 @@ The number placement is decided through a comparison using a pivot number (which
 <p>I am an autodidact. I have no real <i>"formal"</i> educational background in Mathematics/Computer Science. Therefore, most, if not all, of the variable names/terms I use during the explanations are not necessarily the truest translation of any arithmetic formulas. My explanations are to make the individual algorithms easy and simple to comprehend, not so much for the theoretical portion of it (there is still a bit, though).</p>
 </div>
 
-<div class="footer">
-<br>
-<center><b>2020 (C) Brody Rethy. All rights reserved.</b></center>
-</div>
+    <?php include 'footer.php';?>
 
 </body>
 </html>

@@ -1,18 +1,13 @@
 <html>
 <head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width" />
-
-<link rel="stylesheet" type="text/css" href="style.css" />
-<link rel="icon" href="files/shroom0.jpg" />
-
+	<?php include 'header.php';?>
 <title>rethy.xyz Website Theme - rethy.xyz</title>
 </head>
 
 <body>
 <div class="main">
 <h1>rethy.xyz Website Theme</h1>
-<p> <b> <small>Created: 2021-02-24 | Modified: 2021-02-24</small> </b> </p> <hr>
+<p> <b> <small>Created: 2021-02-24 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></small> </b> </p> <hr>
 
 <p>You may have noticed my unorthodox website design. It's very purposeful.</p>
 
@@ -39,12 +34,6 @@ See also:
 
 </div> <hr>
 
-<div class="footer">
-<center>
-	<b>2020, 2021 (C) Brody Rethy. All rights reserved.</b> <br>
-	<img src="files\shroom0.jpg" width=25px height=25px>
-</center>
-</div>
-
-</body>
+		<?php include 'footer.php';?>
+	</body>
 </html>

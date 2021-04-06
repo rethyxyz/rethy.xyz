@@ -1,16 +1,13 @@
 <html>
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width" />
-<link rel="stylesheet" type="text/css" href="../style.css" />
-<link rel="icon" href="../files/shroom0.jpg" />
-<title>Wide Angle by Hybrid - rethy.xyz</title>
-</head>
+    <head>
+        <?php include '../header.php';?>
+        <title>Wide Angle by Hybrid - rethy.xyz</title>
+    </head>
 
 <body>
 <div class="main">
 <h1>Wide Angle - Hybrid</h1>
-<p><small><b>Created: 2020-12-16 | Modified: 2020-01-29</b></small></p><hr>
+<p><small><b>Created: 2020-12-16 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></b></small></p><hr>
 
 <img src="album_covers/wide_angle_hybrid.jpg" width=20% />
 
@@ -22,9 +19,5 @@
 
 <hr>
 
-<div class="footer">
-<center><b>2020 (C) Brody Rethy. All rights reserved.</b></center>
-</div>
-
-</body>
+    </body>
 </html>

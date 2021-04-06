@@ -1,13 +1,8 @@
 <html>
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width" />
-
-<link rel="stylesheet" type="text/css" href="style.css" />
-<link rel="icon" href="files/shroom0.jpg" />
-
-<title>Buy Koss Headphones - rethy.xyz</title>
-</head>
+	<head>
+		<?php include 'header.php';?>
+		<title>Buy Koss Headphones - rethy.xyz</title>
+	</head>
 
 <body>
 <div class="main">
@@ -85,9 +80,6 @@ This mod gives you two MMCX connectors for removable cables.
 
 <hr>
 
-<div class="footer">
-<center><b>2020 (C) Brody Rethy. All rights reserved.</b></center>
-</div>
-
-</body>
+		<?php include 'footer.php';?>
+	</body>
 </html>

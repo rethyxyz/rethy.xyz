@@ -1,20 +1,17 @@
 <!DOCTYPE html>
 <html>
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width" />
-
-<link rel="stylesheet" type="text/css" href="style.css" />
-<link rel="icon" href="files/shroom0.jpg" />
-
-<title>Movies I've Watched - rethy.xyz</title>
-</head>
+	<head>
+		<?php include 'header.php';?>
+		<title>Movies I've Watched - rethy.xyz</title>
+	</head>
 
 <body>
 <div class="main">
 <h1>Movies I've Watched</h1> <hr>
 
 <p>This page serves as a chronicle of the movies I've watched. More will be added whenever I get around to it.</p>
+
+<p>Just because a movie is on here, doesn't mean I enjoyed it.</p>
 
 <ol>
 <li>127 Hours</li>
@@ -177,12 +174,6 @@
 
 <hr>
 
-<div class="footer">
-<center>
-	<b>2020, 2021 (C) Brody Rethy. All rights reserved.</b> <br>
-	<img src="files\shroom0.jpg" width=25px height=25px>
-</center>
-</div>
-
-</body>
+		<?php include 'footer.php';?>
+	</body>
 </html>

@@ -1,18 +1,13 @@
 <html>
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width" />
-
-<link rel="stylesheet" type="text/css" href="style.css" />
-<link rel="icon" href="files/shroom0.jpg" />
-
-<title>Apetor - rethy.xyz</title>
-</head>
+	<head>
+		<?php include 'header.php';?>
+		<title>Apetor - rethy.xyz</title>
+	</head>
 
 <body>
 <div class="main">
 <h1>Apetor</h1>
-<p><b><small>Created: 2021-02-16 | Modified: 2021-02-16</small></b></p> <hr>
+<p><b><small>Created: 2021-02-16 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></small></b></p> <hr>
 
 <p>Apetor: One of my favorite YouTube channels. The one running the channel is named Tor Eckhoff. I first found him during college. Not sure how exactly, probably just YouTube recommendations. Upon finding him, I was instantly hooked. Not just by the humor, but by his simple yet stylistic film making abilities. Also, the landscapes, of course. Most of his videos are outdoors, taking place in Norway. He really makes good use of framing and makes an illusion of fluent movement through smart cuts b-roll footage.</p>
 
@@ -70,12 +65,6 @@ See also:
 
 </div> <hr>
 
-<div class="footer">
-<center>
-	<b>2020, 2021 (C) Brody Rethy. All rights reserved.</b> <br>
-	<img src="files\shroom0.jpg" width=25px height=25px>
-</center>
-</div>
-
-</body>
+		<?php include 'footer.php';?>
+	</body>
 </html>
