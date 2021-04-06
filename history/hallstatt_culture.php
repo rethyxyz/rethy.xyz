@@ -1,18 +1,15 @@
 <html>
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width" />
-
-<link rel="stylesheet" type="text/css" href="style.css" />
-<link rel="icon" href="files/shroom0.jpg" />
-
-<title>Hallstatt Culture - rethy.xyz</title>
-</head>
+	<head>
+		<?php include 'header.php';?>
+		<title>Hallstatt Culture - rethy.xyz</title>
+	</head>
 
 <body>
 <div class="main">
 <h1>Hallstatt Culture</h1>
-<p><b><small>Created: 2021-02-12 | Modified: 2021-03-06</small></b></p> <hr>
+<p><b><small>Created: 2021-02-12 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></small></b></p>
+
+<hr>
 
 <p><big><center><a href="term_definitions.php">View my terminology page for word definitions</a></center></big></p><br>
 
@@ -107,13 +104,6 @@ Primary zones:
 
 <hr>
 
-<div class="footer">
-<center>
-	<b>2020, 2021 (C) Brody Rethy. All rights reserved.</b> <br>
-	<img src="files\shroom0.jpg" width=25px height=25px>
-</center>
-<center>
-</div>
-
-</body>
+		<?php include 'footer.php';?>
+	</body>
 </html>

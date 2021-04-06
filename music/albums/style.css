@@ -1,100 +1,81 @@
-indent {
-    margin-left: 20px;
-}
+indent { margin-left: 20px; }
+indent_2 { margin-left: 40px; }
+indent_3 { margin-left: 60px; }
+indent_4 { margin-left: 80px; }
 
-indent_2 {
-    margin-left: 40px;
-}
+font_green { color: darkgreen; }
+font_red { color: darkred; }
+font_blue { color: darkblue; }
+font_brown { color: brown; }
 
-indent_3 {
-    margin-left: 60px;
-}
+.footer { float: bottom; display: line; }
 
-indent_4 {
-    margin-left: 80px;
-}
+b { color: rgb(255, 100, 0); }
 
-font_green {
-    color: darkgreen;
-}
+iframe { max-width: 75%; }
 
-font_red {
-    color: darkred;
-}
+h1 { color: rgb(255, 0, 0); }
+h2 { color: rgb(0, 255, 0); }
+h3 { color: rgb(0, 0, 255); }
 
-font_blue {
-    color: darkblue;
-}
-
-font_brown {
-	color: brown;
-}
-
-.footer {
-	float: bottom;
-	display: line;
-}
-
-table, th, td {
-	border: 1px solid black;
-}
-
-element {
-}
+table, th, td { border: 1px solid black; }
 
 body {
-	font-family: Arial;
-}
-
-.main div {
-    display: flex;
-}
-
-.pd {
-    width: 7em;
-    flex-shrink: 0;
-    padding-bottom: .9em;
+    background-image: url('files/bg.jpg');
+    background-position: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+	margin: 0 auto;
+	max-width: 1245px;
+    background-color: #000000;
+	padding: 20px;
+    color: white;
 }
 
 img {
+    padding: 1px;
 	max-width: 75%;
+	background: white;
 }
 
-/* unvisited link */
-a:link {
-  color: red;
+code {
+    font-size: 14px;
+    border: solid thin grey;
+    padding: 2px;
 }
 
-/* visited link */
-a:visited {
-  color: green;
+big {
+    font-size: 25px;
 }
 
-/* mouse over link */
-a:hover {
-  color: hotpink;
+section {
+    border: solid thin grey;
+    padding: .3rem;
+    margin: 4px; 
 }
 
-/* selected link */
-a:active {
-  color: blue;
+blockquote {
+    font-style: italic;
 }
 
-/* This was stolen from Xah Lee's website at http://xahlee.info (thanks, Xah)*/
 .image_box a {
     max-width: 150px;
     max-height: 150px;
     display: inline-block;
     border: solid thin grey;
-    border-radius: 1rem;
     padding: 8px;
     margin: 4px; 
 }
 
-/* This was stolen from Xah Lee's website at http://xahlee.info (thanks, Xah)*/
-section {
+.back_button a {
+    display: inline-block;
     border: solid thin grey;
-    padding: .3rem;
+    padding: 8px;
     margin: 4px; 
-    border-radius: 1rem;
 }
+
+/*
+ * Much of this CSS was stolen and redesigned from http://xahlee.info, as he his good site design.
+ *
+ * Thanks, Xah.
+*/

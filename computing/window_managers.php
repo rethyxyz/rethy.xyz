@@ -1,14 +1,9 @@
 <!DOCTYPE html>
 <html>
-<head>
-<meta charset='UTF-8' />
-<meta name='viewport' content='width=device-width' />
-
-<link rel='stylesheet' type='text/css' href='style.css' />
-<link rel='icon' href='files/shroom0.jpg' />
-
-<title>Window Managers - rethy.xyz</title>
-</head>
+    <head>
+        <?php include "header.php"; ?>
+        <title>Window Managers - rethy.xyz</title>
+    </head>
 
 <body>
 <div class="main">
@@ -52,9 +47,6 @@ dwm: a <i>dynamic</i> TWM (windows are split automatically according to a predet
 
 <hr>
 
-<div class="footer">
-<center><b>2020 (C) Brody Rethy. All rights reserved.</b></center>
-</div>
-
-</body>
+        <?php include "footer.php"; ?>
+    </body>
 </html>

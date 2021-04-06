@@ -10,30 +10,30 @@ font_brown { color: brown; }
 
 .footer { float: bottom; display: line; }
 
-b { color: rgb(200, 100, 0); }
+b { color: rgb(255, 100, 0); }
 
 iframe { max-width: 75%; }
 
-h1 { color: rgb(150, 0, 0); }
-h2 { color: rgb(0, 150, 0); }
-h3 { color: rgb(0, 0, 150); }
+h1 { color: rgb(255, 0, 0); }
+h2 { color: rgb(0, 255, 0); }
+h3 { color: rgb(0, 0, 255); }
 
 table, th, td { border: 1px solid black; }
 
 body {
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    text-rendering: optimizeLegibility;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 20px;
+    background-image: url('files/bg.jpg');
+    background-position: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
 	margin: 0 auto;
 	max-width: 1245px;
-    background-color: rgb(226, 226, 226);
+    background-color: #000000;
 	padding: 20px;
+    color: white;
 }
 
 img {
-    padding: 5px;
+    padding: 1px;
 	max-width: 75%;
 	background: white;
 }
@@ -75,8 +75,7 @@ blockquote {
 }
 
 /*
- * Much of this CSS was stolen and redesigned from http://xahlee.info, as 
- * his site has very good design.
+ * Much of this CSS was stolen and redesigned from http://xahlee.info, as he his good site design.
  *
  * Thanks, Xah.
 */

@@ -1,18 +1,13 @@
 <html>
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width" />
-
-<link rel="stylesheet" type="text/css" href="style.css" />
-<link rel="icon" href="files/shroom0.jpg" />
-
-<title>The Best Windows Software - rethy.xyz</title>
-</head>
+	<head>
+		<?php include 'header.php';?>
+		<title>The Best Windows Software - rethy.xyz</title>
+	</head>
 
 <body>
 <div class="main">
 <h1>The Best Windows Software</h1>
-<p><small><b>Created: 2020-01-29 | Modified: 2020-01-29</b></small></p> <hr>
+<p><small><b>Created: 2020-01-29 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></b></small></p> <hr>
 
 <p>This page lists the best software for Windows, more specifically Windows 10. No frills, just a simple list.</p>
 
@@ -135,9 +130,6 @@
 
 </div> <hr>
 
-<div class="footer">
-<center><b>2020 (C) Brody Rethy. All rights reserved.</b></center>
-</div>
-
-</body>
+		<?php include 'footer.php';?>
+	</body>
 </html>
