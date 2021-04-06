@@ -78,7 +78,7 @@
 			<section>
 			<small><b>2020-03-03</b></small>
 
-			<p>I made my own take on the recycle bin for Linux called rethyxyz-recycle-bin. You can go to <a href="https://github.com/rethyxyz/scripts/">https://github.com/rethyxyz/rethyxyz-recycle-bin/</a>. The base scripting only took approximately 1 hour.</p>
+			<p>I made my own take on the recycle bin for Linux called rethyxyz-recycle-bin. You can go to <a href="https://github.com/rethyxyz/recycle-bin/">https://github.com/rethyxyz/rethyxyz-recycle-bin/</a>. The base scripting only took approximately 1 hour.</p>
 			</section>
 
 
