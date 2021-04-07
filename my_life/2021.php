@@ -115,7 +115,7 @@
 			<p>
 				One on:
 				<ul>
-					<li><b>TODO</b> Details by Frou Frou</li>
+					<li><del><b>TODO</b> Details by Frou Frou</del></li>
 					<li><b>TODO</b> S/T by Elliott Smith</li>
 					<li><del><b>TODO</b> Diorama by Silverchair</del></li>
 					<li><b>TODO</b> Apple by Mother Love Bone</li>

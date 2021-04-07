@@ -16,7 +16,7 @@
             <hr>
 
             <p>
-                <big><b>Schizo notes</b></big>
+                <big><b>Schizoid notations</b></big>
             </p>
 
             <p>
