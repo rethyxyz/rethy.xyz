@@ -26,7 +26,8 @@
             <p>
                 Newest article:
                 <ul>
-                    <li><a href="computing/making_windows_7_usable_in_2021.php">Making Windows 7 Safe in 2021</a></li>
+                    <li><a href="music/albums/details_frou_frou.php">Details - Frou Frou</a></li>
+                    
                 </ul>
             </p>
 

@@ -95,8 +95,7 @@
 			<p>This is true. At its core, Unix is for professional computer users, being sysadmins, programmers, IT people, etc. But, more recently with Linux, it is being molded into a pruned version for the sake of user friendlyness. By turning Linux into something that it isn't, you make it easier to do "basic tasks" (point and click file management, static theming, point and click programs, defaults programs...) but make it harder to do anything administratively and/or developmentally. Dumbing things down because people don't want to learn how to do something in the most efficient way is a bad practice. People say that they don't want to learn because it takes too much time. If only they'd put in the time to learn the thing properly. They'd actually spend less time doing the task in the long run, hence, saving time.</p>
 
 			<h2>C++ Sucks</h2>
-			<p>This is true. I don't program in C++ because I think it's bad, so I wholeheartedly agree.</p>
-
+			<p>This is true. I don't program in C++ because I think it's bad, so I wholeheartedly agree. Object oriented programming is bad and gets convoluted quickly.</p>
 		</div>
 
 		<hr>
