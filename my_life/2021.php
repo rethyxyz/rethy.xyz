@@ -5,7 +5,9 @@
 	</head>
 
 	<body>
-		<div class="back_button"> <a href="../index.php">Go to site index</a> </div>
+		<div class="back_button">
+			<a href="../index.php">Go to site index</a>
+		</div>
 
 		<div class="main">
 			<h1>My Life in 2021</h1>
@@ -15,22 +17,22 @@
 			</p>
 
 			<section>
-				<small><b>2021-03-29 at 16:07:12</b></small>
+				<small><b>2021-04-06 at 16:46:08</b></small>
 				<p>
 					Another update to the website, this time, core functionality:
 				</p>
 
 				<p>
-					It's starting to get difficult to manage multiple so many sub-pages, especially when I want to change the site theme.
+					It's starting to get difficult to manage so many sub-pages, especially when I want to change the site theme (unfortunately, I do this often).
 					Each time I do, I have to change the settings on each individual page, which takes a while because there's around 100.
 					If I modify a page, I also have to change the date, which sometimes I forget to do.
 					This gets anoying after a while.
-					I solved this by implementing PHP, pretty much just for the PHP includes feature, but I use modification dates too.
-					I no longer need to write the modification date, as it's updated dynamically from the metadata of the individual file.
+					I solved this by implementing PHP, pretty much just for PHP includes, and dynamic modification date.
+					I no longer need to write the modification date, as it's taken from the metadata of the file.
 				</p>
 
 				<p>
-					I'm glad to have implemented this, as it should increase my productivity in the future, and with less micro-management.
+					I'm glad to have implemented this, as it should increase my productivity in the future, and (hopefully) with less micro-management later.
 				</p>
 			</section>
 
@@ -87,8 +89,6 @@
 			</p>
 			</section>
 
-
-
 			<section>
 			<small><b>2021-02-24 at 17:53:33</b></small>
 
@@ -98,12 +98,10 @@
 
 			<p>
 				<ul>
-					<li><b>TODO</b> Make a bash_aliases to vimrc format converter</li>
+					<li><del><b>TODO</b> Make a bash_aliases to vimrc format converter</del></li>
 				</ul>
 			</p>
 			</section>
-
-
 
 			<section>
 			<small><b>2021-02-23 at 00:09:46</b></small>
@@ -119,13 +117,11 @@
 				<ul>
 					<li><b>TODO</b> Details by Frou Frou</li>
 					<li><b>TODO</b> S/T by Elliott Smith</li>
-					<li><b>TODO</b> Diorama by Silverchair </li>
+					<li><del><b>TODO</b> Diorama by Silverchair</del></li>
 					<li><b>TODO</b> Apple by Mother Love Bone</li>
 				</ul>
 			</p>
 			</section>
-
-
 
 			<section>
 			<small><b>2021-02-22 at 01:32:21</b></small>
@@ -154,7 +150,7 @@
 				<li><b>TODO</b> The Oxford comma</li>
 				<li><b>TODO</b> Pig Latin 101</li>
 				<li><b>TODO</b> File organizational guidelines</li>
-				<li><b>TODO</b> About Mongolia</li>
+				<li><b>TODO</b> Mongolia</li>
 				<ul>
 					<li><b>TODO</b> Lake Baikal</li>
 				</ul>

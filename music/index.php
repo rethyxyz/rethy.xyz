@@ -18,6 +18,11 @@
 				
 			</div>
 			-->
+			<section>
+			<p><b>2021-04-07</b></p>
+			<p><a href="albums/details_frou_frou.php">Details - Frou Frou</a></p>
+			<p><center><img src="albums/album_covers/details_frou_frou.jpg" /></center></p>
+			</section>
 
 			<section>
 			<p><b>2020-02-22</b></p>
@@ -26,7 +31,7 @@
 			</section>
 
 			<section>
-			<p><small><b>2020-01-27</b></small></p>
+			<p><b>2020-01-27</b></p>
 			<p><a href="koss_headphones_the_only_headphones_youll_need.php">Koss Headphones: The Only Headphones You'll Ever Need</a></p>
 			<p>I talk about my various Koss brand headphones, and how they're epitome of the ultimate price to performance</p>
 			</section>
