@@ -1,10 +1,10 @@
 <html>
     <head>
-        <?php include 'header.php';?>
-        <title>Home - rethy.xyz</title>
-    </head>
+		<?php include 'header.php';?>
+		<title>Home - rethy.xyz</title>
+</head>
 
-    <body>
+	<body>
         <div class="main">
             <p>
                 <center>
@@ -27,7 +27,6 @@
                 Newest article:
                 <ul>
                     <li><a href="music/albums/details_frou_frou.php">Details - Frou Frou</a></li>
-                    
                 </ul>
             </p>
 

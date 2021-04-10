@@ -16,6 +16,12 @@
 			</p>
 
 			<section> 
+			<p> <b> <small>Article Update</small> </b> </p>
+			<p><a href="dwm_bar.php">Dwmbar</a></p>
+			<p>Updated dwmbar page to reflect current setup.</p>
+			</section> 
+
+			<section> 
 			<p> <b> <small>2021-03-22</small> </b> </p>
 			<p><a href="making_windows_7_usable_in_2021.php">Making Windows 7 Safe in 2021</a></p>
 			<p><img src="https://oswallpapers.com/wp-content/uploads/2016/06/img0.jpg" width=25%></p>
@@ -48,7 +54,7 @@
 			</section>
 
 			<section>
-			<p><b>2021-02-07</b></p>
+			<p><b><small>2021-02-07</small></b></p>
 			<p><a href="making_vim_feel_like_emacs.php">Making <code>vim</code> Feel Like <code>Emacs</code></a></p>
 			<p>Most of the time I'm using my computer, I stay in <code>vim</code>, something <code>Emacs</code> users love to brag about. I wrote an article explaining how I accomplish this in <code>vim</code>.</p>
 			<p><center><img src="files/emacs_like_vim_2021_02_08.PNG" /></center></p>
@@ -96,20 +102,20 @@
 
 			<section>
 			<p><b><small>2020-12-25</small></b></p>
-			<p><a href="dwm_bar.php">My <code>dwm</code> Status Bar</a></p>
+			<p><a href="dwm_bar.php">My dwm Status Bar</a></p>
 			<p>An overview of my <code>dwm</code> status bar.</p>
 			<p><img src="files/dwm_bar.png" /></p>
 			</section>
 
 			<section>
 			<p><small><b>2020-12-25</b></small></p>
-			<p><a href="my_dwm_configuration.php">My <code>dwm</code> Configuration</a></p>
+			<p><a href="my_dwm_configuration.php">My dwm Configuration</a></p>
 			<p><img src="files/dwm_setup.png" /></p>
 			<p>What my <code>dwm</code> setup entails.</p>
 			</section>
 
 			<section>
-			<p><b>2020-12-23</b></p>
+			<p><b><small>2020-12-23</small></b></p>
 			<p><a href="an_efficient_vim.php">An efficient vim</a></p>
 			<p><code>Vim</code> built in auto-complete, <code>vim</code> built in fzf, defining filetype specific macros, persistent macros, and more.</p>
 			</section>
