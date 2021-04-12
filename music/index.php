@@ -11,47 +11,28 @@
 
 		<div class="main">
 			<h1>Music</h1>
-			<p>Everything about music.</p>
+			<p>Articles on music related things, and album reviews/write ups. All about music. </p>
 
-			<!--
+			<h1>Albums</h1>
 			<div class="image_box">
-				
+				<center>
+					<a href="albums/blonde_frank_ocean.php"> <img src="albums/album_covers/blonde_frank_ocean.jpg"><p>Blonde - Frank Ocean</p></a>
+					<a href="albums/details_frou_frou.php"><img src="albums/album_covers/details_frou_frou.jpg"><p>Details - Frou Frou</p></a>
+					<a href="albums/dinosaurchestra_lemon_demon.php"><img src="albums/album_covers/dinosaurchestra_lemon_demon.jpg"><p>Dinosaurchestra - Lemon Demon</p></a>
+					<a href="albums/diorama_silverchair.php"><img src="albums/album_covers/diorama_silverchair.jpg"><p>Diorama - Silverchair</p></a>
+					<a href="albums/the_orbiting_human_circus_the_music_tapes.php"><img src="albums/album_covers/the_orbiting_human_circus_the_music_tapes.jpg"><p>The Orbiting Human Circus - The Music Tapes</p></a>
+					<a href="albums/wide_angle_hybrid.php"><img src="albums/album_covers/wide_angle_hybrid.jpg"><p>Wide Angle - Hybrid</p></a>
+					<a href="albums/disintegration_the_cure.php"><img src="albums/album_covers/disintegration_the_cure.png"><p>Disintegration - The Cure</p></a>
+				</center>
 			</div>
-			-->
-			<section>
-			<p><b>2021-04-07</b></p>
-			<p><a href="albums/details_frou_frou.php">Details - Frou Frou</a></p>
-			<p><center><img src="albums/album_covers/details_frou_frou.jpg" /></center></p>
-			</section>
 
-			<section>
-			<p><b>2020-02-22</b></p>
-			<p><a href="albums\diorama_silverchair.php">Diorama - Silverchair</a></p>
-			<p><center><img src="albums\album_covers\diorama_silverchair.jpg" width=900px /></center></p>
-			</section>
+			<hr>
 
+			<h1>Articles</h1>
 			<section>
 			<p><b>2020-01-27</b></p>
 			<p><a href="koss_headphones_the_only_headphones_youll_need.php">Koss Headphones: The Only Headphones You'll Ever Need</a></p>
-			<p>I talk about my various Koss brand headphones, and how they're epitome of the ultimate price to performance</p>
-			</section>
-
-			<section>
-			<p><b>2020-12-16</b></p>
-			<p><a href="albums/dinosaurchestra_lemon_demon.php">Dinosaurchestra - Lemon Demon</a></p>
-			<p><center><img src="albums\album_covers\dinosaurchestra_lemon_demon.jpg" /></center></p>
-			</section>
-
-			<section>
-			<p><b>2020-12-16</b></p>
-			<p><a href="albums/the_orbiting_human_circus_the_music_tapes.php">The Orbiting Human Circus - The Music Tapes</a></p>
-			<p><center><img src="albums\album_covers\the_orbiting_human_circus_the_music_tapes.jpg" /></center></p>
-			</section>
-
-			<section>
-			<p><b>2020-12-16</b></p>
-			<p><a href="albums/wide_angle_hybrid.php">Wide Angle - Hybrid</a></p>
-			<p><center><img src="albums\album_covers\wide_angle_hybrid.jpg" /></center></p>
+			<p>I talk about my various Koss brand headphones, and how they're epitome of the ultimate price to performance.</p>
 			</section>
 
 			<hr>

@@ -58,6 +58,7 @@
 <li>Good Will Hunting</li>
 <li>Groundhog Day</li>
 <li>Guardians of the Galaxy</li>
+<li>Girl, Interrupted</li>
 <li>Hackers</li>
 <li>Her</li>
 <li>Hot Fuzz</li>

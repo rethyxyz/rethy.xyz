@@ -64,6 +64,8 @@ blockquote {
     border: solid thin grey;
     padding: 8px;
     margin: 4px; 
+    font-size: 12px;
+    text-align: center;
 }
 
 .back_button a {

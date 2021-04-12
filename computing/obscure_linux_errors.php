@@ -11,6 +11,11 @@
 
 			<p>Most of these fixes were taken from forums from over the years.</p>
 
+			<h1>Fix incorrect time (even though set)</h1>
+			<p>
+				<code>sudo timedatectl set-ntp 1</code>
+			</p>
+
 			<h1>MPD cannot initalize to io_uring</h1>
 			<p>If you are using the mpd.service io_uring is configured for what it needs</p>
 

@@ -9,6 +9,11 @@
             <h1>Taking Notes in HTML</h1>
             <p><b><small>Created: 2021-02-21 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></small></b></p> <hr>
 
+            <section>
+                <p><b><small>2021-04-12</small></b></p>
+                <p>Nowadays I take notes in plaintext files, as it's the simplest, but taking notes in HTML is better if you need something with images, styling, etc.</p>
+            </section>
+
             <p>
                 Something I've started doing, is taking notes in HTML.
                 Previously, I had been using vim-wiki, and before that vim-notes, which are both semi-similar note taking plugins for <code>vim</code>.
