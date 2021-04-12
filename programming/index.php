@@ -26,6 +26,16 @@
 				Mostly just Bash and HTML these days, as I do them the most.
 			</p>
 
+
+
+			<section> 
+			<p> <b> <small>Article Update</small> </b> </p>
+			<p><a href="../computing/dwm_bar.php">Dwmbar</a></p>
+			<p>Updated dwmbar page to reflect current setup, and additional functions .</p>
+			</section> 
+
+
+
 			<section>
 				<p><b><small>2021-02-24</small></b></p>
 

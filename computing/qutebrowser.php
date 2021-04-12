@@ -75,11 +75,11 @@
 				<ul>
 					<li><code>config.bind('\\rl', 'config-source')</code></li>
 					<ul>
-						<li>Quick config reload</li>
+						<li>Reload config.py</li>
 					</ul>
 					<li><code>config.bind('\\m', 'hint links spawn mpv {hint-url}')</code></li>
 					<ul>
-						<li>Open in <code>mpv</code></li>
+						<li>Open hinted link in <code>mpv</code></li>
 					</ul>
 				</ul>
 			</p>
@@ -90,6 +90,8 @@
 				See also:
 				<ul>
 					<li><a href="an_efficient_vim.php">An Effective vim</a></li>
+					<li><a href="making_vim_feel_like_emacs.php">Making vim Feel Like Emacs</a></li>
+					<p></p>
 				</ul>
 			</p>
 		</div>

@@ -16,9 +16,15 @@
 			</p>
 
 			<section> 
+			<p> <b> <small>2021-04-07</small> </b> </p>
+			<p><a href="qutebrowser.php">Best Qutebrowser Configuration</a></p>
+			<p>I outline superior additions to qutebrowser that aren't default, but should be.</p>
+			</section> 
+
+			<section> 
 			<p> <b> <small>Article Update</small> </b> </p>
 			<p><a href="dwm_bar.php">Dwmbar</a></p>
-			<p>Updated dwmbar page to reflect current setup.</p>
+			<p>Updated dwmbar page to reflect current setup, and additional functions .</p>
 			</section> 
 
 			<section> 
@@ -55,10 +61,10 @@
 
 			<section>
 			<p><b><small>2021-02-07</small></b></p>
-			<p><a href="making_vim_feel_like_emacs.php">Making <code>vim</code> Feel Like <code>Emacs</code></a></p>
+			<p><a href="making_vim_feel_like_emacs.php">Making vim Feel Like Emacs</a></p>
 			<p>Most of the time I'm using my computer, I stay in <code>vim</code>, something <code>Emacs</code> users love to brag about. I wrote an article explaining how I accomplish this in <code>vim</code>.</p>
 			<p><center><img src="files/emacs_like_vim_2021_02_08.PNG" /></center></p>
-			<p>Note the WSL Bash terminal at the top. I'm running Windows 10.</p>
+			<p>Note the WSL Bash terminal at the top. I'm running Windows 10 (as of 2021-04-11, I'm running Windows 7. See <a href="making_windows_7_usable_in_2021.php">here</a> as to how).</p>
 			</section>
 
 			<section>
