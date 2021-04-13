@@ -46,7 +46,7 @@
 
             <p>Blonde is a conceptual album that I simply missed out on. This means I don't get it, but that I very well could understand it one day, under the right circumstances.</p>
 
-            <p>Favorite song: <b>Nights</b></p>
+            <center><p>Favorite song: <b>Nights</b></p></center>
 		</div>
 
         <hr>

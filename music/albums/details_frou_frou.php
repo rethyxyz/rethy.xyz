@@ -22,13 +22,15 @@
 			<p>Initial cult-like groupings populated after the release of the 2004 film <i>Garden State</i> created by Zach Braff. The song <i>Let Go</i> (first track) played at films end, sparking people to seek out the name of the song. Later, after accessibility was established, the movie became a devisor within, separating those-in-the-know prior to, being "superior", and those in post, as lesser.</p>
 
 			<p>
-				I only thing I really dislike about the album, is its shit lyrics. Lyrics range from talking about romantic relationship, to desire. Boring, and generic.
+				I only thing I really dislike about the album is shit lyrics. Lyrics range from romantic relationship, to desire. Boring, and generic.
 			</p>
 
 			<p>
-				Favorite song: <b>Psychobabble</b>
+				<center> Favorite song: <b>Psychobabble</b> </center>
 			</p>
 		</div>
+
+		<hr>
 
 		<?php include 'footer.php';?>
 	</body>

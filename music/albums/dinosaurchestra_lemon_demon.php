@@ -16,7 +16,7 @@
 
 <p>A nostalgic album from old school internet content creator Neil Cicierega, who has created an assortment of music/short films ranging from <i>Harry Potter Puppet Pals</i> to <i>The Ultimate Showdown of Ultimate Destiny</i> (which is found on this album; track #6).</p>
 
-<p>Favorite song: <b>This Hyper World</b> or <b>Deep in the Ocean</b></p>
+<center><p>Favorite song: <b>This Hyper World</b> or <b>Deep in the Ocean</b></p></center>
 
 </div>
 
