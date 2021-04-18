@@ -15,13 +15,9 @@
 
             <hr>
 
-            <p>
-                <big><b>Schizoid notations</b></big>
-            </p>
+            <p> <big><b>Schizoid notations</b></big> </p>
 
-            <p>
-                Talking about programming, computing, visual media, literature, music, and more.
-            </p>
+            <p> Talking about programming, computing, visual media, literature, music, and more. </p>
 
             <p>
                 Newest article:
@@ -64,9 +60,7 @@
 
             <hr>
 
-            <p>
-                <h1><a href="sitemap.php">Sitemap</a></h1>
-            </p>
+            <p> <h1><a href="sitemap.php">Sitemap</a></h1> </p>
         </div>
 
         <hr>
