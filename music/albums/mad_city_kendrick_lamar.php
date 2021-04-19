@@ -14,7 +14,7 @@
 
 			<p>
 				<center>
-					<img src="../music/albums/album_covers/mad_city_kendrick_lamar.jpg" width=300px>
+					<img src="album_covers/mad_city_kendrick_lamar.jpg" width=300px>
 				</center>
 			</p>
 
