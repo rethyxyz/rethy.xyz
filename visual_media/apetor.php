@@ -1,8 +1,8 @@
 <html>
-	<head>
-		<?php include 'header.php';?>
-		<title>Apetor - rethy.xyz</title>
-	</head>
+<head>
+<?php include 'header.php';?>
+<title>Apetor - rethy.xyz</title>
+</head>
 
 <body>
 <div class="main">
@@ -37,23 +37,23 @@
 </center>
 </p><br>
 
-<p>Even as I was writing this, I ended up trailing off to re-watch more of his videos. While doing so, I decided I should include my favorite video, being "Making a Tartre Sandwich". I knew this instantly. I love the way it portrays some of the simple enjoyments in life. The freedom of being alone, away from the watchful eye. It's nice for a change, especially if you live in a busy society. Information overload, <i>us-vs-them</i> mentality, fear mongering, these issues overwhelm. Sometimes it's nice to take a break.</p><br>
+<p>Even as I was writing this, I ended up trailing off to re-watch more of his videos. While doing so, I decided I should include my favorite video, being "Making a Tartre Sandwich". I knew this instantly. I love the way it portrays some of the simple enjoyments in life. The freedom of being alone, away from the watchful eye. It's nice for a change, especially if you live in a busy society, sometimes it's nice to take a break.</p><br>
 
 <p>
 <center>
-	<img src="files/apetor_tartre_sandwich_1.png" /><br><br>
-	<small><b>A very nice collection of Vodkas</b></small>
+<img src="files/apetor_tartre_sandwich_1.png" /><br><br>
+<small><b>A very nice collection of Vodkas</b></small>
 </center>
 </p><br>
 
 <p>
 <center>
-	<img src="files/apetor_tartre_sandwich_2.png" /><br><br>
-	<small><b>The sandwich in question</b></small>
+<img src="files/apetor_tartre_sandwich_2.png" /><br><br>
+<small><b>The sandwich in question</b></small>
 </center>
 </p><br>
 
-<p>Pure simplicity. I understand I dug a little too deep here, but no matter. I just like to admire the simplicity of his videos.</p> <hr>
+<hr>
 
 <p>
 See also:

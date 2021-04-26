@@ -7,15 +7,15 @@
 <body>
 <div class="main">
 <p>
-	<center>
-		<img src='files/shroom0.jpg' height=100px width=100px />
-		<h3> <a href="https://rethy.xyz/">https://rethy.xyz/</a> </h3>
-	</center>
+<center>
+	<img src='files/shroom0.jpg' height=100px width=100px />
+	<h3> <a href="https://rethy.xyz/">https://rethy.xyz/</a> </h3>
+</center>
 </p> <hr>
 
 <p> <big><b>Schizoid notations</b></big> </p>
 
-<p> Talking about programming, computing, visual media, literature, music, and more. </p>
+<p>Talking about programming, computing, visual media, literature, music, and more.</p>
 
 <p>
 Newest article:
@@ -27,8 +27,8 @@ Newest article:
 <p>
 Categories:
 <ul>
-<li><a href="computing/index.php">Computing</a></li>
 <!-- <li><a href="geography/index.php">Geography</a></li> -->
+<li><a href="computing/index.php">Computing</a></li>
 <li><a href="history/index.php">History</a></li>
 <li><a href="literature/index.php">Literature</a></li>
 <li><a href="music/index.php">Music</a></li>

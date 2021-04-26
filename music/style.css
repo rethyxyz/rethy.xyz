@@ -3,58 +3,41 @@ indent_2 { margin-left: 40px; }
 indent_3 { margin-left: 60px; }
 indent_4 { margin-left: 80px; }
 
-font_green { color: darkgreen; }
 font_red { color: darkred; }
+font_green { color: darkgreen; }
 font_blue { color: darkblue; }
 font_brown { color: brown; }
 
 .footer { float: bottom; display: line; }
 
-b { color: rgb(255, 100, 0); }
-
+a { color: inherit; }
+b { text-shadow: #688e23 0px 1px 0px, #556b2f 1px 2px 3px; }
+big { font-size: 25px; }
+blockquote { font-style: italic; }
+code { border: solid thin grey; }
 iframe { max-width: 75%; }
+img { padding: 1px; max-width: 75%; }
+table, th, td { border: 1px solid lightgrey; }
 
-h1 { color: rgb(255, 0, 0); }
-h2 { color: rgb(0, 255, 0); }
-h3 { color: rgb(0, 0, 255); }
-
-table, th, td { border: 1px solid black; }
+h1, h2, h3 {
+	cursor: default;
+	text-shadow: #688e23 0px 2px 0px, #556b2f 1px 4px 6px;
+	white-space: nowrap;
+}
 
 body {
-    background-image: url('files/bg.jpg');
-    background-position: center;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 22px;
+	background-color: #dcdcdc;
+	font-family: "MS PGothic", "Mona", "Hiragino Kaku Gothic Pro", Helvetica, sans-serif;
 	margin: 0 auto;
 	max-width: 1245px;
-    background-color: #000000;
 	padding: 20px;
-    color: white;
-}
-
-img {
-    padding: 1px;
-	max-width: 75%;
-	background: white;
-}
-
-code {
-    font-size: 14px;
-    border: solid thin grey;
-}
-
-big {
-    font-size: 25px;
+    font-size: 15px;
 }
 
 section {
     border: solid thin grey;
     padding: .3rem;
     margin: 4px; 
-}
-
-blockquote {
-    font-style: italic;
 }
 
 .image_box a {
