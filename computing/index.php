@@ -14,6 +14,12 @@
 <p>Articles/everything related to computing. Nowadays I'm situated on Arch Linux, so most things will be Linux related.</p>
 
 <section> 
+<p><b><small>2021-04-28</small></b></p>
+<p><a href="clamav_the_only_non_shit_antivirus.php">ClamAV: The Only Non-Shit Anti-Virus</a></p>
+<p>If you're resource conscious like myself, you have seen just how bad anti-viruses can be. The issue for me stems from real time protection, something you just don't need if you have common sense. This is why I choose not to use them. This breaks the cycle of bad AVs.</p>
+</section> 
+
+<section> 
 <p> <b> <small>2021-04-17</small> </b> </p>
 <p><a href="the_fallacy_of_program_ease.php">The Fallacy of Program Ease</a></p>
 <p>Computer people know the notion that some of us want something that "just werkz". Usually this refers to either an operating system like Windows or Mac OS, or a program like VSCode or an App Store. This is a false notion.</p>
