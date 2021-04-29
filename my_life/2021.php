@@ -14,7 +14,17 @@
 <h1>My Life in 2021</h1>
 <p>This page essentially serves as a change log and a way to display what I'm doing. I post here occasionally.</p>
 
+<section>
+<b><small>2021-04-29 at 00:13:10</small></b>
+<p>I have started a new series oriented for NEETs. Each guide is going to be a lesson on how to optimize whatever things as a NEET.</p>
 
+<p>
+Topics I have so far are:
+<ul>
+<li><b>TODO</b> Making Your Computer (Windows 7) Comfy</li>
+</ul>
+</p>
+</section>
 
 <section>
 <b><small>2021-04-24 at 23:43:22</small></b>

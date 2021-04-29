@@ -34,7 +34,7 @@
 				<li><a href="http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/07/windows6.1-kb4575903-x64_b4d5cf045a03034201ff108c2802fa6ac79459a1.msu">http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/07/windows6.1-kb4575903-x64_b4d5cf045a03034201ff108c2802fa6ac79459a1.msu</a></li>
 				</ul>
 			<li><b>Restart your computer</b></li>
-			<li><b>Activate Windows 10</b>: Use a license key. This is the legal thing, and right thing to do. I don't know of any other ways, but if I were to think that there would be a good github account from an experienced Windows based programmer, I'd think it could be this one. ;) <a href="https://github.com/abbodi1406/KMS_VL_ALL_AIO/releases">https://github.com/abbodi1406/KMS_VL_ALL_AIO/releases</a>.</li>
+			<li><b>Activate Windows 7</b>: Use a license key. This is the legal thing, and right thing to do. I don't know of any other ways, but if I were to think that there would be a good github account from an experienced Windows based programmer, I'd think it could be this one. ;) <a href="https://github.com/abbodi1406/KMS_VL_ALL_AIO/releases">https://github.com/abbodi1406/KMS_VL_ALL_AIO/releases</a>.</li>
 			<li><b>Restart your computer</b></li>
 			<li><b>Install BypassESU</b>: This is the tool used to enable Windows updates</li>
 				<ul>
