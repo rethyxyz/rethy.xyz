@@ -1,17 +1,14 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<?php include 'header.php';?>
-		<title>Movies I've Watched - rethy.xyz</title>
-	</head>
+<head>
+<?php include 'header.php';?>
+<title>Movies I've Watched - rethy.xyz</title>
+</head>
 
 <body>
 <div class="main">
 <h1>Movies I've Watched</h1> <hr>
-
-<p>This page serves as a chronicle of the movies I've watched. More will be added whenever I get around to it.</p>
-
-<p>Just because a movie is on here, doesn't mean I enjoyed it.</p>
+<p>This page serves as a chronicle of the movies I've watched. More will be added whenever I get around to it. Just because a movie is on here, doesn't mean I enjoyed it.</p>
 
 <ol>
 <li>127 Hours</li>
@@ -26,6 +23,7 @@
 <li>American Psycho</li>
 <li>Apocalypse Now</li>
 <li>Apollo 13</li>
+<li>Austin Powers</li>
 <li>Avatar</li>
 <li>Back to the Future</li>
 <li>Batman Begins</li>
@@ -34,6 +32,7 @@
 <li>Black Swan</li>
 <li>Blade Runner 2049</li>
 <li>Blade Runner</li>
+<li>Boyz n the Hood</li>
 <li>Broken Flowers</li>
 <li>Captain America: The First Avenger</li>
 <li>Captain America: The Winter Soldier</li>
@@ -48,24 +47,38 @@
 <li>Fantastic Mr Fox</li>
 <li>Fargo</li>
 <li>Fear and Loathing in Las Vegas</li>
+<li>Ferris Bueller's Day Off</li>
 <li>Fight Club</li>
+<li>Friday</li>
 <li>Full Metal Jacket</li>
 <li>Garden State</li>
 <li>Gattaca</li>
 <li>Get Out</li>
+<li>Ghost Busters</li>
 <li>Ghost in the Shell</li>
+<li>Girl, Interrupted</li>
 <li>Gladiator</li>
 <li>Good Will Hunting</li>
 <li>Groundhog Day</li>
 <li>Guardians of the Galaxy</li>
-<li>Girl, Interrupted</li>
 <li>Hackers</li>
+<li>Harry Potter and the Chamber of Secrets</li>
+<li>Harry Potter and the Deathly Hallows Pt. 1</li>
+<li>Harry Potter and the Deathly Hallows Pt. 2</li>
+<li>Harry Potter and the Goblet of Fire</li>
+<li>Harry Potter and the Half-Blood Prince</li>
+<li>Harry Potter and the Order of the Phoenix</li>
+<li>Harry Potter and the Prisoner of Azkaban</li>
+<li>Harry Potter and the Sorcerers Stone</li>
 <li>Her</li>
 <li>Hot Fuzz</li>
 <li>Howls Moving Castle</li>
 <li>Hugo</li>
 <li>Human Traffic</li>
 <li>Inception</li>
+<li>Insidious Chapter 2</li>
+<li>Insidious</li>
+<li>Interstellar</li>
 <li>Interstellar</li>
 <li>Iron Man 1</li>
 <li>Iron Man 2</li>
@@ -78,11 +91,15 @@
 <li>Kikis Delivery Service</li>
 <li>Kill Bill Vol. 1</li>
 <li>Kill Bill Vol. 2</li>
+<li>Kung Fu Panda 2</li>
+<li>Kung Fu Panda</li>
 <li>Leon: The Professional</li>
 <li>Lost in Translation</li>
 <li>M</li>
 <li>Magnolia</li>
 <li>Maleficent</li>
+<li>Megamind</li>
+<li>Monster House</li>
 <li>Monty Python and the Holy Grail</li>
 <li>Mulholland Drive</li>
 <li>My Neighbor Totoro</li>
@@ -139,6 +156,7 @@
 <li>The Green Mile</li>
 <li>The Hunger Games</li>
 <li>The Interview</li>
+<li>The Karate Kid</li>
 <li>The Life Aquatic With Steve Zissou</li>
 <li>The Lighthouse</li>
 <li>The Lobster</li>
@@ -165,16 +183,19 @@
 <li>Trainspotting</li>
 <li>True Romance</li>
 <li>Twelve Monkeys</li>
+<li>Twilight: Breaking Dawm</li>
+<li>Twilight: Eclipse</li>
+<li>Twilight</li>
 <li>V for Vendetta</li>
 <li>Vertigo</li>
 <li>WALL-E</li>
 <li>Watchmen</li>
 <li>Whiplash</li>
+<li>White Chicks</li>
+<li>Catch me if you can</li>
 </ol>
-</div>
+</div> <hr>
 
-<hr>
-
-		<?php include 'footer.php';?>
-	</body>
+<?php include 'footer.php';?>
+</body>
 </html>

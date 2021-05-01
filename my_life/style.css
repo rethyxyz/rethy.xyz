@@ -16,7 +16,9 @@ big { font-size: 25px; }
 blockquote { font-style: italic; }
 code { border: solid thin grey; }
 iframe { max-width: 75%; }
+
 img { padding: 1px; max-width: 75%; }
+
 table, th, td { border: 1px solid lightgrey; }
 
 h1, h2, h3 {

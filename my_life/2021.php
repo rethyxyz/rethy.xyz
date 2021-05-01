@@ -15,13 +15,21 @@
 <p>This page essentially serves as a change log and a way to display what I'm doing. I post here occasionally.</p>
 
 <section>
+<b><small>2021-04-29 at 20:37:04</small></b>
+
+<p>The more time I put into an article, the less return I get on it. The less refined they are, the more people enjoy them. I suppose this is analogous to research papers: Spend time making them hard to understand, and less people will end up consuming them.</p>
+
+<p>I should get back to my roots by creating only stream of consiousness form of articles. It's for the best, plus it's what I enjoy the most.</p>
+</section>
+
+<section>
 <b><small>2021-04-29 at 00:13:10</small></b>
 <p>I have started a new series oriented for NEETs. Each guide is going to be a lesson on how to optimize whatever things as a NEET.</p>
 
 <p>
 Topics I have so far are:
 <ul>
-<li><b>TODO</b> Making Your Computer (Windows 7) Comfy</li>
+<li><b>TODO</b> Comfy/Offline Proof (Windows 7)</li>
 </ul>
 </p>
 </section>
@@ -30,7 +38,7 @@ Topics I have so far are:
 <b><small>2021-04-24 at 23:43:22</small></b>
 <p>I recently starting programming in Python again. Feels good. I forgot about the pure, forced simplicity that you feel while writing Python code. Forced indentation, forced syntax, one line per command, etc. I wish you could assign specific data types though, but that's just from an aesthetic point of view. I feel it makes them easier to spot.</p>
 
-<p>I forgot about how easy it is to write good code quickly. You have so many tools at your finger tips. Modules galore. I suppose there's a reason to so many using it as the ultimate high level language, despite its (lack of) speed. Because of its speed, I was able to recreate my recycle bin script entirely in python, and grep with a few args so far.</p>
+<p>I forgot about how easy it is to write good code quickly. You have so many tools at your finger tips. Modules galore. I suppose there's a reason to so many using it as the ultimate high level language, despite its (lack of) speed. Because of its writing speed, I was able to recreate my recycle bin script entirely in python, and grep with a few args so far.</p>
 
 <p>Also, the site theme is black on white again. The black background felt too depressing.</p>
 </section>

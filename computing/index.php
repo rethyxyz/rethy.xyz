@@ -15,6 +15,12 @@
 
 <section> 
 <p><b><small>2021-04-28</small></b></p>
+<p><a href="offline_proofing_windows_7.php">Comfy/Offline Proof Windows (7)</a></p>
+<p><b>Why would I want to do this?</b> Do you enjoy the soulless feel of modern day Windows? Do you enjoy not owning your music, movies, videos, and games? Do you enjoy DRM? Do you want to continue to lose your long history of YouTube and Spotify playlists because Google, Spotify, and Netflix removes them seemingly for no reason? I, myself, enjoy "possessing" each individual file of the things I enjoy, such as albums, movies, TV shows, etc. This allows me to share as I wish, move as I wish, watch as I wish (no more Spotify premium license), and most importantly: Do as I wish. No one will be able to spy on you, or see your listening habits. You can truly be alone doing whatever it may be.</p>
+</section> 
+
+<section> 
+<p><b><small>2021-04-28</small></b></p>
 <p><a href="clamav_the_only_non_shit_antivirus.php">ClamAV: The Only Non-Shit Anti-Virus</a></p>
 <p>If you're resource conscious like myself, you have seen just how bad anti-viruses can be. The issue for me stems from real time protection, something you just don't need if you have common sense. This is why I choose not to use them. This breaks the cycle of bad AVs.</p>
 </section> 
