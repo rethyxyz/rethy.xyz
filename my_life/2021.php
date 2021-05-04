@@ -5,9 +5,7 @@
 </head>
 
 <body>
-<div class="back_button">
-	<a href="../index.php">Go to site index</a>
-</div>
+<div class="back_button"><a href="../index.php">Go to site index</a></div>
 
 <div class="main">
 
@@ -15,21 +13,23 @@
 <p>This page essentially serves as a change log and a way to display what I'm doing. I post here occasionally.</p>
 
 <section>
+<b><small>2021-05-03 at 02:27:37</small></b>
+<p>I finally merged the programming and computing categories to only a computing category. They overlapped constantly, and I hated trying to figure out where to put each one.</p>
+</section>
+
+<section>
 <b><small>2021-04-29 at 20:37:04</small></b>
-
 <p>The more time I put into an article, the less return I get on it. The less refined they are, the more people enjoy them. I suppose this is analogous to research papers: Spend time making them hard to understand, and less people will end up consuming them.</p>
-
 <p>I should get back to my roots by creating only stream of consiousness form of articles. It's for the best, plus it's what I enjoy the most.</p>
 </section>
 
 <section>
 <b><small>2021-04-29 at 00:13:10</small></b>
-<p>I have started a new series oriented for NEETs. Each guide is going to be a lesson on how to optimize whatever things as a NEET.</p>
+<p>I have started a new series oriented for NEETs. Each guide is going to be a lesson on how to optimize whatever thing as a NEET. Topics I have so far:</p>
 
 <p>
-Topics I have so far are:
 <ul>
-<li><b>TODO</b> Comfy/Offline Proof (Windows 7)</li>
+<li><del><b>TODO</b> Comfy/Offline Proof (Windows 7)</del></li>
 </ul>
 </p>
 </section>
@@ -53,9 +53,9 @@ Topics I have so far are:
 <p>
 I've added a bunch of album reviews/definitions to the music section. I haven't worked on the ones I still need to do. Instead, I did some others that I was sporadically feeling in the moment. Here's what I did:
 <ul>
-	<li><a href="../music/albums/disintegration_the_cure.php">Disintegration - The Cure</a></li>
-	<li><a href="../music/albums/the_used_the_used.php">The Used - The Used</a></li>
-	<li><a href="../music/albums/mad_city_kendrick_lamar.php">Good Kid, M.A.A.D City - Kendrick Lamar</a></li>
+<li><a href="../music/albums/disintegration_the_cure.php">Disintegration - The Cure</a></li>
+<li><a href="../music/albums/the_used_the_used.php">The Used - The Used</a></li>
+<li><a href="../music/albums/mad_city_kendrick_lamar.php">Good Kid, M.A.A.D City - Kendrick Lamar</a></li>
 </ul>
 </p>
 </section>

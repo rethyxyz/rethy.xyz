@@ -20,7 +20,28 @@
 <h2>Updates (Imporant first step)</h2>
 <p>Malware is not comfy, and neither are security vulnerabilities. <a href="making_windows_7_usable_in_2021.php">Follow this article to install Windows first and beforehand</a>. After, come back here when fully updated.</p>
 
-<h2>Speed tweaks</h2>
+<h2>Tweaks</h2>
+<h3>Visual set to only</h3>
+<p>Open Control Panel. Navigate to System/Advanced system settings/Performance Settings.</p>
+
+<p><center><img src="files\performance_options_win7.PNG"></center></p>
+<p>Change to match attached image. All else is unneeded (note, I use a classic theme derivative, so my Performance Options may be different from yours if Windows Aero is enabled).</p>
+
+<h3>Turn off windows sounds</h3>
+<p><center><img src="files\sound_win7.PNG"></center></p>
+<p>Windows sounds are loud and break immersion. Turn them off, as they're unneeded.</p>
+
+<h3>Ease of access</h3>
+<p>Super underrated setting. I rarely see people use "<i>Raise when mouse hover</i>". Also turn off <i>window snapping</i> while you're at it, but it's just preference. It's more precise without.</p>
+
+<h3>Improved folder options</h3>
+<p><center><img src="files\folder_options_win7.PNG"></center></p>
+<p><i>Single-click to open an item (point to select)</i> and <i>Underline icon titles consistent with my browser</i> is the most important part. Way easier and more efficient than double clicking each time. This is the way traditional Unix file managers function by default.</p>
+
+<p><center><img src="files\folder_options_view_win7.PNG"></center></p>
+<p><center><img src="files\folder_options_view_2_win7.PNG"></center></p>
+<p>Match accordingly.</p>
+
 <h3>Disable services</h3>
 <p>I wouldn't call Windows 7 bloated, but that doesn't mean you shouldn't strive for a thinner, snappier system. You don't need excess. It's good to trim the fat where possible.<p>
 
@@ -56,17 +77,14 @@
 </p>
 
 <p><center><img src="files\features_tab.PNG"></center></p>
-
 <p>Your Features tab will look like this after. You may not want to turn off Windows Search.</p>
 
 <h3>Turn off mouse accel</h3>
 <p><center><img src="files/mouse_accel.PNG"></center></p>
-
 <p>Uncheck <i>Enhance pointer precision</i>. It does the opposite of what it says it will. Turning it off will make your mouse movement consistent, allowing you to build up muscle memory accordingly.</p>
 
 <h3>Change keyboard repeat rate</h3>
 <p><center><img src="files/keyboard_repeat_rate.PNG"></center></p>
-
 <p>Change <i>Repeat delay</i> to <i>Short</i>. This is mega important for me. Without this, text editing is an impossibly slow task. Especially if you use speedy vim.</p>
 
 <h2>Theming</h2>
@@ -79,12 +97,10 @@
 
 <h3>Change your profile picture</h3>
 <p><center><img src="files/profile_win7.PNG"></center></p>
-
 <p>Change the default profile image unless you really enjoy it (you shouldn't, it's devoid of emotion). Even if you feel indifferent, change it anyways. It feels too impersonal without it.</p>
 
 <h3>Change your cursor</h3>
 <p><center><img src="files/dino.cur"></center></p>
-
 <p>There are way better cursors than the Windows default. For years on Windows, I have used <a href="files/dino.cur">Reckful's (R.I.P.) dinosaur cursor</a>. It's my preferred cursor.</p>
 
 <h2>Data hoarding</h2>
