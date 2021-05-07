@@ -8,62 +8,58 @@ font_green { color: darkgreen; }
 font_blue { color: darkblue; }
 font_brown { color: brown; }
 
-b { color: orange; }
+.footer { float: bottom; display: line; }
+
+a { color: inherit; }
+b { text-shadow: #688e23 0px 1px 0px, #556b2f 1px 2px 3px; }
 big { font-size: 25px; }
-iframe { max-width: 75%; }
-code { border: solid thin grey; }
 blockquote { font-style: italic; }
+code { border: solid thin grey; }
+iframe { max-width: 75%; }
 img { padding: 1px; max-width: 75%; }
 table, th, td { border: 1px solid lightgrey; }
 
-h1 { color: #ff0000; }
-h2 { color: #00ff00; }
-h3 { color: #0000ff; }
-
-.footer { float: bottom; display: line; }
+h1, h2, h3 {
+cursor: default;
+text-shadow: #688e23 0px 2px 0px, #556b2f 1px 4px 6px;
+white-space: nowrap;
+}
 
 body {
-    font-size: 18px;
-	padding: 20px;
-	margin: 0 auto;
-	color: #ffffff;
-	max-width: 1245px;
-	background-color: #000000;
-	font-family: bigblue_terminalplus;
+background-color: #dcdcdc;
+font-family: "MS PGothic", "Mona", "Hiragino Kaku Gothic Pro", Helvetica, sans-serif;
+margin: 0 auto;
+max-width: 1245px;
+padding: 20px;
+font-size: 15px;
 }
 
 section {
-    padding: .3rem;
-    border: solid thin grey;
-    margin: 4px;
+border: solid thin grey;
+padding: .3rem;
+margin: 4px; 
 }
 
 .image_box a {
-    max-width: 200px;
-    max-height: 200px;
-    display: inline-block;
-    padding: 8px;
-    margin: 4px;
-    border: solid thin lightgrey;
-    font-size: 12px;
-    text-align: center;
+max-width: 150px;
+max-height: 150px;
+display: inline-block;
+border: solid thin grey;
+padding: 8px;
+margin: 4px; 
+font-size: 12px;
+text-align: center;
 }
 
 .back_button a {
-    display: inline-block;
-    border: solid thin grey;
-    padding: 8px;
-    margin: 4px;
-}
-
-@font-face {
-    font-family: bigblue_terminalplus;
-    src: url(files/bigblue_terminalplus.TTF);
-    font-weight: bold;
+display: inline-block;
+border: solid thin grey;
+padding: 8px;
+margin: 4px; 
 }
 
 /*
- * Much of this CSS was stolen and redesigned from http://xahlee.info, as he his good site design.
- *
- * Thanks, Xah.
-*/
+* Much of this CSS was stolen and redesigned from http://xahlee.info, as he his good site design.
+*
+* Thanks, Xah.
+* /
