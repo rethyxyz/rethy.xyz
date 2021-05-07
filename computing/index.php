@@ -226,17 +226,6 @@
 <p>A contrast between tiling and floating window managers.</p>
 </section>
 
-<section>
-<p><b><small>2019</small></b></p>
-<p><a href="battlestations.php">Battlestations</a></p>
-<p>A collection of battlestation (computer setups) images from imagesboards, and redd*t.</p>
-</section>
-
-<section>
-<p><b><small>2019</small></b></p>
-<p><a href="3d_rendered_images.php">3D Rendered Images From 1990 to 2009</a></p>
-</section>
-
 </div> <hr>
 
 <?php include 'footer.php';?>

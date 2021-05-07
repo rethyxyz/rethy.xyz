@@ -9,7 +9,7 @@
 <h1>The Fall of Linux Desktops</h1>
 <p><b><small>Created: 2021-05-02 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></small></b></p> <hr>
 
-<p>Linux desktops will never catch on. The title is false, as they've never risen. The true meaning of the title, or what I mean to say, is I believe Linux desktops are superior to Windows (post-Windows 7), but don't agree they'll gain any mainstream traction because of the current state of modern day DEs (some WMs are good (dwm, i3, openbox...) but normies won't take time to understand them).</p>
+<p>Linux desktops will never catch on. The title is false, as they've never risen. The true meaning of the title, or what I mean to say, is I believe Linux desktops are superior to Windows (post-Windows 7), but don't agree they'll gain any mainstream traction because of the current state of modern day DEs (many WMs are good (dwm (the best), i3, openbox...) but normies won't take time to understand them).</p>
 
 <p>GNOME desktop: A waste bin companion. People call OS X baby-mode while GNOME is the truest representation. It's shite. It's so insanely useless, and getting worse by release. Instead of developing and implementing improved features, they remove existing ones (no exaggeration). It's like an iPad OS on a desktop, but one that has less functionality and customizability than what would be on an iPad.</p>
 

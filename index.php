@@ -20,7 +20,7 @@
 <p>
 Newest article:
 <ul>
-<li><a href="computing/the_fallacy_of_program_ease.php">The Fallacy of Program Ease</a></li>
+<li><a href="computing/the_fall_of_linux_desktops.php">The Fall of Linux Desktops</a></li>
 </ul>
 </p>
 

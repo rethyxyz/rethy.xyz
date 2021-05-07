@@ -14,6 +14,11 @@
 
 <section>
 <b><small>2021-05-03 at 02:27:37</small></b>
+<p>Bi-monthly theme change complete.</p>
+</section>
+
+<section>
+<b><small>2021-05-03 at 02:27:37</small></b>
 <p>I finally merged the programming and computing categories to only a computing category. They overlapped constantly, and I hated trying to figure out where to put each one.</p>
 </section>
 
