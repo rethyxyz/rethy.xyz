@@ -1,85 +1,91 @@
-<a href="downloads.php">downloads.php</a><br>
-<a href="sitemap.php">sitemap.php</a><br>
-<a href="term_definitions.php">term_definitions.php</a><br>
-<a href="about_me.php">about_me.php</a><br>
-<a href="about_this_website.php">about_this_website.php</a><br>
-<a href="computing/3d_rendered_images.php">computing/3d_rendered_images.php</a><br>
-<a href="computing/about_rms_website.php">computing/about_rms_website.php</a><br>
-<a href="computing/a_case_for_tiling_window_manager_usage.php">computing/a_case_for_tiling_window_manager_usage.php</a><br>
-<a href="computing/an_efficient_vim.php">computing/an_efficient_vim.php</a><br>
-<a href="computing/bad_openbox_configuration.php">computing/bad_openbox_configuration.php</a><br>
-<a href="computing/battlestations.php">computing/battlestations.php</a><br>
-<a href="computing/dwm_bar.php">computing/dwm_bar.php</a><br>
-<a href="computing/footer.php">computing/footer.php</a><br>
-<a href="computing/header.php">computing/header.php</a><br>
-<a href="computing/i3_in_win.php">computing/i3_in_win.php</a><br>
-<a href="computing/index.php">computing/index.php</a><br>
-<a href="computing/making_vim_feel_like_emacs.php">computing/making_vim_feel_like_emacs.php</a><br>
-<a href="computing/making_windows_7_usable_in_2021.php">computing/making_windows_7_usable_in_2021.php</a><br>
-<a href="computing/mpv_youtube_quality_picker.php">computing/mpv_youtube_quality_picker.php</a><br>
-<a href="computing/my_dwm_configuration.php">computing/my_dwm_configuration.php</a><br>
-<a href="computing/my_windows_10_setup.php">computing/my_windows_10_setup.php</a><br>
-<a href="computing/obscure_linux_errors.php">computing/obscure_linux_errors.php</a><br>
-<a href="computing/qutebrowser.php">computing/qutebrowser.php</a><br>
-<a href="computing/the_best_way_to_consume_media.php">computing/the_best_way_to_consume_media.php</a><br>
-<a href="computing/the_best_windows_software.php">computing/the_best_windows_software.php</a><br>
-<a href="computing/the_fallacy_of_program_ease.php">computing/the_fallacy_of_program_ease.php</a><br>
-<a href="computing/the_power_of_thinkpads.php">computing/the_power_of_thinkpads.php</a><br>
-<a href="computing/the_unix_hater_handbook_overview.php">computing/the_unix_hater_handbook_overview.php</a><br>
-<a href="computing/vim_leader.php">computing/vim_leader.php</a><br>
-<a href="computing/why_gaming_vpns_are_a_scam.php">computing/why_gaming_vpns_are_a_scam.php</a><br>
-<a href="computing/why_ricing_isnt_a_waste_of_time.php">computing/why_ricing_isnt_a_waste_of_time.php</a><br>
-<a href="computing/window_managers.php">computing/window_managers.php</a><br>
-<a href="geography/footer.php">geography/footer.php</a><br>
-<a href="geography/header.php">geography/header.php</a><br>
-<a href="history/central_europe.php">history/central_europe.php</a><br>
-<a href="history/footer.php">history/footer.php</a><br>
-<a href="history/hallstatt_culture.php">history/hallstatt_culture.php</a><br>
-<a href="history/header.php">history/header.php</a><br>
-<a href="history/index.php">history/index.php</a><br>
-<a href="literature/books_ive_read.php">literature/books_ive_read.php</a><br>
-<a href="literature/fiction.php">literature/fiction.php</a><br>
-<a href="literature/footer.php">literature/footer.php</a><br>
-<a href="literature/header.php">literature/header.php</a><br>
-<a href="literature/index.php">literature/index.php</a><br>
-<a href="literature/non_fiction.php">literature/non_fiction.php</a><br>
-<a href="literature/term_definitions.php">literature/term_definitions.php</a><br>
-<a href="music/albums_ive_heard.php">music/albums_ive_heard.php</a><br>
-<a href="music/footer.php">music/footer.php</a><br>
-<a href="music/header.php">music/header.php</a><br>
-<a href="music/index.php">music/index.php</a><br>
-<a href="music/koss_headphones_the_only_headphones_youll_need.php">music/koss_headphones_the_only_headphones_youll_need.php</a><br>
-<a href="music/albums/blonde_frank_ocean.php">music/albums/blonde_frank_ocean.php</a><br>
-<a href="music/albums/details_frou_frou.php">music/albums/details_frou_frou.php</a><br>
-<a href="music/albums/dinosaurchestra_lemon_demon.php">music/albums/dinosaurchestra_lemon_demon.php</a><br>
-<a href="music/albums/diorama_silverchair.php">music/albums/diorama_silverchair.php</a><br>
-<a href="music/albums/disintegration_the_cure.php">music/albums/disintegration_the_cure.php</a><br>
-<a href="music/albums/footer.php">music/albums/footer.php</a><br>
-<a href="music/albums/header.php">music/albums/header.php</a><br>
-<a href="music/albums/mad_city_kendrick_lamar.php">music/albums/mad_city_kendrick_lamar.php</a><br>
-<a href="music/albums/the_orbiting_human_circus_the_music_tapes.php">music/albums/the_orbiting_human_circus_the_music_tapes.php</a><br>
-<a href="music/albums/the_used_the_used.php">music/albums/the_used_the_used.php</a><br>
-<a href="music/albums/wide_angle_hybrid.php">music/albums/wide_angle_hybrid.php</a><br>
-<a href="my_life/2021.php">my_life/2021.php</a><br>
-<a href="my_life/footer.php">my_life/footer.php</a><br>
-<a href="my_life/header.php">my_life/header.php</a><br>
-<a href="programming/algorithms.php">programming/algorithms.php</a><br>
-<a href="programming/autohotkey_key_and_basic_command_index.php">programming/autohotkey_key_and_basic_command_index.php</a><br>
-<a href="programming/config_converter_for_linux.php">programming/config_converter_for_linux.php</a><br>
-<a href="programming/footer.php">programming/footer.php</a><br>
-<a href="programming/header.php">programming/header.php</a><br>
-<a href="programming/index.php">programming/index.php</a><br>
-<a href="programming/moses.php">programming/moses.php</a><br>
-<a href="programming/moses_rat.php">programming/moses_rat.php</a><br>
-<a href="programming/my_linux_recycle_bin.php">programming/my_linux_recycle_bin.php</a><br>
-<a href="programming/my_website_theme.php">programming/my_website_theme.php</a><br>
-<a href="programming/randomizing_current_wallpaper.php">programming/randomizing_current_wallpaper.php</a><br>
-<a href="programming/taking_notes_in_html.php">programming/taking_notes_in_html.php</a><br>
-<a href="visual_media/amelie.php">visual_media/amelie.php</a><br>
-<a href="visual_media/andrew_wood_documentary.php">visual_media/andrew_wood_documentary.php</a><br>
-<a href="visual_media/anime_ive_watched.php">visual_media/anime_ive_watched.php</a><br>
-<a href="visual_media/apetor.php">visual_media/apetor.php</a><br>
-<a href="visual_media/footer.php">visual_media/footer.php</a><br>
-<a href="visual_media/header.php">visual_media/header.php</a><br>
-<a href="visual_media/index.php">visual_media/index.php</a><br>
-<a href="visual_media/movies_ive_watched.php">visual_media/movies_ive_watched.php</a>
+downloads.php
+sitemap.php
+term_definitions.php
+about_me.php
+about_this_website.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/a_case_for_tiling_window_manager_usage.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/about_rms_website.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/algorithms.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/an_efficient_vim.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/autohotkey_key_and_basic_command_index.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/bad_openbox_configuration.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/clamav_the_only_non_shit_antivirus.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/config_converter_for_linux.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/dwm_bar.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/footer.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/header.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/i3_in_win.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/index.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/making_vim_feel_like_emacs.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/making_windows_7_usable_in_2021.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/menu.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/moses.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/moses_rat.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/mpv_youtube_quality_picker.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/my_dwm_configuration.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/my_linux_recycle_bin.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/my_website_theme.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/my_windows_10_setup.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/obscure_linux_errors.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/offline_proofing_windows_7.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/qutebrowser.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/randomizing_current_wallpaper.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/taking_notes_in_html.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/the_best_way_to_consume_media.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/the_best_windows_software.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/the_fall_of_linux_desktops.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/the_fallacy_of_program_ease.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/the_power_of_thinkpads.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/the_unix_hater_handbook_overview.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/vim_leader.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/why_gaming_vpns_are_a_scam.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/why_ricing_isnt_a_waste_of_time.php
+/c/Users/brody/Documents/Projects/rethy.xyz/computing/window_managers.php
+/c/Users/brody/Documents/Projects/rethy.xyz/geography/footer.php
+/c/Users/brody/Documents/Projects/rethy.xyz/geography/header.php
+/c/Users/brody/Documents/Projects/rethy.xyz/geography/menu.php
+/c/Users/brody/Documents/Projects/rethy.xyz/history/central_europe.php
+/c/Users/brody/Documents/Projects/rethy.xyz/history/footer.php
+/c/Users/brody/Documents/Projects/rethy.xyz/history/hallstatt_culture.php
+/c/Users/brody/Documents/Projects/rethy.xyz/history/header.php
+/c/Users/brody/Documents/Projects/rethy.xyz/history/index.php
+/c/Users/brody/Documents/Projects/rethy.xyz/history/menu.php
+/c/Users/brody/Documents/Projects/rethy.xyz/literature/books_ive_read.php
+/c/Users/brody/Documents/Projects/rethy.xyz/literature/fiction.php
+/c/Users/brody/Documents/Projects/rethy.xyz/literature/footer.php
+/c/Users/brody/Documents/Projects/rethy.xyz/literature/header.php
+/c/Users/brody/Documents/Projects/rethy.xyz/literature/index.php
+/c/Users/brody/Documents/Projects/rethy.xyz/literature/menu.php
+/c/Users/brody/Documents/Projects/rethy.xyz/literature/non_fiction.php
+/c/Users/brody/Documents/Projects/rethy.xyz/literature/term_definitions.php
+/c/Users/brody/Documents/Projects/rethy.xyz/music/albums_ive_heard.php
+/c/Users/brody/Documents/Projects/rethy.xyz/music/footer.php
+/c/Users/brody/Documents/Projects/rethy.xyz/music/header.php
+/c/Users/brody/Documents/Projects/rethy.xyz/music/index.php
+/c/Users/brody/Documents/Projects/rethy.xyz/music/koss_headphones_the_only_headphones_youll_need.php
+/c/Users/brody/Documents/Projects/rethy.xyz/music/menu.php
+/c/Users/brody/Documents/Projects/rethy.xyz/music/albums/blonde_frank_ocean.php
+/c/Users/brody/Documents/Projects/rethy.xyz/music/albums/details_frou_frou.php
+/c/Users/brody/Documents/Projects/rethy.xyz/music/albums/dinosaurchestra_lemon_demon.php
+/c/Users/brody/Documents/Projects/rethy.xyz/music/albums/diorama_silverchair.php
+/c/Users/brody/Documents/Projects/rethy.xyz/music/albums/disintegration_the_cure.php
+/c/Users/brody/Documents/Projects/rethy.xyz/music/albums/footer.php
+/c/Users/brody/Documents/Projects/rethy.xyz/music/albums/header.php
+/c/Users/brody/Documents/Projects/rethy.xyz/music/albums/mad_city_kendrick_lamar.php
+/c/Users/brody/Documents/Projects/rethy.xyz/music/albums/menu.php
+/c/Users/brody/Documents/Projects/rethy.xyz/music/albums/the_orbiting_human_circus_the_music_tapes.php
+/c/Users/brody/Documents/Projects/rethy.xyz/music/albums/the_used_the_used.php
+/c/Users/brody/Documents/Projects/rethy.xyz/music/albums/wide_angle_hybrid.php
+/c/Users/brody/Documents/Projects/rethy.xyz/my_life/2021.php
+/c/Users/brody/Documents/Projects/rethy.xyz/my_life/footer.php
+/c/Users/brody/Documents/Projects/rethy.xyz/my_life/header.php
+/c/Users/brody/Documents/Projects/rethy.xyz/my_life/menu.php
+/c/Users/brody/Documents/Projects/rethy.xyz/visual_media/amelie.php
+/c/Users/brody/Documents/Projects/rethy.xyz/visual_media/andrew_wood_documentary.php
+/c/Users/brody/Documents/Projects/rethy.xyz/visual_media/anime_ive_watched.php
+/c/Users/brody/Documents/Projects/rethy.xyz/visual_media/apetor.php
+/c/Users/brody/Documents/Projects/rethy.xyz/visual_media/footer.php
+/c/Users/brody/Documents/Projects/rethy.xyz/visual_media/header.php
+/c/Users/brody/Documents/Projects/rethy.xyz/visual_media/index.php
+/c/Users/brody/Documents/Projects/rethy.xyz/visual_media/menu.php
+/c/Users/brody/Documents/Projects/rethy.xyz/visual_media/movies_ive_watched.php

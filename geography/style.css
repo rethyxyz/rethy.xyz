@@ -59,7 +59,8 @@ section {
     padding: 5px;
     position: fixed;
     overflow-x: hidden;
-    background-color: grey;
+    background: url(https://img.itch.zone/aW1nLzQwODk2MzIuanBn/original/Rf39kw.jpg) repeat fixed center;
+
 }
 
 @media screen and (max-height: 500px) {
