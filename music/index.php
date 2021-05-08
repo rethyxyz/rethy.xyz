@@ -9,6 +9,8 @@
 <a href="../index.php">Go to site index</a>
 </div>
 
+<?php include 'menu.php';?>
+
 <div class="main">
 <h1>Music</h1>
 <p>Articles on music related things, and album reviews/write ups. All about music. </p> <hr>

@@ -10,6 +10,8 @@
 <a href="index.php">Go to site index</a>
 </div>
 
+<?php include 'menu.php';?>
+
 <h1>About This Website</h1> <hr>
 <p><a href="https://rethy.xyz">https://rethy.xyz</a> is about creating <b>useful</b> content. Most is computer related, but I also share other things related to learning, like <a href="visual_media/index.php">visual media</a>, <a href="music/index.php">music</a>, <a href="literature/index.php">literature</a>, and likely more whenever I feel like it.</p>
 

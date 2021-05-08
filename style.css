@@ -52,9 +52,9 @@ section {
     top: 0;
     left: 0;
     z-index: 1;
-    width: auto;
+    width: 100px;
     max-width: 120px;
-    height: auto;
+    height: 100%;
     font-size: 13px;
     padding: 5px;
     position: absolute;
@@ -68,7 +68,7 @@ section {
 }
 
 /*
-* Much of this CSS was stolen and redesigned from http://xahlee.info, as he his good site design.
-*
-* Thanks, Xah.
-* /
+ * Much of this CSS was stolen and redesigned from http://xahlee.info, as he his good site design.
+ *
+ * Thanks, Xah.
+ */
