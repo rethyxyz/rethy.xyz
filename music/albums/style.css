@@ -11,7 +11,7 @@ font_brown { color: brown; }
 .footer { float: bottom; display: line; }
 
 a { color: inherit; }
-b { text-shadow: #688e23 0px 1px 0px, #556b2f 1px 2px 3px; }
+
 big { font-size: 25px; }
 blockquote { font-style: italic; }
 code { border: solid thin grey; }
@@ -19,47 +19,55 @@ iframe { max-width: 75%; }
 img { padding: 1px; max-width: 75%; }
 table, th, td { border: 1px solid lightgrey; }
 
-h1, h2, h3 {
-cursor: default;
-text-shadow: #688e23 0px 2px 0px, #556b2f 1px 4px 6px;
-white-space: nowrap;
-}
-
 body {
-background-color: #dcdcdc;
-font-family: "MS PGothic", "Mona", "Hiragino Kaku Gothic Pro", Helvetica, sans-serif;
-margin: 0 auto;
-max-width: 1245px;
-padding: 20px;
-font-size: 15px;
+    padding: 20px;
+    margin-left: 120px;
 }
 
 section {
-border: solid thin grey;
-padding: .3rem;
-margin: 4px; 
+    border: solid thin grey;
+    padding: .3rem;
+    margin: 4px;
 }
 
 .image_box a {
-max-width: 150px;
-max-height: 150px;
-display: inline-block;
-border: solid thin grey;
-padding: 8px;
-margin: 4px; 
-font-size: 12px;
-text-align: center;
+    max-width: 150px;
+    max-height: 150px;
+    display: inline-block;
+    border: solid thin grey;
+    padding: 8px;
+    margin: 4px;
+    font-size: 12px;
+    text-align: center;
 }
 
 .back_button a {
-display: inline-block;
-border: solid thin grey;
-padding: 8px;
-margin: 4px; 
+    display: inline-block;
+    border: solid thin grey;
+    padding: 8px;
+    margin: 4px;
+}
+
+.sidenav {
+    top: 0;
+    left: 0;
+    z-index: 1;
+    width: 100px;
+    max-width: 120px;
+    height: 100%;
+    font-size: 13px;
+    padding: 5px;
+    position: fixed;
+    overflow-x: hidden;
+    background-color: grey;
+}
+
+@media screen and (max-height: 500px) {
+    .sidenav a { font-size: 10px; }
 }
 
 /*
-* Much of this CSS was stolen and redesigned from http://xahlee.info, as he his good site design.
-*
-* Thanks, Xah.
-* /
+ * Much of this CSS was stolen and redesigned from http://xahlee.info, as he his good site design.
+ *
+ * Thanks, Xah.
+ */

@@ -6,6 +6,8 @@
 	</head>
 
 <body>
+<?php include 'menu.php';?>
+
 <div class="main">
 <h1>A Case <i>for</i> Tiling Window Manager Usage</h1>
 

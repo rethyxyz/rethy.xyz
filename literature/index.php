@@ -13,7 +13,7 @@
 
 <div class="main">
 <h1>Literature</h1>
-<p>Books written (probably) just in the English language.</p>
+<p>About pieces of writing written in the English language. I cover novels, novellas, technical documents, research papers, and comics, but am not limiting myself to just that.</p>
 
 <section> 
 <p><b><small>2021-01-27</small></b></p>

@@ -5,6 +5,8 @@
 	</head>
 
 	<body>
+        <?php include 'menu.php';?>
+
 		<div class="main">
 			<h1>Why Ricing Isn't a Waste of Time</h1>
 			<p><b><small>Created: 2021-02-10 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></small></b></p><hr>

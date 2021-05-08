@@ -6,19 +6,17 @@
 </head>
 
 <body>
+<?php include 'menu.php';?>
+
 <div class="back_button">
 <a href="index.php">Go to site index</a>
 </div>
 
-<?php include 'menu.php';?>
-
 <div class="main">
-<h1>About Me</h1> <hr>
+<h1>About Me</h1>
+<hr>
 <p>
-I'm Brody Rethy.
-I am an autodidact with a focus on programming and computing.
-I'm also interested in music, film, philosophy, and most other forms of learning.
-This is my website.
+    I'm Brody Rethy. I am an autodidact with a focus on programming and computing. I'm also interested in music, film, philosophy, and most other forms of learning. This is my website.
 </p>
 
 <p>

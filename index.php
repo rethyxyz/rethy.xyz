@@ -10,7 +10,7 @@
 <div class="main">
 <p><big><b>Schizo notes.</b></big></p>
 
-<p>Welcome to my website. Mostly, I use Linux, focusing on sysadmin and Bash scripting, but (unfortunately) have skills in Windows Administration as well. This is a website where I talk about computing, programming, visual media, literature, music, and more.</p>
+<p>A website about computing, programming, visual media, literature, music, and more.</p>
 
 <p>
 Newest article:

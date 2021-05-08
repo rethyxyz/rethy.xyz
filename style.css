@@ -27,7 +27,7 @@ body {
 section {
     border: solid thin grey;
     padding: .3rem;
-    margin: 4px; 
+    margin: 4px;
 }
 
 .image_box a {
@@ -36,7 +36,7 @@ section {
     display: inline-block;
     border: solid thin grey;
     padding: 8px;
-    margin: 4px; 
+    margin: 4px;
     font-size: 12px;
     text-align: center;
 }
@@ -45,7 +45,7 @@ section {
     display: inline-block;
     border: solid thin grey;
     padding: 8px;
-    margin: 4px; 
+    margin: 4px;
 }
 
 .sidenav {
@@ -57,13 +57,12 @@ section {
     height: 100%;
     font-size: 13px;
     padding: 5px;
-    position: absolute;
-    overflow-x: hidden; 
+    position: fixed;
+    overflow-x: hidden;
     background-color: grey;
 }
 
-@media screen and (max-height: 450px) {
-    .sidenav { padding-top: 15px; }
+@media screen and (max-height: 500px) {
     .sidenav a { font-size: 10px; }
 }
 

@@ -1,10 +1,12 @@
 <html>
-	<head>
-		<?php include 'header.php';?>
-		<title>Hallstatt Culture - rethy.xyz</title>
-	</head>
+<head>
+<?php include 'header.php';?>
+<title>Hallstatt Culture - rethy.xyz</title>
+</head>
 
 <body>
+<?php include 'menu.php';?>
+
 <div class="main">
 <h1>Hallstatt Culture</h1>
 <p><b><small>Created: 2021-02-12 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></small></b></p>
@@ -25,17 +27,17 @@
 <!--<img src="">-->
 
 <p>
-	Categorized as:
-	<ul>
-	<li>Widely farming communities</li>
-	<li>Highly-advanced metal-working</li>
-	<li>Long-range trade within the area and with Mediterranean cultures towards end of Hallstatt</li>
-	<li>Tribal based (little is known)</li>
-	<li>Villages
-		<ul>
-		<li>Only a few, such as Heuneburg in the south of Germany, were considered towns rather than villages</li></li>
-		</ul>
-	</ul>
+Categorized as:
+<ul>
+<li>Widely farming communities</li>
+<li>Highly-advanced metal-working</li>
+<li>Long-range trade within the area and with Mediterranean cultures towards end of Hallstatt</li>
+<li>Tribal based (little is known)</li>
+<li>Villages
+<ul>
+<li>Only a few, such as Heuneburg in the south of Germany, were considered towns rather than villages</li></li>
+</ul>
+</ul>
 </p>
 
 <p>A period emphasizing social distinction, in an age of clashing elite classes of chieftains and warriors.</p>
@@ -104,6 +106,6 @@ Primary zones:
 
 <hr>
 
-		<?php include 'footer.php';?>
-	</body>
+<?php include 'footer.php';?>
+</body>
 </html>

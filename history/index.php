@@ -6,6 +6,8 @@
 
 <body>
 <div class="back_button">
+<?php include 'menu.php';?>
+
 <a href="../index.php">Go to site index</a>
 </div>
 

@@ -6,6 +6,8 @@
     </head>
 
 <body>
+<?php include 'menu.php';?>
+
 <div class="main">
 
 <h1>Algorithms <small>(sorted alphabetically)</small></h1>

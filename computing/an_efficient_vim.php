@@ -6,6 +6,8 @@
 
 <body>
 <div class="main">
+<?php include 'menu.php';?>
+
 <h1>An Efficient vim</h1>
 <p><small><b>Created: 2020-12-23 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></b></small></p> <hr>
 
