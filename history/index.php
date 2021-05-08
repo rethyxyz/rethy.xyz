@@ -1,28 +1,30 @@
 <html>
-	<head>
-		<?php include 'header.php';?>
-		<title>History - rethy.xyz</title>
-	</head>
+<head>
+<?php include 'header.php';?>
+<title>History - rethy.xyz</title>
+</head>
 
-	<body>
-		<div class="back_button">
-			<a href="../index.php">Go to site index</a>
-		</div>
+<body>
+<div class="back_button">
+<a href="../index.php">Go to site index</a>
+</div>
 
-		<div class="main">
-			<h1>History</h1>
-			<p>A page for history, about history.</p>
+<?php include 'menu.php';?>
 
-			<section>
-			<small><b>2021-02-12</b></small>
-			<p><a href="hallstatt_culture.php">Hallstatt Culture A-D</a></p>
-			</section>
+<div class="main">
+<h1>History</h1>
+<p>A page for history, about history.</p>
 
-			</a>
-		</div>
+<section>
+<small><b>2021-02-12</b></small>
+<p><a href="hallstatt_culture.php">Hallstatt Culture A-D</a></p>
+</section>
 
-		<hr>
+</a>
+</div>
 
-		<?php include 'footer.php';?>
-	</body>
+<hr>
+
+<?php include 'footer.php';?>
+</body>
 </html>

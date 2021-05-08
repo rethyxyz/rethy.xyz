@@ -5,17 +5,12 @@
 </head>
 
 <body>
+<?php include 'menu.php';?>
+
 <div class="main">
-<p>
-<center>
-	<img src='files/shroom0.jpg' height=100px width=100px />
-	<h3><a href="https://rethy.xyz/">https://rethy.xyz/</a></h3>
-</center>
-</p> <hr>
+<p><big><b>Schizo notes.</b></big></p>
 
-<p><big><b>Schizoid notations</b></big></p>
-
-<p>Talking about computing, programming, visual media, literature, music, and more.</p>
+<p>Welcome to my website. Mostly, I use Linux, focusing on sysadmin and Bash scripting, but (unfortunately) have skills in Windows Administration as well. This is a website where I talk about computing, programming, visual media, literature, music, and more.</p>
 
 <p>
 Newest article:
@@ -55,7 +50,7 @@ Other pages about me:
 </ul>
 </p> <hr>
 
-<p> <h1><a href="sitemap.php">Sitemap</a></h1> </p>
+<p><a href="sitemap.php">Sitemap</a></p>
 </div> <hr>
 
 <?php include 'footer.php';?>

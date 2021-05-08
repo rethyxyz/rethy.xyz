@@ -9,6 +9,8 @@
 <a href="../index.php">Go to site index</a>
 </div>
 
+<?php include 'menu.php';?>
+
 <div class="main">
 <h1>Computing</h1>
 <p>Articles/everything related to computing. Things will usually be either Arch Linux or Windows (7) related..</p>

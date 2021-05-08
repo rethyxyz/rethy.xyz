@@ -10,6 +10,8 @@
 <a href="index.php">Go to site index</a>
 </div>
 
+<?php include 'menu.php';?>
+
 <div class="main">
 <h1>About Me</h1> <hr>
 <p>
