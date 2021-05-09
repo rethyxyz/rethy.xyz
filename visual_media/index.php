@@ -1,4 +1,5 @@
 <html>
+
 <head>
 <?php include 'header.php';?>
 <title>Visual Media - rethy.xyz</title>
@@ -13,31 +14,25 @@
 
 <div class="main">
 <h1>Visual Media</h1>
-
 <p>Media: The plural form of medium.</p>
-
-<section>
-<p><b><small>2021-02-18</small></b></p>
-<p><a href="andrew_wood_documentary.php">Malfunkshun | The Andrew Wood Story</a></p>
-<p> <center> <img src="files\mother_love_bone.jpg" /> </center> </p>
-<p>A documentary about the man behind the bands Malfunkshun and Mother Love Bone, two proto-grunge bands.</p>
-</section>
 
 <section>
 <p><b><small>2021-02-12</small></b></p>
 <p><a href="amelie.php">Amelie (Le Fabuleux Destin d'Amelie Poulain)</a></p>
-<center><p><img src="movies/covers/amelie_cover.jpg"></p></center>
+<center>
+<p><img src="movies/covers/amelie_cover.jpg"></p>
+</center>
 <p>A write up on the movie Amelie. I talk about its depth, subtleties, her personality type, and my dislikes with it. Overall, a fantastic movie I've seen many times over.</p>
 </section>
 
 <section>
 <p><b><small>2021-02-12</small></b></p>
 <p><a href="apetor.php">Apetor</a></p>
-<center><p><img src="files/apetor_drink_1.png"></p></center>
+<center>
+<p><img src="files/apetor_drink_1.png"></p>
+</center>
 <p>All about the prestigious YouTube channel <a href="apetor.php">Apetor</a>.</p>
 </section>
-
-
 
 <h1>Lists</h1>
 <section>
@@ -66,4 +61,5 @@
 
 <?php include 'footer.php';?>
 </body>
+
 </html>

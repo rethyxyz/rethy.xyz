@@ -25,12 +25,20 @@
 	<a href="albums/the_orbiting_human_circus_the_music_tapes.php"><img src="albums/album_covers/the_orbiting_human_circus_the_music_tapes.jpg"><p>The Orbiting Human Circus - The Music Tapes</p></a>
 	<a href="albums/the_used_the_used.php"><img src="albums/album_covers/the_used_the_used.jpg"><p>The Used - The Used</p></a>
 	<a href="albums/wide_angle_hybrid.php"><img src="albums/album_covers/wide_angle_hybrid.jpg"><p>Wide Angle - Hybrid</p></a>
+    <a href="albums/laleh_laleh.php"><img src="albums/album_covers/laleh_laleh.jpg" width=300px /><p>Laleh - Laleh</p></a>
 </center>
 </div>
 
 <hr>
 
 <h1>Articles</h1>
+<section>
+<p><b><small>2021-02-18</small></b></p>
+<p><a href="andrew_wood_documentary.php">Malfunkshun | The Andrew Wood Story</a></p>
+<p> <center> <img src="files\mother_love_bone.jpg" /> </center> </p>
+<p>A documentary about the man behind the bands Malfunkshun and Mother Love Bone, two proto-grunge bands.</p>
+</section>
+
 <section>
 <p><b>2020-01-27</b></p>
 <p><a href="koss_headphones_the_only_headphones_youll_need.php">Koss Headphones: The Only Headphones You'll Ever Need</a></p>

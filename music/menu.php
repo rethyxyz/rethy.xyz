@@ -10,9 +10,5 @@ echo "        <p><a href='https://rethy.xyz/literature/index.php'>Literature</a>
 echo "        <p><a href='https://rethy.xyz/music/index.php'>Music</a></li></p>";
 echo "        <p><a href='https://rethy.xyz/visual_media/index.php'>Visual Media</a></li></p>";
 echo "    </center>";
-echo "    <br>";
-echo "    <center>";
-echo "         <p><img src='files/tux.gif'></p>";
-echo "    </center>";
 echo "</div>";
 ?>

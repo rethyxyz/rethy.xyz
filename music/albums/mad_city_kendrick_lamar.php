@@ -15,9 +15,7 @@
 <hr>
 
 <p>
-<center>
-<img src="album_covers/mad_city_kendrick_lamar.jpg" width=300px />
-</center>
+    <center> <img src="album_covers/mad_city_kendrick_lamar.jpg" width=300px /> </center>
 </p>
 
 <p>Kendrick Lamar in his prime, and, in my not-so-humble-and-massively-knowledgeable-opinion, his best album. In my opinion, this is the feel that <i>To Pimp a Butterfly</i> tried to replicate. An introspective, self-aware, recount of a wide spectrum of emotions manifested into bite size hip-hop tracks.</p>
