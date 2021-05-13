@@ -13,9 +13,9 @@
 
 <p> <center> <img src="files/lost_at_sea_cover.jpg" width="300px" /> </center> </p>
 
-<p>I recently read this comic book by Scott Pilgrim creator called Lost at Sea. I didn't enjoy it very much. It was a quick read - took around an hour - but was lacking content. I enjoyed Scott Pilgrim versus the World, and have read it a couple of time, but won't be reading this one again.</p>
+<p>I recently read this comic book by Scott Pilgrim creator Brian Lee O'Malley called Lost at Sea. I didn't enjoy it much. It was a quick read - took around an hour - but was lacking content. I enjoyed Scott Pilgrim versus the World, and have read it a couple of time, but won't be reading this one again.</p>
 
-<p>To say the least, Lost at Sea was mundane, but not in a good, comfy and calming way. Oh, well. I'm sure I'll still end up reading anything else he puts out.</p>
+<p>To say the least, Lost at Sea was mundane, but not in a good, comfy and calming way. Oh, well. I'm sure I'll still end up reading anything else he puts out none the less.</p>
 
 </div> <hr>
 
