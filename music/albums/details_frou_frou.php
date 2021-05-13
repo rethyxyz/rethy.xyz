@@ -5,8 +5,6 @@
 </head>
 
 <body>
-<?php include 'menu.php';?>
-
 <div class="main">
 <h1>Details - Frou Frou</h1>
 <p><b><small>Created: 2021-04-06 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></small></b></p>

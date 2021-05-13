@@ -5,11 +5,10 @@
 	</head>
 
 	<body>
-        <?php include 'menu.php';?>
-
 		<div class="main">
 			<h1>Using the Vim Leader Key</h1>
-			<small><b>Created: 2020-12-18 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></b></small>
+			<small><b>Created: 2020-12-18 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></b></small> <hr>
+
 			<p>I have noticed that a lot of vimmers do not make use of the leader key either at all or to it's fullest potential. In case you don't know, leader is the \ (backslash) key (which can be changed in your <code>.vimrc</code> using <code>let mapleader = ","</code> (change comma to your desired key)) on your keyboard.</p>
 
 			<p>Here are a few useful actions to execute using the leader key (add these to your <code>.vimrc</code>):</p>

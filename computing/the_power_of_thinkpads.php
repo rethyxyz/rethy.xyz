@@ -5,8 +5,6 @@
 </head>
 
 <body>
-<?php include 'menu.php';?>
-
 <div class="main">
 <h1>The Power of ThinkPads</h1>
 <p><b><small>Created: 2021-01-30 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></small></b></p><hr>
@@ -34,7 +32,7 @@ It also had the obvious stuff, like: 1x RJ45 port, 1x headphone port, 1x microph
 
 <p>At the time, I was running Ubuntu 14.04/16.04, Arch Linux, and Debian 7, 8, and 9. My main OS was Debian. I always ran <code>i3wm</code>, only dabbling with <code>dwm</code> towards the T500s end of life. For the most part, I only used terminal based programs, aside from firefox and a few others. My T500 felt snappier than any new laptop on the market, totally because of 1) the great keyboard (not the flat trash we have nowadays), and 2) the great TrackPoint of OG ThinkPads. This is only counting hardware, I'm not counting the great software that is tiling managers. You don't need those modern spyware machines when you use good software.</p>
 
-<p>The old bastard was libreboot and quadcore capable too. Fucking hell this thing was nuts. The old thing even had a detachable CPU. What kind of laptop has a removable CPU now? None. They butchered it all. Good doesn't appeal to the general public. They prefer the sheen of a MacBook, or the so-called "ease of use" of the Microsoft Surface. The industrial complex strikes again, but I digress.</p>
+<p>The laptop was libreboot and quadcore capable, and a detachable CPU. What kind of laptop has a removable CPU now? Very solemnly. Good doesn't appeal to the general public. They prefer the sheen of a MacBook, or the so-called "ease of use" of the Microsoft Surface. The industrial complex strikes again, but I digress.</p>
 
 <p>From my research, this was the peak of old ThinkPads, which I still believe. Actually, even more so, the peak laptop. If you're looking for a big laptop, one that's customizable, one that's free from the constrictions of proprietary software, and know how to use a computer and surpass its incapabilities, buy this. If you want a super small one, buy a laptop from the ThinkPad X-Series. That's what I'll buy next in 2 to 4 years, after I my E550 breaks or if I get bored of it and have enough disposable income.</p>
 

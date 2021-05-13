@@ -6,8 +6,6 @@
 </head>
 
 <body>
-<?php include 'menu.php';?>
-
 <div class="main">
 <h1>The Best Way to Consume Media: Newsboat</h1>
 <small><b>Created: 2020-12-16 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></b></small>

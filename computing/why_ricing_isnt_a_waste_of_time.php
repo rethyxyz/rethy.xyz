@@ -5,8 +5,6 @@
 	</head>
 
 	<body>
-        <?php include 'menu.php';?>
-
 		<div class="main">
 			<h1>Why Ricing Isn't a Waste of Time</h1>
 			<p><b><small>Created: 2021-02-10 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></small></b></p><hr>
@@ -24,7 +22,6 @@
 			<p>
 			See also:
 			<ul>
-			<li><a href="desktops.php">Desktops</a></li>
 			<li><a href="a_case_for_tiling_window_manager_usage.php">A Case for Tiling Window Manager Usage</a></li>
 			</ul>
 			</p>

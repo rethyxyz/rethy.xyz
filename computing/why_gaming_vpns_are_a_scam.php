@@ -5,8 +5,6 @@
 	</head>
 
 	<body>
-        <?php include 'menu.php';?>
-
 		<div class="main">
 			<h1>Gaming VPNs Are Scams</h1>
 			<small><b>Created: 2020-12-11 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></b></small><hr>

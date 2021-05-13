@@ -5,13 +5,9 @@
 </head>
 
 <body>
-<?php include 'menu.php';?>
-
 <div class="main">
 <h1>Term Definitions</h1>
-<p><small><b>Created: 2020-01-30 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></b></small></p>
-
-<hr>
+<p><small><b>Created: 2020-01-30 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></b></small></p> <hr>
 
 <h2>Pejorative</h2> <p>A pejorative word or expression is one that expresses criticism of someone or something.</p>
 

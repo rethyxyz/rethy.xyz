@@ -6,8 +6,6 @@
     </head>
 
 <body>
-<?php include 'menu.php';?>
-
 <div class="main">
 <h1>Window Managers Explained</h1>
 <hr>

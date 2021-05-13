@@ -5,8 +5,6 @@
 </head>
 
 <body>
-<?php include 'menu.php';?>
-
 <div class="main">
 <h1>Central Europe</h1>
 <p><a href="index.php">Check out my history page.</a></p>

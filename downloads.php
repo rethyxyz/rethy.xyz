@@ -5,8 +5,6 @@
 </head>
 
 <body>
-<?php include 'menu.php';?>
-
 <div class="main">
 <h1>Downloads</h1>
 <p><small><b>Swim in the sea of my software...</b></small></p> 

@@ -6,8 +6,6 @@
     </head>
 
     <body>
-    <?php include 'menu.php';?>
-
         <div class="main">
             <h1>moses.rat</h1>
             <p><small>Created: 2021-01-26 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></small></p>

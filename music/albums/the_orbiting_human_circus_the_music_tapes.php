@@ -6,8 +6,6 @@
     </head>
 
 <body>
-<?php include 'menu.php';?>
-
 <div class="main">
 <h1>The Orbiting Human Circus - The Music Tapes</h1>
 <p><small><b>Created: 2020-12-16 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></b></small></p><hr>

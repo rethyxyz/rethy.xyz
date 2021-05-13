@@ -6,11 +6,8 @@
 	</head>
 
 <body>
-<?php include 'menu.php';?>
-
 <div class="main">
 <h1>A Case <i>for</i> Tiling Window Manager Usage</h1>
-
 
 <p><small><b>Created: 2021-01-23 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></b></small></p> <hr>
 

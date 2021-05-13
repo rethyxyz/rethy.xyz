@@ -6,8 +6,6 @@
 </head>
 
 <body>
-<?php include 'menu.php';?>
-
 <div class="main">
 <h1>Movies I've Watched</h1> <hr>
 <p>This page serves as a chronicle of the movies I've watched. More will be added whenever I get around to it. Just because a movie is on here, doesn't mean I enjoyed it.</p>

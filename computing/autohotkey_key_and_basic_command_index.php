@@ -6,10 +6,8 @@
 </head>
 
 <body>
-<?php include 'menu.php';?>
-
-<div class="main">
 <h1>AutoHotkey Key and Basic Command Index</h1>
+<div class="main">
 <p><b><small>Created: 2019-??-?? | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></small></b></p> <hr>
 
 <p> <font color="red"><center>AutoHotkey is only supported on Windows operating systems.</center></font> </p>

@@ -1,13 +1,11 @@
 <html>
-	<head>
-		<?php include "header.php"; ?>
-		<title>An Efficient vim - rethy.xyz</title>
-	</head>
+<head>
+<?php include "header.php"; ?>
+<title>An Efficient vim - rethy.xyz</title>
+</head>
 
 <body>
 <div class="main">
-<?php include 'menu.php';?>
-
 <h1>An Efficient vim</h1>
 <p><small><b>Created: 2020-12-23 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></b></small></p> <hr>
 
@@ -25,17 +23,17 @@
 <code>set path+=**</code>
 </p>
 
-<h2>Bind Colon (Command Mode) to Semi-Colon</h2>
+<h2>Bind colon (Command Mode) to semi-colon</h2>
 <p><code>:nmap ; :</code></p>
 
-<h2>Defining Filetype Specific Macros</h2>
+<h2>Defining FileType specific macros</h2>
 <p>
 I use a lot of macros, most being filetype specific. It would be useless to define each globally. Filetype definitions go like this: <br> <br>
 <code>:autocmd FileType html let @s='macro_contents_goes_here'</code> <br> <br>
 HTML is the filetype, and everything after that is the macro command. You can also replace HTML with any other filetype, such as .py, .c, .txt, .php, etc.
 </p>
 
-<h2>Defining Macros in <code>.vimrc</code></h2>
+<h2>Defining macros in <code>.vimrc</code></h2>
 <p>I'm assuming that you already know how to record/write macros. If you don't, check out <a href="https://vim.fandom.com/wiki/Macros">this</a> tutorial first. If you don't already have a macro, record one now, then open your <code>.vimrc</code>, and write<br><br>
 <code>let @l=""</code><br><br>
 where <code>l</code> is the letter you want to bind the macro to. Then, while in command mode, hit<br><br>
@@ -43,13 +41,13 @@ where <code>l</code> is the letter you want to bind the macro to. Then, while in
 to paste the contents. Move the pasted contents between the two double quotes ("") of the command previously written out into your <code>.vimrc</code>. This will allow you to create a persistent macro.
 </p>
 
-<h2>Infinite File Modification History</h2>
+<h2>Infinite file modification history</h2>
 <p>
 <code>set undofile</code><br>
 <code>set undodir=~/.vim/undodir</code>
 </p>
 
-<h2>Moving By Relative Line Number</h2>
+<h2>Moving by relative line number</h2>
 <p>This default keybinding will allow you to move by the line number relative to your cursor in both directions (positively and negatively).<br><br>
 <code>line number + Return</code><br><br>
 or<br><br>
@@ -57,7 +55,7 @@ or<br><br>
 An example would be <code>20 + Return</code> to go to the positive 20th line relative to you. This is the best way to get around.
 </p>
 
-<h2>No Need For Nerdtree; Use Netrw Plus the Leader Key</h2>
+<h2>No need For nerdtree; Use Netrw plus leader key</h2>
 <p>
 Instead of using a nerdtree to move through directories/files, use netrw and the leader key. I typically take the most commonly used directories, and bind their paths to leader like this example:<br><br>
 <code>:map &lt;leader&gt;ghh :e ~/repos<CR></code><br><br>
@@ -68,13 +66,13 @@ Add this to your <code>.vimrc</code>:<br><br>
 <code>:map &lt;leader&gt;&lt;leader&gt; :Explore<CR></code>
 </p>
 
-<h2>Don't Type :split/vsplit; Use Leader+c/v</h2>
+<h2>Don't type :split/vsplit; Use leader + c/v</h2>
 <p>
 <code>:map &lt;leader&gt;v :split<CR></code><br>
 <code>:map &lt;leader&gt;c :vsplit<CR></code>
 </p>
 
-<h2>Resize vim Buffers Using Leader+-/=</h2>
+<h2>Resize vim buffers using leader + -/=</h2>
 <p>
 <code>:map &lt;leader&gt;]- :resize -5&lt;CR&gt;</code><br>
 <code>:map &lt;leader&gt;]= :resize +5&lt;CR&gt;</code><br>
@@ -82,44 +80,45 @@ Add this to your <code>.vimrc</code>:<br><br>
 <code>:map &lt;leader&gt;= :vertical resize +5&lt;CR&gt;</code>
 </p>
 
-<h2>Backspace in Insert Mode</h2>
+<h2>Backspace in Insert mode</h2>
 <p>
 <code>set backspace=indent,eol,start</code>
 </p>
 
-<h2>Open in Firefox</h2>
+<h2>Open in firefox (browser)</h2>
 <p>
 For Windows:<br><br>
 <code>:map &lt;leader&gt;off :exe ':silent !"C:\Program Files\Mozilla Firefox\firefox.exe" "%"'&lt;CR&gt;</code><br><br>
 For Linux:<br><br>
-<code>map &lt;leader&gt;off :exe ':silent !qutebrowser % &amp;'&lt;CR&gt;</code>
+<code>map &lt;leader&gt;off :exe ':silent !firefox % &amp;'&lt;CR&gt;</code>
 
 </p>
 
-<h2>Insert date/time to Leader</h2>
+<h2>Insert date/time by hitting leader + date/time</h2>
 <p>
 <code>map &lt;leader&gt;date "=strftime("%F")&lt;CR&gt;P</code><br>
 <code>map &lt;leader&gt;time "=strftime("%T")&lt;CR&gt;P</code>
 </p>
 
-<h2>Abbreviations for Repeditive Words/Terms</h2>
+<h2>Abbreviations for repeditive words/terms</h2>
 <p>
 Here's an example of making one for a website link, like my own: <br> <br>
 <code>:iabbrev !! https://rethy.xyz</code>
 </p>
 
-<hr>
+<h2>Toggle 80 character column</h2>
+<p>
+</p> <hr>
 
 <p>
 See also:
 <ul>
 	<li><a href="making_vim_feel_like_emacs.php">Making vim Feel like Emacs (Without the Bloat)</a></li>
+	<li><a href="the_fallacy_of_program_ease.php">The Fallacy of Program Ease</a></li>
 </ul>
 </p>
 
-</div>
-
-<hr>
+</div> <hr>
 
 <?php include "footer.php"; ?>
 
