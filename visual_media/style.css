@@ -32,6 +32,8 @@ font_brown {
     color: brown;
 }
 
+
+
 .footer {
     float: bottom;
     display: line;
@@ -74,6 +76,7 @@ section {
 
     max-width: 150px;
     max-height: 150px;
+
     margin: 4px;
     padding: 8px;
 

@@ -17,6 +17,13 @@
 
 <section> 
 <p><b><small>2021-01-27</small></b></p>
+<p><a href="literature/lost_at_sea.php">Lost at Sea - Brian Lee O'Malley</a></p>
+<p>I recently read this comic book by Scott Pilgrim creator called Lost at Sea. I didn't enjoy it very much. It was a quick read - took around an hour - but was lacking content. I enjoyed Scott Pilgrim versus the World, and have read it a couple of time, but won't be reading this one again.</p>
+<center><img src="files/lost_at_sea_cover.jpg" width="150px" /></center>
+</section>
+
+<section> 
+<p><b><small>2021-01-27</small></b></p>
 <p><a href="..\computing\the_unix_hater_handbook_overview.php">The Unix Hater's Handbook</a></p>
 <p>My overview of the Unix Hater's Handbook.</p>
 <p>If you're a self-proclaimed Linux <i>"master"</i> like myself, you've already heard the author's arguments. Basically, they bring up some good points, but they're nothing new.</p>
