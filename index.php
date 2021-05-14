@@ -21,7 +21,7 @@
 <p>
 	Newest article:
 	<ul>
-	<li><a href="music/albums/laleh_laleh.php">Laleh - Laleh</a></li>
+	<li><a href="music\albums\dangerous_and_moving_tatu.php">Dangerous and Moving - t.A.T.u</a></li>
 	</ul>
 </p>
 
