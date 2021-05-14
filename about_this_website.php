@@ -13,7 +13,7 @@
 
 <h1>About This Website</h1> <hr>
 <p>
-    <a href="https://rethy.xyz">https://rethy.xyz</a> is about creating <b>useful</b> content. Most is computer related, but I also share other things related to learning, like <a href="visual_media/index.php">visual media</a>, <a href="music/index.php">music</a>, <a href="literature/index.php">literature</a>, and whatever else I deem worthy.
+    <a href="https://rethy.xyz">https://rethy.xyz</a> is about creating <b>useful</b> content, and sharing information. Most is computer related, but I also share other things related to learning, like <a href="visual_media/index.php">visual media</a>, <a href="music/index.php">music</a>, <a href="literature/index.php">literature</a>, and whatever else I deem worthy.
 </p>
 
 <p>
@@ -25,7 +25,7 @@
 </p>
 
 <p>
-    <b><center>All content is free from frills and ulterior motives, as it will always be.</center></b>
+    <center> <b>All content is free from frills and ulterior motives, as it will always be.</b> </center>
 </p>
 </div> <hr>
 

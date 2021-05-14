@@ -9,12 +9,13 @@
 
 <div class="main">
 <h1>Music</h1>
-<p>Articles on music related things, and album reviews/write ups. All about music. </p> <hr>
+<p>Articles on music related things, and album reviews/write-ups. All about music.</p> <hr>
 
 <h1>Albums</h1>
 <div class="image_box">
 <center>
 	<a href="albums/blonde_frank_ocean.php"><img src="albums/album_covers/blonde_frank_ocean.jpg"><p>Blonde - Frank Ocean</p></a>
+	<a href="albums/dangerous_and_moving_tatu.php"><img src="albums/album_covers/dangerous_and_moving_tatu.jpg" /><p>Dangerous and Moving - t.A.T.u</p></a>
 	<a href="albums/details_frou_frou.php"><img src="albums/album_covers/details_frou_frou.jpg"><p>Details - Frou Frou</p></a>
 	<a href="albums/dinosaurchestra_lemon_demon.php"><img src="albums/album_covers/dinosaurchestra_lemon_demon.jpg"><p>Dinosaurchestra - Lemon Demon</p></a>
 	<a href="albums/diorama_silverchair.php"><img src="albums/album_covers/diorama_silverchair.jpg"><p>Diorama - Silverchair</p></a>

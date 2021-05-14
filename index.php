@@ -10,7 +10,7 @@
 	<center>
 		<img src='files/shroom0.jpg' height=100px width=100px />
 		<h3><a href="https://rethy.xyz/">https://rethy.xyz/</a></h3>
-		<p><big><b>Unix person</b></big></p>
+		<p><big><b>Schizo notes</b></big></p>
 	</center>
 </p> <hr>
 

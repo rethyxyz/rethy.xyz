@@ -16,8 +16,8 @@
 <ul>
 	<li><a href="https://github.com/rethyxyz/RIS/archive/master.zip">RIS (rethyxyz's Installation Script)</a></li>
 	<ul>
-		<li>My (semi-)modular Arch Linux installer</li>
-		<li>Replicates my text and vim-based tiling window manager setup</li>
+		<li>My (semi-)modular Arch Linux-based distribution</li>
+		<li>Replicates my text and vim-based tiling window manager (dwm) setup with dotfiles and all</li>
 	</ul>
 </ul>
 
