@@ -1,7 +1,7 @@
 <html>
 <head>
 <?php include 'header.php';?>
-<title>My i3wm-Like Setup in Windows - rethy.xyz</title>
+<title>My Windows 7/10 Setup - rethy.xyz</title>
 </head>
 
 <body>
@@ -76,13 +76,11 @@ My AHK master script in depth (Super means <b>left Windows key</b>):
 
 <p>See also:
 <ul>
-<li><a href="../programming/autohotkey_key_and_basic_command_index.php">AutoHotkey Key and Basic Command Index</a></li>
+<li><a href="autohotkey_key_and_basic_command_index.php">AutoHotkey Key and Basic Command Index</a></li>
 <li><a href="window_managers.php">Windows Managers Explained</a></li>
-<li><a href="making_vim_feel_like_emacs.php">Making <code>vim</code> Feel like <code>Emacs</code></a></li>
+<li><a href="making_vim_feel_like_emacs.php">Making vim Feel like Emacs</a></li>
 </ul>
-</p>
-
-</div>
+</p> </div>
 
 <hr>
 

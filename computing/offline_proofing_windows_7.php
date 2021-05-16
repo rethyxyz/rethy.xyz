@@ -17,7 +17,7 @@
 
 <p>To me, true comfy is being able to go offline and still keep total functionality. Therefore, everything in this list is made to work 1:1 the same offline. As we know, freedom of choice is the biggest part of freedom, and sometime you need to disappear. Keep in mind this article is super broad and fragmented as it's mostly opinion based.</p>
 
-<h2>Updates (Imporant first step)</h2>
+<h2>Updates (Important first step)</h2>
 <p>Malware is not comfy, and neither are security vulnerabilities. <a href="making_windows_7_usable_in_2021.php">Follow this article to install Windows first and beforehand</a>. After, come back here when fully updated.</p>
 
 <h2>Tweaks</h2>
@@ -81,7 +81,7 @@
 
 <h3>Turn off mouse accel</h3>
 <p><center><img src="files/mouse_accel.PNG"></center></p>
-<p>Uncheck <i>Enhance pointer precision</i>. It does the opposite of what it says it will. Turning it off will make your mouse movement consistent, allowing you to build up muscle memory accordingly.</p>
+<p>Un-check <i>Enhance pointer precision</i>. It does the opposite of what it says it will. Turning it off will make your mouse movement consistent, allowing you to build up muscle memory accordingly.</p>
 
 <h3>Change keyboard repeat rate</h3>
 <p><center><img src="files/keyboard_repeat_rate.PNG"></center></p>

@@ -8,20 +8,17 @@
 <div class="main">
 <p>
 	<center>
-		<img src='files/shroom0.jpg' height=100px width=100px />
 		<h3><a href="https://rethy.xyz/">https://rethy.xyz/</a></h3>
-		<p><big><b>Schizo notes</b></big></p>
+		<img src='files/shroom0.jpg' height=100px width=100px />
 	</center>
 </p> <hr>
 
-<p>
-	Writing about computing, programming, visual media, literature, music, and more.
-</p>
+<p>Writing about computing, programming, visual media, literature, music, and more.</p>
 
 <p>
 	Newest article:
 	<ul>
-	<li><a href="music\albums\dangerous_and_moving_tatu.php">Dangerous and Moving - t.A.T.u</a></li>
+        <li><a href="music\albums\dangerous_and_moving_tatu.php">Dangerous and Moving - t.A.T.u</a></li>
 	</ul>
 </p>
 
