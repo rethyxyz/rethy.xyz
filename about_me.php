@@ -13,11 +13,11 @@
 <h1>About Me</h1> <hr>
 <p>First and last name: <b>Brody Rethy</b>.</p>
 
-<p>Primarily, I'm an autodidact with a focus on programming and computing. I'm secondarily interested in music, film, philosophy, and realistically most other schools of learning.</p>
+<p>Primarily, I'm an autodidact with a focus on programming and computing. I'm secondarily interested in music, film, philosophy, and most other forms of learning.</p>
     
-<p>I'm a long time internet user and aficionado. I have (and I mean it) spend countless hours in Internet communities ranging from the top (Twitch (I know every big Twitch thing in the past 10 years), YouTube (same explanation as Twitch, but longer), to some other, more obscure ones (imageboards and such).</p>
+<p>I'm a long time internet user. I have - and I mean it - spend countless hours in Internet communities ranging from the top (Twitch (I know every big Twitch thing in the past 10 years), YouTube (same explanation as Twitch, but longer), to some other, more obscure ones (imageboards and such).</p>
 
-<p>Feel free to email me at: <code>brodyrethy@gmail.com</code></p>
+<p>Feel free to email me at: <code>brodyrethy(at)gmail(dot)com</code></p>
 
 </div> <hr>
 

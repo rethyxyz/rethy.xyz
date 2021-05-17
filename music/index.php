@@ -9,7 +9,7 @@
 
 <div class="main">
 <h1>Music</h1>
-<p>Articles on music related things, and album reviews/write-ups. All about music.</p> <hr>
+<p>Articles on music related things, and album reviews/write-ups. All about music. Most of the music I'm writing about are retrospective pieces on my life at the time of first hearing. I've listened to many albums in the past, and home to share most of them with others aside from just myself.</p> <hr>
 
 <h1>Albums</h1>
 <div class="image_box">
@@ -36,6 +36,7 @@
 <p><a href="andrew_wood_documentary.php">Malfunkshun | The Andrew Wood Story</a></p>
 <p> <center> <img src="files\mother_love_bone.jpg" /> </center> </p>
 <p>A documentary about the man behind the bands Malfunkshun and Mother Love Bone, two proto-grunge bands.</p>
+<p>I wrote this quickly after watching the documentary</p>
 </section>
 
 <section>
