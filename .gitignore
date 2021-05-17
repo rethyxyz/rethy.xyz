@@ -1,5 +1,6 @@
-
+*.html~
 *.swp
+.vscode
+.vscodium
 feh_*
 working_on
-*.html~

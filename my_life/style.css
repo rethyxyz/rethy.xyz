@@ -9,7 +9,7 @@ html {
 }
 iframe { max-width: 75%; }
 img { padding: 1px; max-width: 75%; }
-main { max-width: 900px; }
+main { max-width: 100%; }
 table, th, td { border: 1px solid grey; }
 .footer { float: bottom; display: line; }
 h1, h2, h3 { text-shadow: 2px 2px grey; }
@@ -19,7 +19,7 @@ body {
 	margin: 10 auto;
 	max-width: 1080;
 	padding: 20px;
-    font-family: monospace;
+    font-family: Arial;
     outline: 2px grey solid;
 
     -webkit-box-shadow: 4px 3px 8px 1px #969696;

@@ -20,7 +20,7 @@
 
 <p>It may not sound like it from my explanation of the group's history above, but I actually like this album. I've spend countless hours on it. Surprisingly enough, the music is quite atypical, at least from a North American point-of-view (I'm not sure if all Russian pop from the early-2000s sounds like this). Use of lead synths, synth bass lines, and digitized drum tracks are prevalent throughout. Sweet album.</p>
 
-<p>Favorite track: <b>Perfect Enemy</b> or <b>Dangerous and Moving</b>.</p>
+<p><center>Favorite track: <b>Perfect Enemy</b> or <b>Dangerous and Moving</b></center></p>
 
 </div> <hr>
 

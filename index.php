@@ -13,7 +13,7 @@
 	</center>
 </p> <hr>
 
-<p>Writing about computing, programming, visual media, literature, music, and more.</p>
+<p><center><b>Writing about computing, programming, visual media, literature, music, and more.</b></center></p>
 
 <p>
 	Newest article:
