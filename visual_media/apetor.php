@@ -11,7 +11,7 @@
 
 <p>Apetor: One of my favorite YouTube channels. The one running the channel is named Tor Eckhoff. I first found him during college. Not sure how exactly, probably just YouTube recommendations. Upon finding him, I was instantly hooked. Not just by the humor, but by his simple yet stylistic film making abilities. Also, the landscapes, of course. Most of his videos are outdoors, taking place in Norway. He really makes good use of framing and makes an illusion of fluent movement through smart cuts b-roll footage.</p>
 
-<p>The day I discovered him, I watched almost every video that night, no exaggeration (okay, maybe some exaggeration). The next day, or week or so, I showed the channel to a friend. He was intrigued too, so we decided to view a bunch of them together, waiting for the rest of our friend group to get ready for a 7:00 PM trip to the bar. Quite fitting, eh? This became a topic brought up often between him and I, asking if I had seen the newest video, my views on it, if there was a new one out...</p>
+<p>The day I discovered him, I watched almost every video that night, no exaggeration (okay, maybe some exaggeration). The next day, or week or so, I showed the channel to a friend. He was intrigued too, so we decided to view a bunch of them together, waiting for the rest of our friend group to get ready for a 7:00 PM trip to the bar. This became a topic brought up often between him and I, asking if I had seen the newest video, my views on it, if there was a new one out...</p>
 
 <p>The whole alcohol stuff is pretty great too. In almost every video, the man takes a hearty swig of Vodka and ends it with an "ahhhh", something that's signature to his channel. Typically it's a Norweigian brand called Vikingfjord,</p><br>
 
@@ -26,14 +26,14 @@
 <p>
 <center>
 	<iframe src="https://www.youtube.com/watch?v=5D8zWqzHNPk" width=600px height=350px></iframe><br><br>
-	<small><b>A quick compilation video of some ahhhh</b></small>
+	<small><b><a href="https://www.youtube.com/watch?v=5D8zWqzHNPk">A quick compilation of some ahhhh.</a></b></small>
 </center>
 </p><br>
 
 <p>
 <center>
 	<iframe src="https://www.youtube.com/watch?v=hWw-121EKGI" width=600px height=350px></iframe><br><br>
-	<small><b>Making a Tartre Sandwich, my favorite video by him</b></small>
+	<small><b><a href="https://www.youtube.com/watch?v=hWw-121EKGI">Making a Tartre Sandwich, my favorite by him.</a></b></small>
 </center>
 </p><br>
 
@@ -42,14 +42,14 @@
 <p>
 <center>
 <img src="files/apetor_tartre_sandwich_1.png" /><br><br>
-<small><b>A very nice collection of Vodkas</b></small>
+<small><b>Very nice collection of Vodka.</b></small>
 </center>
 </p><br>
 
 <p>
 <center>
 <img src="files/apetor_tartre_sandwich_2.png" /><br><br>
-<small><b>The sandwich in question</b></small>
+<small><b>The sandwich in question.</b></small>
 </center>
 </p><br>
 
@@ -59,7 +59,7 @@
 See also:
 <ul>
 <li><a href="amelie.php">Amelie (Le Fabuleux Destin d'Amelie Poulain)</a></li>
-<li><a href="andrew_wood_documentary.php">Malfunkshun | The Andrew Wood Story</a></li>
+<li><a href="../music/andrew_wood_documentary.php">Malfunkshun | The Andrew Wood Story</a></li>
 </ul>
 </p>
 

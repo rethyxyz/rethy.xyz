@@ -30,10 +30,10 @@
 <p>Overall, I enjoyed the documentary, even though I don't think his second band, Mother Love Bone, was anything special, sounding like glam rock meets dad rock. I did enjoy the piano based songs from their first album, though, as I did with his first bands.</p><br>
 
 <p>
-<center>
-<iframe src="https://www.youtube.com/watch?v=FjXPjpkInLk" width=600px height=350px /></iframe><br><br>
-<small><b>This song is a good place to start</b></small>
-</center>
+    <center>
+        <iframe src="https://www.youtube.com/watch?v=FjXPjpkInLk" width=600px height=350px /></iframe><br><br>
+        <small><b>This song is a good place to start</b></small>
+    </center>
 </p><br>
 
 <p>If you're into musical sub-cultures/sub-scenes, this is a good documentary to understand the proto-grunge scene with much less bias, dramatization, and money-seeking like ones from mainstream sources. This is because the doc. was primarily pursued by Wood's father.</p> <hr>
@@ -41,8 +41,8 @@
 <p>
     See also:
     <ul>
-    <li><a href="../visual_media/apetor.php">Apetor</a></li>
-    <li><a href="../visual_media/amelie.php">Amelie (Le Fabuleux Destin d'Amelie Poulain)</a></li>
+        <li><a href="../visual_media/apetor.php">Apetor</a></li>
+        <li><a href="../visual_media/amelie.php">Amelie (Le Fabuleux Destin d'Amelie Poulain)</a></li>
     </ul>
 </p>
 

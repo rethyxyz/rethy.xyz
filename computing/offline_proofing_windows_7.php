@@ -105,16 +105,18 @@
 
 <h2>Data hoarding</h2>
 <h3>Games</h3>
-<p>If you're offline, you're going to want to have a library of non-DRM games to choose from. You'll have options. You may not play them often, but you never know when you'll have a fuck load of downtime and want to waste some. I get my games from a <b>pirate at a bay</b> (if you get what I mean). If you download only from <b>verified</b> and <b>trusted</b> uploaders, you'll be safe.</p>
+<p>I rarely play games, though I have them downloaded in-case a situation arises where it would be appropriate to. If you're offline, you're going to want to have a library of non-DRM games to choose from. You'll have options. You may not play them often, but you never know when you'll have a fuck load of downtime and want to waste a huge chunk.</p>
+
+<p>I get my games from a <b>pirate at a bay</b> (if you get what I mean). If you download only from <b>verified</b> and <b>trusted</b> uploaders, you'll be safe. <a href="clamav_the_only_non_shit_antivirus.php">You should scan everything you download as well</a>, but be careful for false positives.</p>
 
 <p>
 <b>Games types to gather:</b>
 <ul>
-<li><b>Prioritize a bunch of small ones vs one big one</b>: Small ones = more variety, and less space taken. You can get more hours across multiple games vs a single one which is likely to run out of content</li>
-<li><b>SCUMMVM</b>: Not only are these games of a small size, they are deep in story, and most have not played them.</li>
-<li><b>Arcade games</b>: Peggle, Chicken Invaders, etc. Small games that you can jump into, play a single game, or play for a while.</li>
-<li><b>Visual novels</b>: Same idea as SCUMMVM games: Small in size, big in story. You're going to want a lot of variety to keep your brain stimulated. These are the most integral games to my setup. Visual novels are supremo comfy.</li>
-<li><b>GOG</b> (good old games): These games are completely DRM free, and there are a lot of games like this listed from <b>the pirate at the bay</b>.</li>
+<li><b>Prioritize a bunch of small ones vs one big one</b>: Small ones = more variety, and less space taken. You can get more hours across multiple games vs a single one which is likely to run out of content quicker than a bunch will.</li>
+<li><b>SCUMMVM</b>: Not only are these games of a small size, they are deep in story, and most have not played them. In addition, they are not brainrot as they have an end to them, nor do they <i>"hold your hand"</i>, which will ensure you think for yourself.</li>
+<li><b>Arcade games</b>: Peggle, Chicken Invaders, etc. Small games that you can jump into, play a single game, or play for a while. <i>Be aware, though, these are by definition a waste of time</i>.</li>
+<li><b>Visual novels</b>: Same idea as SCUMMVM games: Small in size, big in story. You'll want variety to keep your brain stimulated. These are the most integral games to my setup.</li>
+<li><b>GOG</b> (good old games): These games are DRM free, and there are a lot of games like this listed from <b>the pirate at the bay</b>.</li>
 </ul>
 </p>
 
@@ -123,7 +125,7 @@
 <ul>
 <li><b>Angel Beats!: -1st Beat-</b></li>
 <li><b>Chicken Invaders 3</b></li>
-<li><b>Samorost 1 & 2</b></li>
+<li><b>Samorost 1 & 2</b> (I haven't played the 3rd game)</li>
 <li><b>Peggle</b></li>
 </ul>
 </p>
@@ -192,14 +194,14 @@ Sorry, I'm just not into that super hero shit (Shadowhawk and Hell-Boy are prett
 <p>Files should look like this. <b>Format:</b> <i>Release year</i> - <i>Film/Show name</i> - <i>Resolution</i></p>
 
 <p><b>Viewing:</b></p>
-<p>I just watch them in VLC. It works, and has the most features (90% are useless to me). I use it over mpv in-case I need a special feature someday.</p>
+<p>Viewing takes place in VLC media player. It works, and has the most features (90% are useless). I use it over mpv in-case I need a special feature someday.</p>
 
 <p>
-<b>Comfy movies recommendations</b>
-<ul>
-<li>Amelie</li>
-<li>Eternal Sunshine of the Spotless Mind</li>
-</ul>
+    <b>Comfy movies recommendations</b>
+    <ul>
+        <li>Amelie</li>
+        <li>Eternal Sunshine of the Spotless Mind</li>
+    </ul>
 </p>
 
 <p>

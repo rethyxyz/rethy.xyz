@@ -17,8 +17,10 @@
 <div class="image_box">
 <p>
     <center>
-        <a href="files/c_logo.png"><img src="files/c_logo.png"></a>
         <a href="files/bash_logo.jpeg"><img src="files/bash_logo.jpeg"></a>
+        <a href="files/c_logo.png"><img src="files/c_logo.png"></a>
+        <a href="files/tux.gif"><img src="files/tux.gif"></a>
+        <a href="files/vim_logo.png"><img src="files/vim_logo.png"></a>
     </center>
 </p>
 </div>
