@@ -16,7 +16,7 @@
 
 <section>
 <b><small>2021-05-19 at 12:07:04</small></b>
-<p>Over the past few weeks, I've written a few articles on music. Specifically:</p>
+<p>Over the past few weeks, I wrote a few articles on music. Specifically:</p>
 <p>
     <ul>
         <li><a href="../music/albums/laleh_laleh.php">Laleh - Laleh</a></li>
