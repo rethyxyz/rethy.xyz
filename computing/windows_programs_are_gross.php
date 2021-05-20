@@ -1,15 +1,26 @@
+<html>
+<head>
+<?php include 'header.php';?>
+<title>Windows Programs are Gross - rethy.xyz</title>
+</head>
+
+<body>
+<div class="main">
+<h1>Windows Programs are Gross</h1>
+<p><b><small>Created: 2021-05-20 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></small></b></p> <hr>
+
 <p>Windows programs are gross in comparison to the simplicity and straight forward functionality of Unix alternatives. Why is that?</p>
 
 <p>
     Let me introduce the two concepts:
     <ul>
-        <li>Natural programs</li>
-        <li>Unnatural programs</li>
+        <li><b>Natural programs</b></li>
+        <li><b>Unnatural programs</b></li>
     </ul>
 </p>
 
 <h2>Natural programs</h2>
-<p>Natural programs are made by a series of conversions that produce a straight forward outcome without unneeded complexity or frills. The typical order of operations go from Binary to Decimal, Decimal to Hexadecimal, and finally Hexadecimal to ASCII.</p>
+<p>Natural programs are made by a series of conversions that produce a straight forward outcome without unneeded complexity or frills. The typical order of operations go from Binary to Decimal, Decimal to Hexadecimal, and finally Hexadecimal to ASCII (unnatural ones do too).</p>
 
 <p>Natural programs are stable and are defined by that. Natural programming can be seem in those that follow the Unix philosophy. These types are always the most straight forward, and never sway from their original intent.</p>
 
@@ -48,4 +59,10 @@
     </ul>
 </p>
 
-<p>Windows programs are gross for this simple reason: Most are key examples of unnatural computing. Most do not follow the docrine by the original Unix philosophers (Ken Thompson, Dennis Ritchie, and others).</p>
+<p>Windows programs are gross for this simple reason: Most are key examples of unnatural computing. Most do not follow the docrine by the original Unix philosophers (Ken Thompson, Dennis Ritchie, and others), but not all Windows programs are gross. By this statement, I just mean it in a broad sense, as programs (usually) aren't bound to one operating system.</p>
+
+</div> <hr>
+
+<?php include 'footer.php';?>
+</body>
+</html>
