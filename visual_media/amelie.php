@@ -10,11 +10,11 @@
 <p><b><small>Created: 2021-02-12 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></small></b></p> <hr>
 
 <p>
-<center>
-<img src="movies/covers/amelie_cover.jpg" /> <br> <br>
-<small><b>Released in 2001: Amelie (Le Fabuleux Destin d'Amelie Poulain).</b></small>
-</center>
-</p><br>
+    <center>
+        <img src="movies/covers/amelie_cover.jpg" /> <br> <br>
+        <small><b>Released in 2001: Amelie (Le Fabuleux Destin d'Amelie Poulain).</b></small>
+    </center>
+</p> <br>
 
 <p>Amelie, being one of my favorite movies, is something I've seen plenty of times, and know quite a bit about. Most of all, I enjoy the character that is Amelie, being a sort of Machiavellianistic psychopath, but atypically one who outputs pro-social behavior. I'll start my case later on.</p>
 
