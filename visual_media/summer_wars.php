@@ -35,7 +35,7 @@
     </center>
 </p>
 
-<p>An office space. These two are sysadmins that work on Oz. They're using some sort of Windows Vista-like machine. You can tell it is because of the wallpaper, which is Aero-like (it's a Windows theme), and the time period. The time period was a year into Windows 7's release (2009), which makes sense that it would be Vista. If you know anything about office spaces, they have a tendency to take their sweet time to upgrade their internal operating systems to the newest alternatives.</p>
+<p>An office space. These two are sysadmins that work on Oz. They're using some sort of Windows Vista-like machine. You can tell it is because of the wallpaper, which is Aero-like (it's a Windows theme), and the time period. The time period was a year into Windows 7's release (2009), which makes sense that it would be Vista. If you know anything about offices, they have a tendency to wait as long as possible to upgrade their internal operating systems to the newest alternatives.</p>
 
 </div> <hr>
 

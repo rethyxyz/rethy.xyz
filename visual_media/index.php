@@ -15,6 +15,13 @@
 <p>Media: The plural form of medium.</p>
 
 <section>
+<p><b><small>2021-05-23</small></b></p>
+<p><a href="summer_wars.php">Summer Wars</a></p>
+<p><center><img src="movies/covers/summer_wars_cover.webp" width="500px" /></center></p>
+<p>Summer wars is a stylized anime about an all encompasing "virtual world" where everything (economy, work, job, socialization) is based off of a centralized computer platform called Oz.</p>
+</section>
+
+<section>
 <p><b><small>2021-02-12</small></b></p>
 <p><a href="amelie.php">Amelie (Le Fabuleux Destin d'Amelie Poulain)</a></p>
 <center>
