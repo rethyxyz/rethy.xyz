@@ -6,16 +6,22 @@
 
 <body>
 <div class="back_button">
-<a href="../index.php">Go to site index</a>
+    <a href="../index.php">Go to site index</a>
 </div>
 
 <div class="main">
 <h1>History</h1>
 <p>A page for history, about history.</p>
 
+<div class="image_box">
+    <center>
+        <a href="files/hallstatt_pot.png"><img src="files/hallstatt_pot.png"></a>
+    </center>
+</div>
+
 <section>
-<small><b>2021-02-12</b></small>
-<p><a href="hallstatt_culture.php">Hallstatt Culture A-D</a></p>
+    <small><b>2021-02-12</b></small>
+    <p><a href="hallstatt_culture.php">Hallstatt Culture A-D</a></p>
 </section>
 
 </a>

@@ -16,10 +16,10 @@
 
 <h1>Movies</h1>
 <section>
-<div class="image_box">
-    <a href="amelie.php"><img src="movies/covers/amelie_cover.jpg" width=115px ><p>Amelie</p></a>
-    <a href="../music/andrew_wood_documentary.php"><img src="..\music\files\mother_love_bone.jpg" width=130px ><p>The Andrew Wood Story</p></a>
-</div>
+    <div class="image_box">
+        <a href="amelie.php"><img src="movies/covers/amelie_cover.jpg" width=115px ><p>Amelie</p></a>
+        <a href="../music/andrew_wood_documentary.php"><img src="..\music\files\mother_love_bone.jpg" width=130px ><p>The Andrew Wood Story</p></a>
+    </div>
 </section>
 
 

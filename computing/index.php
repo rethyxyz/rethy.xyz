@@ -127,12 +127,6 @@
 </section>
 
 <section>
-<p><b>2021-02-01</b></p>
-<p><a href="desktops.php">Desktops</a></p>
-<p>Some images of desktops I've collected from imageboards over the years.</p>
-</section>
-
-<section>
 <p><b>2020-01-29</b></p>
 <p><a href="the_best_windows_software.php">The Best Windows Software</a></p>
 <p>A list of the most essential Windows software.</p>
@@ -142,7 +136,8 @@
 <p><b>2021-01-27</b></p>
 <p><a href="the_unix_hater_handbook_overview.php">The Unix Hater's Handbook</a></p>
 <p>My overview of the Unix Hater's Handbook.</p>
-<p>If you're a self-proclaimed Linux <i>"wizard"</i> like myself, you've already heard the author's arguments. Basically, they bring up some good points, but they're nothing new.</p> <img src="https://upload.wikimedia.org/wikipedia/en/7/77/UNIX-HATERS_Handbook_cover_ISBN_1-56884-203-1.png" />
+<p>If you're a self-proclaimed Linux <i>"wizard"</i> like myself, you've already heard the author's arguments. Basically, they bring up some good points, but they're nothing new.</p>
+<p><img src="https://upload.wikimedia.org/wikipedia/en/7/77/UNIX-HATERS_Handbook_cover_ISBN_1-56884-203-1.png" /></p>
 </section>
 
 <section>
@@ -184,20 +179,6 @@
 </section>
 
 <section>
-<p><b>2020-12-16</b></p>
-<p><a href="the_best_way_to_consume_media.php">The Best Way to Consume Media: Newsboat</a></p>
-<p>The best RSS reader out there for Linux.</p>
-</section>
-
-
-<section>
-<p><b>2020-12-25</b></p>
-<p><a href="dwm_bar.php">My dwm status bar</a></p>
-<p>An overview of my dwm status bar.</p>
-<img src="files/dwm_bar.png" />
-</section>
-
-<section>
 <p><b>2020-12-20</b></p>
 <p><a href="randomizing_current_wallpaper.php">Randomizing Current Wallpaper in Linux</a></p>
 <p>Randomizes wallpapers found in a specific folder structure.</p>
@@ -207,6 +188,12 @@
 <p><b>2020-12-20</b></p>
 <p><a href="config_converter_for_linux.php">File Hierarchy Converter</a></p>
 <p>Converts between my E550 and Desktop directory structures.</p>
+</section>
+
+<section>
+<p><b>2020-12-16</b></p>
+<p><a href="the_best_way_to_consume_media.php">The Best Way to Consume Media: Newsboat</a></p>
+<p>The best RSS reader out there for Linux.</p>
 </section>
 
 <section>

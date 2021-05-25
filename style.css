@@ -8,9 +8,7 @@ blockquote { font-style: italic; }
 
 code { border: solid thin grey; }
 
-html {
-    background-color: #FFFFFF;
-}
+html { background-color: #FFFFFF; }
 
 iframe { max-width: 75%; }
 
