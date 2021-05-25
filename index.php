@@ -44,7 +44,7 @@ What I'm doing now:
 <hr>
 
 <p>
-    Other pages about me:
+    Pages about me:
     <ul>
         <li><a href="about_me.php">About Me</a></li>
         <li><a href="about_this_website.php">About This Website</a></li>

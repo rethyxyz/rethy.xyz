@@ -9,18 +9,33 @@
 <h1>Comfy/Offline Proof Windows (7)</h1>
 <p><b><small>Created: 2021-04-28 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></small></b></p> <hr>
 
-<p><b>Why would I want to do this?</b> Do you enjoy the soulless feel of modern day Windows? Do you enjoy not owning your music, movies, videos, and games? Do you enjoy DRM? Do you want to continue to lose your long history of YouTube and Spotify playlists because Google, Spotify, and Netflix removes them seemingly for no reason? I, myself, enjoy "possessing" each individual file of the things I enjoy, such as albums, movies, TV shows, etc. This allows me to share as I wish, move as I wish, watch as I wish (no more Spotify premium license), and most importantly: Do as I wish. No one will be able to spy on you, or see your listening habits. You can truly be alone doing whatever it may be.</p>
+<p><b>Why would I want to do this?</b> Do you enjoy the soulless feel of modern day Windows/computing? Do you enjoy not owning your music, movies, videos, and games? Do you enjoy DRM? Do you want to continue to lose your long history of YouTube and Spotify playlists because Google, Spotify, and Netflix removes them seemingly for no reason? I, myself, enjoy "possessing" each individual file of the things I enjoy, such as albums, movies, TV shows, etc. This allows me to share as I wish, move as I wish, watch as I wish (no more Spotify premium license), and most importantly: Do as I wish. No one will be able to spy on you, or see your listening/viewing habits. You can truly be alone doing whatever it may be.</p>
 
 <p><b>Windows 7 support is over. Isn't it unsafe?</b> Public support is over, Enterprise support isn't. No new features are being released, but security patches are still being made on a near daily basis.</p>
 
-<a href="making_windows_7_usable_in_2021.php">I show how to spoof Enterprise updates here</a>. I skimmed through the BypassESU script, and I can almost guarantee it doesn't invoke anything exterior that could be seen as sketchy. I still can't guarantee it's 100% safe, though, so use at your own risk.</p>
+<a href="making_windows_7_usable_in_2021.php">I have an article showing how to spoof Enterprise updates</a>. I skimmed through the BypassESU script, and I can almost completly guarantee it doesn't invoke anything exterior that could be seen as sketchy. I still can't guarantee it's 100% safe, though, so use at your own risk.</p>
 
-<p>To me, true comfy is being able to go offline and still keep total functionality. Therefore, everything in this list is made to work 1:1 the same offline. As we know, freedom of choice is the biggest part of freedom, and sometime you need to disappear. Keep in mind this article is super broad and fragmented as it's mostly opinion based.</p>
+<p>To me, true comfy is being able to go offline and still keep total functionality. Therefore, everything in this list is made to work 1:1 the same offline. As you may know, freedom of choice is the biggest part of freedom, and sometime you may want to disappear for a bit.</p>
+
+<p>Keep in mind this article is super broad and fragmented as it's mostly opinion based.</p>
 
 <h2>Updates (Important first step)</h2>
 <p>Malware is not comfy, and neither are security vulnerabilities. <a href="making_windows_7_usable_in_2021.php">Follow this article to install Windows first and beforehand</a>. After, come back here when fully updated.</p>
 
-<h2>Tweaks</h2>
+<h2>Anti-virus</h2>
+<p><a href="">I have an article talking about ClamAV</a>. You can learn about it there. All you need to know, is it's the lightest, and doesn't have realtime none sense. My recommendation is to set it up, and to set it to scan twice daily.</p>
+
+<!--
+
+<p>Simply run</p>
+
+<p><code></code></p>
+
+<p>from a cmd prompt window with admin privileges to schedule the task.</p>
+
+-->
+
+<h2>Performance tweaks</h2>
 <h3>Visual set to only</h3>
 <p>Open Control Panel. Navigate to System/Advanced system settings/Performance Settings.</p>
 
@@ -115,7 +130,7 @@
 <li><b>Prioritize a bunch of small ones vs one big one</b>: Small ones = more variety, and less space taken. You can get more hours across multiple games vs a single one which is likely to run out of content quicker than a bunch will.</li>
 <li><b>SCUMMVM</b>: Not only are these games of a small size, they are deep in story, and most have not played them. In addition, they are not brainrot as they have an end to them, nor do they <i>"hold your hand"</i>, which will ensure you think for yourself.</li>
 <li><b>Arcade games</b>: Peggle, Chicken Invaders, etc. Small games that you can jump into, play a single game, or play for a while. <i>Be aware, though, these are by definition a waste of time</i>.</li>
-<li><b>Visual novels</b>: Same idea as SCUMMVM games: Small in size, big in story. You'll want variety to keep your brain stimulated. These are the most integral games to my setup.</li>
+<li><b>Visual novels</b>: Same idea as SCUMMVM games: Small in size, big in story. You'll want variety to keep your brain stimulated. These are the most integral games to my setup. If you're not into weeb shit, I'm sure there exists a sutable novel without that content type.</li>
 <li><b>GOG</b> (good old games): These games are DRM free, and there are a lot of games like this listed from <b>the pirate at the bay</b>.</li>
 </ul>
 </p>

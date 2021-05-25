@@ -64,7 +64,7 @@
 <section>
 <p> <b> 2021-03-22 </b> </p>
 <p><a href="making_windows_7_usable_in_2021.php">Making Windows 7 Safe in 2021</a></p>
-<p><img src="https://oswallpapers.com/wp-content/uploads/2016/06/img0.jpg" width=25%></p>
+<p><center><img src="https://oswallpapers.com/wp-content/uploads/2016/06/img0.jpg" width=25%></center></p>
 <p>A how-to on making Windows 7 safe to use in 2021.</p>
 </section>
 
