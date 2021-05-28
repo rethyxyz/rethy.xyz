@@ -13,12 +13,16 @@
 	</center>
 </p> <hr>
 
-<p><center><b>Writing about computing, programming, visual media, literature, music, and more.</b></center></p>
+<p>
+    <center>
+        <b>Writing about computing, programming, visual media, literature, music, and more.</b>
+    </center>
+</p>
 
 <p>
 	Newest article:
 	<ul>
-        <li><a href="music\albums\dangerous_and_moving_tatu.php">Dangerous and Moving - t.A.T.u</a></li>
+        <li><a href="visual_media/eternal_sunshine_of_the_spotless_mind.php">Eternal Sunshine of the Spotless Mind</a></li>
 	</ul>
 </p>
 
@@ -35,13 +39,11 @@
 </p>
 
 <p>
-What I'm doing now:
-<ul>
-<li><a href="my_life/2021.php">2021</a></li>
-</ul>
-</p>
-
-<hr>
+    What I'm doing now:
+    <ul>
+        <li><a href="my_life/2021.php">2021</a></li>
+    </ul>
+</p> <hr>
 
 <p>
     Pages about me:
@@ -53,7 +55,9 @@ What I'm doing now:
     </ul>
 </p> <hr>
 
-<p> <h1><a href="sitemap.php">Sitemap</a></h1> </p>
+<p>
+    <h1><a href="sitemap.php">Sitemap</a></h1>
+</p>
 </div> <hr>
 
 <?php include 'footer.php';?>

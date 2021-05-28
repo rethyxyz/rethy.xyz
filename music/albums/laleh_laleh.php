@@ -46,6 +46,17 @@
     I'll definitely end up listening to this again for a few of the song: <b>Live Tomorrow</b>, <b>Hame Baham</b>, and <b>Storebror</b>. Live Tomorrow is my favorite and the best on the album. Most others agree. It's the only real hit from the album, <a href="https://www.youtube.com/watch?v=tu9NPb2G_pM">amassing <b>5.6M</b> on the official YouTube music video</a>.
 </p>
 
+<p><center>Favorite song: <b>Live Tomorrow</b></center></p> <hr>
+
+<p>
+    See also:
+    <ul>
+        <li><a href="illinois_sufjan_stevens.php">Illinois - Sufjan Stevens</a></li>
+        <li><a href="dangerous_and_moving_tatu.php">Dangerous and Moving - t.A.T.u</a></li>
+        <li><a href="disintegration_the_cure.php">Disintegration - The Cure</a></li>
+    </ul>
+</p>
+
 </div> <hr>
 
 <?php include 'footer.php';?>

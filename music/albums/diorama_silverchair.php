@@ -26,7 +26,9 @@
 
 <p>I have yet to heard anything after this album. It's on my <i>need-to-hear</i> list.</p>
 
-<p>Favorite song: <b>Too Much of Not Enough</b> or <b>Without You</b>.</p>
+<p>
+    <center>Favorite song: <b>Too Much of Not Enough</b> or <b>Without You</b>.</center>
+</p>
 
 </div> <hr>
 

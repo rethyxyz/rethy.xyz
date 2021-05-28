@@ -18,9 +18,21 @@ main { max-width: 100%; }
 
 table, th, td { border: 1px solid grey; }
 
-.footer { float: bottom; display: line; }
+.footer { float: bottom; position: static; display: line; }
 
 h1, h2, h3 { text-shadow: 2px 2px grey; }
+
+.float_right {
+    width: 200;
+    padding: 10;
+    float: right;
+}
+
+.float_left {
+    width: 200;
+    padding: 10;
+    float: left;
+}
 
 body {
 	background-color: #dcdcdc;
@@ -36,7 +48,7 @@ body {
 
 img {
     border: solid thin grey;
-    # img-shadow: 2px 2px grey;
+    text-shadow: 2px 2px grey;
     border-radius: 6px;
     box-shadow: 10px 10px 5px #ccc;
     -moz-box-shadow: 10px 10px 5px #ccc;

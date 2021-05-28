@@ -12,19 +12,22 @@
 <div class="main">
 <h1>Computing</h1>
 <p>Articles/everything related to computing (this includes programming). Things will typically be Arch Linux or Windows (7) related.</p>
-<p>
 
-<div class="image_box">
+<hr>
+
+<h1>Article Collections</h1>
+<div class="image_box"
 <p>
     <center>
-        <a href="files/bash_logo.jpeg"><img src="files/bash_logo.jpeg"></a>
-        <a href="files/c_logo.png"><img src="files/c_logo.png"></a>
-        <a href="files/tux.gif"><img src="files/tux.gif"></a>
-        <a href="files/vim_logo.png"><img src="files/vim_logo.png"></a>
+        <a href="computing_essay_collection.php"><img src="files/talmud.jpg"><p>Computing Essay Collection</p></a>
+        <a href="windows_guides.php"><img src="files/windows_xp_logo.png"><p>Windows Guides</p></a>
     </center>
 </p>
 </div>
 
+<hr>
+
+<h1>All Articles</h1>
 <section>
 <p><b>2021-05-02</b></p>
 <p><a href="the_fall_of_linux_desktops.php">The Fall of Linux Desktops</a></p>

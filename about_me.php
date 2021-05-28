@@ -11,15 +11,24 @@
 
 <div class="main">
 <h1>About Me</h1> <hr>
-<p>First and last name: <b>Brody Rethy</b>.</p>
 
-<p>Primarily, I'm an autodidact with a focus on programming and computing. I'm secondarily interested in music, film, philosophy, and most other forms of learning.</p>
+<p><center>First and last name: <b>Brody Rethy</b>.</center></div>
+
+<div class="float_right">
+    <div class="image_box">
+        <a href="files/pipe_guy.PNG"><img src="files/pipe_guy.PNG"><p>Image is not me.</p></a>
+    </div>
+</div>
+
+<p>Primarily, I'm an autodidact with a focus on programming and computing. Secondly, I'm interested in music, film, philosophy, and most other forms of learning.</p>
     
 <p>I'm a long time internet user. I have - and I mean it - spend countless hours in Internet communities ranging from the top (Twitch (I know every big Twitch thing in the past 10 years), YouTube (same explanation as Twitch, but longer), to some other, more obscure ones (imageboards and such).</p>
 
-<p>Feel free to email me at: <code>brodyrethy(at)gmail(dot)com</code></p>
+<p>I'm also a high functioning Linux user, and other times Windows as well.</p>
 
-</div> <hr>
+<p>Feel free to email me at: <code>brodyrethy(at)gmail(dot)com</code>.</p>
+
+</div><br><br><hr>
 
 <?php include 'footer.php';?>
 </body>

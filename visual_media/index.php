@@ -12,16 +12,16 @@
 
 <div class="main">
 <h1>Visual Media</h1>
-<p>Media: The plural form of medium.</p>
+<p>Media: The plural form of medium.</p> <hr>
 
 <h1>Movies</h1>
 <section>
     <div class="image_box">
         <a href="amelie.php"><img src="movies/covers/amelie_cover.jpg" width=115px ><p>Amelie</p></a>
         <a href="../music/andrew_wood_documentary.php"><img src="..\music\files\mother_love_bone.jpg" width=130px ><p>The Andrew Wood Story</p></a>
+        <a href="eternal_sunshine_of_the_spotless_mind.php"><img src="movies/covers/eternal_sunshine_of_the_spotless_mind.jpg" width=115px ><p>Eternal Sunshine the Spotless Mind</p></a>
     </div>
 </section>
-
 
 <h1>Anime</h1>
 <section>
@@ -52,10 +52,8 @@
 
 <section>
 <p><a href="every_episodic_series_ive_watched.php">Every Episodic Series I've Watched</a></p>
-
 <p>Page currently incomplete.</p>
 <p><b>TODO</b> Start inserting series I've seen into here</p>
-
 <!--<p>Almost every episodic series I've watched to date.</p>-->
 </section>
 
