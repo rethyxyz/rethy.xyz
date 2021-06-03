@@ -12,8 +12,6 @@ html { background-color: #FFFFFF; }
 
 iframe { max-width: 75%; }
 
-img { padding: 1px; max-width: 75%; }
-
 main { max-width: 100%; }
 
 table, th, td { border: 1px solid grey; }
@@ -36,7 +34,7 @@ h1, h2, h3 { text-shadow: 2px 2px grey; }
 
 body {
 	background-color: #dcdcdc;
-	margin: 10 auto;
+	margin: 6 auto;
 	max-width: 900px;
 	padding: 20px;
     font-family: Arial;
@@ -47,10 +45,13 @@ body {
 }
 
 img {
-    border: solid thin grey;
-    text-shadow: 2px 2px grey;
     border-radius: 6px;
+    border: solid thin grey;
     box-shadow: 10px 10px 5px #ccc;
+    max-width: 75%;
+    padding: 1px;
+    text-shadow: 2px 2px grey;
+
     -moz-box-shadow: 10px 10px 5px #ccc;
     -webkit-box-shadow: 10px 10px 5px #ccc;
     -khtml-box-shadow: 10px 10px 5px #ccc;
@@ -61,6 +62,7 @@ section {
     border-radius: 6px;
     padding: .3rem;
     margin: 4px;
+
     -moz-box-shadow: 5px 5px 2.5px #ccc;
     -webkit-box-shadow: 5px 5px 2.5px #ccc;
     -khtml-box-shadow: 5px 5px 2.5px #ccc;
@@ -72,13 +74,14 @@ section {
     display: inline-block;
     padding: 8px;
     margin: 4px;
-    font-size: 10px;
+    font-size: 12px;
     text-align: center;
 }
 
 .image_box img {
     border-radius: 6px;
     max-width: 150px;
+
     -moz-box-shadow: 10px 10px 5px #ccc;
     -webkit-box-shadow: 10px 10px 5px #ccc;
     -khtml-box-shadow: 10px 10px 5px #ccc;
@@ -89,6 +92,7 @@ section {
     display: inline-block;
     border: solid thin grey;
     border-radius: 6px;
+
     -moz-box-shadow: 10px 10px 5px #ccc;
     -webkit-box-shadow: 10px 10px 5px #ccc;
     -khtml-box-shadow: 10px 10px 5px #ccc;

@@ -6,28 +6,43 @@
 
 <body>
 <div class="back_button">
-<a href="../index.php">Go to site index</a>
+<a href="../index.php">
+    Go to site index
+</a>
 </div>
 
 <div class="main">
 <h1>Computing</h1>
-<p>Articles/everything related to computing (this includes programming). Things will typically be Arch Linux or Windows (7) related.</p>
-
-<hr>
-
-<h1>Article Collections</h1>
-<div class="image_box"
 <p>
+Articles/everything related to computing (this includes programming). Things will typically be Arch Linux or Windows (7) related.
+</p> <hr>
+
+<h2>Article Collections</h2>
+    <div class="image_box">
+    <p>
     <center>
-        <a href="computing_essay_collection.php"><img src="files/talmud.jpg"><p>Computing Essay Collection</p></a>
-        <a href="windows_guides.php"><img src="files/windows_xp_logo.png"><p>Windows Guides</p></a>
+        <a href="computing_essay_collection.php">
+            <img src="files/talmud.jpg">
+            <p>Computing Essay Collection</p>
+        </a>
+
+        <a href="windows_guides.php">
+            <img src="files/windows_xp_logo.png">
+            <p>Windows Guides</p>
+        </a>
     </center>
-</p>
-</div>
+    </p>
+    </div>
 
 <hr>
 
-<h1>All Articles</h1>
+<h2>All Articles</h2>
+<section>
+<p><b>2021-06-03</b></p>
+<p><a href="foo_bar_bad.php">Foo Bar Bad</a></p>
+<p>My take on the bad foo bar code examples seen online.</p>
+</section>
+
 <section>
 <p><b>2021-05-02</b></p>
 <p><a href="the_fall_of_linux_desktops.php">The Fall of Linux Desktops</a></p>
@@ -47,13 +62,13 @@
 </section>
 
 <section>
-<p> <b> 2021-04-17 </b> </p>
+<p><b>2021-04-17</b></p>
 <p><a href="the_fallacy_of_program_ease.php">The Fallacy of Program Ease</a></p>
 <p>Computer people know the notion that some of us want something that "just werkz". Usually this refers to either an operating system like Windows or Mac OS, or a program like VSCode or an App Store. This is a false notion.</p>
 </section>
 
 <section>
-<p> <b> 2021-04-07 </b> </p>
+<p><b>2021-04-07</b></p>
 <p><a href="qutebrowser.php">Best Qutebrowser Configuration</a></p>
 <p>I outline superior additions to qutebrowser that aren't default, but should be.</p>
 </section>

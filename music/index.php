@@ -9,25 +9,46 @@
 
 <div class="main">
 <h1>Music</h1>
-<p>Articles on music related things, and album reviews/write-ups. A page category all about music.</p>
-<p>Most of what I'm to be writing are retrospective pieces. I've listened to many albums in the past, and hope to share most of them with others aside from just myself.</p>
+<p>
+Articles on music related things, and album reviews/write-ups. A page category all about music.
+</p>
+
+<p>
+Most of what I'm to be writing are retrospective pieces. I've listened to many albums in the past, and hope to share most of them with others aside from just myself.
+</p>
 
 <h1>Albums</h1>
 <section>
     <div class="image_box">
         <center>
-            <a href="albums/blonde_frank_ocean.php"><img src="albums/album_covers/blonde_frank_ocean.jpg"><p>Blonde - Frank Ocean</p></a>
-            <a href="albums/dangerous_and_moving_tatu.php"><img src="albums/album_covers/dangerous_and_moving_tatu.jpg" /><p>Dangerous and Moving - t.A.T.u</p></a>
-            <a href="albums/details_frou_frou.php"><img src="albums/album_covers/details_frou_frou.jpg"><p>Details - Frou Frou</p></a>
-            <a href="albums/dinosaurchestra_lemon_demon.php"><img src="albums/album_covers/dinosaurchestra_lemon_demon.jpg"><p>Dinosaurchestra - Lemon Demon</p></a>
-            <a href="albums/diorama_silverchair.php"><img src="albums/album_covers/diorama_silverchair.jpg"><p>Diorama - Silverchair</p></a>
-            <a href="albums/disintegration_the_cure.php"><img src="albums/album_covers/disintegration_the_cure.png"><p>Disintegration - The Cure</p></a>
-            <a href="albums/illinois_sufjan_stevens.php"><img src="albums/album_covers/illinois_sufjan_stevens.jpg"><p>Illinois - Sufjan Stevens</p></a>
-            <a href="albums/laleh_laleh.php"><img src="albums/album_covers/laleh_laleh.jpg" width=300px /><p>Laleh - Laleh</p></a>
-            <a href="albums/mad_city_kendrick_lamar.php"><img src="albums/album_covers/mad_city_kendrick_lamar.jpg"><p>Good Kid, M.A.A.D City - Kendrick Lamar</p></a>
-            <a href="albums/the_orbiting_human_circus_the_music_tapes.php"><img src="albums/album_covers/the_orbiting_human_circus_the_music_tapes.jpg"><p>The Orbiting Human Circus - The Music Tapes</p></a>
-            <a href="albums/the_used_the_used.php"><img src="albums/album_covers/the_used_the_used.jpg"><p>The Used - The Used</p></a>
-            <a href="albums/wide_angle_hybrid.php"><img src="albums/album_covers/wide_angle_hybrid.jpg"><p>Wide Angle - Hybrid</p></a>
+        <a href="albums/blonde_frank_ocean.php">
+            <img src="albums/album_covers/blonde_frank_ocean.jpg">
+            <p>Blonde - Frank Ocean</p>
+        </a>
+
+        <a href="albums/dangerous_and_moving_tatu.php">
+            <img src="albums/album_covers/dangerous_and_moving_tatu.jpg" />
+            <p>Dangerous and Moving - t.A.T.u</p>
+        </a>
+
+        <a href="albums/details_frou_frou.php">
+            <img src="albums/album_covers/details_frou_frou.jpg">
+            <p>Details - Frou Frou</p>
+        </a>
+
+        <a href="albums/dinosaurchestra_lemon_demon.php">
+            <img src="albums/album_covers/dinosaurchestra_lemon_demon.jpg">
+            <p>Dinosaurchestra - Lemon Demon</p>
+        </a>
+
+        <a href="albums/diorama_silverchair.php"><img src="albums/album_covers/diorama_silverchair.jpg"><p>Diorama - Silverchair</p></a>
+        <a href="albums/disintegration_the_cure.php"><img src="albums/album_covers/disintegration_the_cure.png"><p>Disintegration - The Cure</p></a>
+        <a href="albums/illinois_sufjan_stevens.php"><img src="albums/album_covers/illinois_sufjan_stevens.jpg"><p>Illinois - Sufjan Stevens</p></a>
+        <a href="albums/laleh_laleh.php"><img src="albums/album_covers/laleh_laleh.jpg" width=300px /><p>Laleh - Laleh</p></a>
+        <a href="albums/mad_city_kendrick_lamar.php"><img src="albums/album_covers/mad_city_kendrick_lamar.jpg"><p>Good Kid, M.A.A.D City - Kendrick Lamar</p></a>
+        <a href="albums/the_orbiting_human_circus_the_music_tapes.php"><img src="albums/album_covers/the_orbiting_human_circus_the_music_tapes.jpg"><p>The Orbiting Human Circus - The Music Tapes</p></a>
+        <a href="albums/the_used_the_used.php"><img src="albums/album_covers/the_used_the_used.jpg"><p>The Used - The Used</p></a>
+        <a href="albums/wide_angle_hybrid.php"><img src="albums/album_covers/wide_angle_hybrid.jpg"><p>Wide Angle - Hybrid</p></a>
         </center>
     </div>
 </section>
@@ -38,7 +59,7 @@
 <p><a href="andrew_wood_documentary.php">Malfunkshun | The Andrew Wood Story</a></p>
 <p> <center> <img src="files\mother_love_bone.jpg" /> </center> </p>
 <p>A documentary about the man behind the bands Malfunkshun and Mother Love Bone, two proto-grunge bands.</p>
-<p>I wrote this quickly after watching the documentary</p>
+<p>I wrote this quickly after watching the documentary.</p>
 </section>
 
 <section>

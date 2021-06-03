@@ -18,16 +18,34 @@
     </center>
 </div> <hr>
 
-<p>
-    <ul>
-        <li><a href="the_fall_of_linux_desktops.php">The Fall of Linux Desktops</a></li>
-        <li><a href="the_fallacy_of_program_ease.php">The Fallacy of Program Ease</a></li>
-        <li><a href="the_unix_hater_handbook_overview.php">The Unix Hater's Handbook</a></li>
-        <li><a href="why_gaming_vpns_are_a_scam.php">Why Gaming VPNs are a Scam</a></li>
-        <li><a href="why_ricing_isnt_a_waste_of_time.php">Why Ricing Isn't a Waste of Time</a></li>
-        <li><a href="a_case_for_tiling_window_manager_usage.php">A Case for Tiling Window Manager Usage</a></li>
-    </ul>
-</p>
+<section>
+<a href="the_fall_of_linux_desktops.php">The Fall of Linux Desktops</a>
+</section>
+
+<section>
+<a href="the_fallacy_of_program_ease.php">The Fallacy of Program Ease</a>
+</section>
+
+<section>
+<a href="the_unix_hater_handbook_overview.php">The Unix Hater's Handbook</a>
+</section>
+
+<section>
+<a href="why_gaming_vpns_are_a_scam.php">Why Gaming VPNs are a Scam</a>
+</section>
+
+<section>
+<a href="why_ricing_isnt_a_waste_of_time.php">Why Ricing Isn't a Waste of Time</a>
+</section>
+
+<section>
+<a href="a_case_for_tiling_window_manager_usage.php">A Case for Tiling Window Manager Usage</a>
+</section>
+
+<section>
+<a href="foo_bar_bad.php">Foo Bar Bad</a>
+<p>My take on the bad foo bar code examples seen online.</p>
+</section>
 
 </div> <hr>
 
