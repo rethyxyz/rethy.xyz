@@ -23,9 +23,7 @@
 <p>
 i3wm: a <i>manual</i> TWM (you choose how new windows are split, be it vertical or horizontally, and windows can be re-sized).
 <br>
-<small>Image taken from a screenshot of my own setup while editing my CV</small>
-<br>
-<img src="files/i3wm_example.png" width="500">
+<img src="https://i3wm.org/screenshots/i3-8.jpg" width="500">
 <br>
 </p>
 

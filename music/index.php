@@ -14,35 +14,22 @@ Articles on music related things, and album reviews/write-ups. A page category a
 </p>
 
 <p>
-Most of what I'm to be writing are retrospective pieces. I've listened to many albums in the past, and hope to share most of them with others aside from just myself.
+  Most of what I'm to be writing are retrospective pieces. I've listened to many albums in the past, and hope to share most of them with others aside from just myself.
 </p>
 
-<h1>Albums</h1>
+<br>
+<br>
+
+<h1><i>Albums</i></h1>
 <section>
     <div class="image_box">
         <center>
-        <a href="albums/blonde_frank_ocean.php">
-            <img src="albums/album_covers/blonde_frank_ocean.jpg">
-            <p>Blonde - Frank Ocean</p>
-        </a>
-
-        <a href="albums/dangerous_and_moving_tatu.php">
-            <img src="albums/album_covers/dangerous_and_moving_tatu.jpg" />
-            <p>Dangerous and Moving - t.A.T.u</p>
-        </a>
-
-        <a href="albums/details_frou_frou.php">
-            <img src="albums/album_covers/details_frou_frou.jpg">
-            <p>Details - Frou Frou</p>
-        </a>
-
-        <a href="albums/dinosaurchestra_lemon_demon.php">
-            <img src="albums/album_covers/dinosaurchestra_lemon_demon.jpg">
-            <p>Dinosaurchestra - Lemon Demon</p>
-        </a>
-
-        <a href="albums/diorama_silverchair.php"><img src="albums/album_covers/diorama_silverchair.jpg"><p>Diorama - Silverchair</p></a>
-        <a href="albums/disintegration_the_cure.php"><img src="albums/album_covers/disintegration_the_cure.png"><p>Disintegration - The Cure</p></a>
+        <a href="albums/blonde_frank_ocean.php"><img src="albums/album_covers/blonde_frank_ocean.jpg"><p>Blonde - Frank Ocean</p></a>
+        <a href="albums/dangerous_and_moving_tatu.php"><img src="albums/album_covers/dangerous_and_moving_tatu.jpg" /><p>Dangerous and Moving - t.A.T.u</p></a>
+        <a href="albums/details_frou_frou.php"><img src="albums/album_covers/details_frou_frou.jpg"><p>Details - Frou Frou</p></a>
+        <a href="albums/dinosaurchestra_lemon_demon.php"> <img src="albums/album_covers/dinosaurchestra_lemon_demon.jpg"> <p>Dinosaurchestra - Lemon Demon</p> </a>
+        <a href="albums/diorama_silverchair.php"> <img src="albums/album_covers/diorama_silverchair.jpg"> <p>Diorama - Silverchair</p> </a>
+        <a href="albums/disintegration_the_cure.php"> <img src="albums/album_covers/disintegration_the_cure.png"> <p>Disintegration - The Cure</p> </a>
         <a href="albums/illinois_sufjan_stevens.php"><img src="albums/album_covers/illinois_sufjan_stevens.jpg"><p>Illinois - Sufjan Stevens</p></a>
         <a href="albums/laleh_laleh.php"><img src="albums/album_covers/laleh_laleh.jpg" width=300px /><p>Laleh - Laleh</p></a>
         <a href="albums/mad_city_kendrick_lamar.php"><img src="albums/album_covers/mad_city_kendrick_lamar.jpg"><p>Good Kid, M.A.A.D City - Kendrick Lamar</p></a>
@@ -53,25 +40,35 @@ Most of what I'm to be writing are retrospective pieces. I've listened to many a
     </div>
 </section>
 
-<h1>Articles</h1>
+<br>
+<br>
+
+<h1><i>Cult of Personality</i></h1>
+<p>The individuals behind the music.</p>
 <section>
-<p><b><small>2021-02-18</small></b></p>
-<p><a href="andrew_wood_documentary.php">Malfunkshun | The Andrew Wood Story</a></p>
-<p> <center> <img src="files\mother_love_bone.jpg" /> </center> </p>
-<p>A documentary about the man behind the bands Malfunkshun and Mother Love Bone, two proto-grunge bands.</p>
-<p>I wrote this quickly after watching the documentary.</p>
+    <div class="image_box">
+        <a href="andrew_wood_documentary.php"><img src="files/mother_love_bone.jpg"><p>Malfunkshun | The Andrew Wood Story</p></a>
+    </div>
+</section>
+<br>
+<br>
+
+<h1><i>Headphones and Speakers</i></h1>
+<p>My knowledge on headphones and speakers.</p>
+<section>
+    <div class="image_box">
+        <a href="koss_headphones_the_only_headphones_youll_need.php"><img src="files/ksc_75.jpg"><p>Koss Headphones: The Only Headphones You'll Need</p></a>
+    </div>
 </section>
 
-<section>
-<p><b>2020-01-27</b></p>
-<p><a href="koss_headphones_the_only_headphones_youll_need.php">Koss Headphones: The Only Headphones You'll Ever Need</a></p>
-<p>I talk about my various Koss brand headphones, and how they're epitome of the ultimate price to performance.</p>
-</section>
+<br>
+<br>
 
-<h1>Lists</h1>
+<h1><i>Lists</i></h1>
 <section>
-<p><a href="albums_ive_heard.php">Albums I've Heard</a></p>
-<p>More will be added whenever I listen to and/or get around to adding more. Some entries have short reviews/explainations with them. Keep in mind, just because it's on here, doesn't mean I enjoyed it.</p>
+    <div class="image_box">
+        <a href="albums_ive_heard.php"><p>Albums I've Heard</p></a>
+    </div>
 </section>
 
 </div> <hr>

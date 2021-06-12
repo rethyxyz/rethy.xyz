@@ -39,22 +39,11 @@
 
 <h1>Lists</h1>
 <section>
-<p><a href="anime_ive_watched.php">Anime I've Watched</a></p>
-<p>Almost every anime I've watched to date.</p>
-<p><b>A lot is still missing. I'll remove this when I add more.</b></p>
-</section>
-
-<section>
-<p><a href="movies_ive_watched.php">Movies I've Watched</a></p>
-<p>A numerical listing of almost every movie I've watched to date.</p>
-<p><b>A lot is still missing. I'll remove this when I add more.</b></p>
-</section>
-
-<section>
-<p><a href="every_episodic_series_ive_watched.php">Every Episodic Series I've Watched</a></p>
-<p>Page currently incomplete.</p>
-<p><b>TODO</b> Start inserting series I've seen into here</p>
-<!--<p>Almost every episodic series I've watched to date.</p>-->
+<div class="image_box">
+    <a href="anime_ive_watched.php"><p>Anime I've Watched</p></a>
+    <a href="movies_ive_watched.php"><p>Movies I've Watched</p></a>
+    <!-- <p><a href="every_episodic_series_ive_watched.php">Every Episodic Series I've Watched</a></p> -->
+</div>
 </section>
 
 </div>

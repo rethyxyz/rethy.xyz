@@ -39,7 +39,7 @@
 
 <p>Frank Ocean's Blonde, a long awaited LP released (finally) on July 2016. Previous to this release, in 2012, he released Channel Orange, something I remember quite fondly. I was quite into his 2012 work upon its release, as was everyone else at the time.</p>
 
-<p>Not only was Channel Orange a commercial hit, but it was the highest reviewed album of the year. In my opinion, this album did not live up to the hype, and wasn't nearly as good as the last.</p>
+<p>Not only was Channel Orange a commercial hit, but also the highest reviewed album of the year. Despite public reputation, this album did not live up to the hype, and wasn't nearly as good as its numerical predecesor.</p>
 
 <p>Even though I can see the album as a cohesive, conceptual piece, it didn't resonate with me. I enjoyed some of the vocals and instrumentation, but didn't like how loose, minimal, and ambient it came together. It didn't feel dreamy per-say, but moreso boring and ineffectual, losing me many times along the way. All it is, to me, is a collection of okay-to-medium average tracks, mostly devoid of anything I can really connect to or understand on anything but a superficial level. </p>
 <p>The high-pitch vocal trash is cringe. It feels like something akin to an Alvin and the Chipmunks album.</p>

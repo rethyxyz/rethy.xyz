@@ -11,7 +11,7 @@
 
 <hr>
 
-<p><big><center><a href="term_definitions.php">View my terminology page for word definitions</a></center></big></p><br>
+<p><big><center><a href="../literature/term_definitions.php">View my terminology page for word definitions</a></center></big></p><br>
 
 <p>
 <center><img src="files\european_timeline.PNG"><br><br>

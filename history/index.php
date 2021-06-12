@@ -13,21 +13,17 @@
 <h1>History</h1>
 <p>A page for history, about history.</p>
 
+<br>
+<br>
+
+<h1>Europe</h1>
 <div class="image_box">
-    <center>
-        <a href="files/hallstatt_pot.png"><img src="files/hallstatt_pot.png"></a>
-    </center>
-</div>
-
 <section>
-    <small><b>2021-02-12</b></small>
-    <p><a href="hallstatt_culture.php">Hallstatt Culture A-D</a></p>
+    <a href="hallstatt_culture.php"><img src="files/hallstatt_pot.png"><p>Hallstatt Culture A-D</p></a>
 </section>
-
-</a>
 </div>
 
-<hr>
+</div> <hr>
 
 <?php include 'footer.php';?>
 </body>

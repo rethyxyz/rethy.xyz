@@ -9,7 +9,7 @@
 <h1>Foo Bar Bad</h1>
 <p><b><small>Created: 2021-06-03 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></small></b></p> <hr>
 
-<p>Have you ever learned something from a good example effortlessly, other times getting literally fuck all from another? Have you ever noticed the latter seems to be the <b>foo</b> or <b>bar</b> type of example? This is the world of bad examples. This is something especially prevalent in computing sectors, and I'll say why.</p>
+<p>Have you ever learned something from a good example effortlessly, other times getting literally nothing from another? Have you ever noticed the latter seems to be the <b>foo</b> <b>bar</b> example? This is the world of bad examples. This is something especially prevalent in computing sectors, and I'll say why.</p>
 
 <p>This is the worst. Nothing is grasped from this. What these examples should be, are things to make real world connections, not this <b>foo</b>, <b>bar</b>, <b>baz</b>, unintelligible mess.</p>
 

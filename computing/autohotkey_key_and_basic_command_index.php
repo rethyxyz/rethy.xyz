@@ -9,11 +9,11 @@
 <div class="main">
 <p><b><small>Created: 2019-??-?? | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></small></b></p> <hr>
 
-<p> <font color="red"><center>AutoHotkey is only supported on Windows operating systems.</center></font> </p>
+<p> <font color="red"><center>AutoHotkey is only for Windows operating systems</center></font> </p>
 
-<p>This page is a simplified version of the offical <a href="https://www.autohotkey.com/docs/KeyList.htm#general">AutoHotkey KeyList Documentation page</a> to better serve my needs.</p>
+<p>This page is a simplified version of the offical <a href="https://www.autohotkey.com/docs/KeyList.htm#general">AutoHotkey KeyList Documentation page</a> to better serve my needs. You don't need the details, especially while starting out.</p>
 
-<p><b>Side note</b>: If you use Linux (especially tiling window managers) but have to use Windows for whatever reason, spend time learning AutoHotkey. It'll basically allow you to bind keys that are (nearly) 1:1 the same as a tiling window manager (such as WindowsKey+b will exec firefox, WindowsKey+v will exec vim, etc.).</p>
+<p>If you use Linux (especially tiling window managers) but have to use Windows for whatever reason, spend time learning AutoHotkey. It'll allow you to bind keys that are (nearly) 1:1 the same as in your tiling window manager setup (such as WindowsKey+b will exec firefox, WindowsKey+v will exec vim, etc).</p>
 
 <h2>Running</h2>
 <p>To get up and running, go to the <a href="https://autohotkey.com">AutoHotkey website</a> and click Download <a href="https://www.autohotkey.com/download/ahk-install.exe">(or here)</a> to get the latest version. Next, install the program. After all is complete, your system should be able to execute AutoHotkey scripts. Simple.</p>

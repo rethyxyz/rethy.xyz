@@ -12,279 +12,245 @@
 <div class="main">
 
 <h1>My Life in 2021</h1>
-<p>This page essentially serves as a change log and a way to display what I'm doing. I post here occasionally.</p>
+<p>This page is a change log and a way to display what I'm doing. I also post status updates here on occasion.</p>
+
+<p><font color=red>Note</font>: As of 2021-06-09, this page has been updated to act more as a changelog than prior. Hence, the old style is replaced. The two pages will be merged in time, but for now, <a href="2021_backup.php">find the old one here</a>.</p>
 
 <section>
-<b><small>2021-05-19 at 12:07:04</small></b>
-<p>Over the past few weeks, I wrote a few articles on music. Specifically:</p>
-<p>
-    <ul>
-        <li><a href="../music/albums/laleh_laleh.php">Laleh - Laleh</a></li>
-        <li><a href="../music/albums/dangerous_and_moving_tatu.php">Dangerous and Moving - t.A.T.u</a></li>
-    </ul>
-</p>
+<p><b>2021-06-11 at 00:48:31</b></p>
+<p>Finally ironed out the organization issues on the website. Very nice. If you are reading this, it's finally in effect.</p>
 </section>
 
 <section>
-<b><small>2021-05-03 at 02:27:37</small></b>
-<p>Bi-monthly theme change complete.</p>
+<p><b>2021-06-03</b></p>
+<p><a href="../computing/foo_bar_bad.php">Foo Bar Bad</a></p>
+<p>My take on the bad foo bar code examples seen online.</p>
 </section>
 
 <section>
-<b><small>2021-05-03 at 02:27:37</small></b>
-<p>I finally merged the programming and computing categories to only a computing category. They overlapped constantly, and I hated trying to figure out where to put each one.</p>
+<p><b>2021-05-11</b></p>
+<p><a href="../literature/lost_at_sea.php">Lost at Sea - Brian Lee O'Malley</a></p>
+<p>I recently read this comic book by Scott Pilgrim creator called Lost at Sea. I didn't enjoy it very much. It was a quick read - took around an hour - but was lacking content. I enjoyed Scott Pilgrim versus the World, and have read it a couple of time, but won't be reading this one again.</p>
+<p><center><img src="../literature/files/lost_at_sea_cover.jpg" width="150px" /></center></p>
 </section>
 
 <section>
-<b><small>2021-04-29 at 20:37:04</small></b>
-<p>The more time I put into an article, the less return I get on it. The less refined they are, the more people enjoy them. I suppose this is analogous to research papers: Spend time making them hard to understand, and less people will end up consuming them.</p>
-<p>I should get back to my roots by creating only stream of consiousness form of articles. It's for the best, plus it's what I enjoy the most.</p>
+<p><b>2021-05-02</b></p>
+<p><a href="../computing/the_fall_of_linux_desktops.php">The Fall of Linux Desktops</a></p>
+<p>Linux desktops will never catch on. The title is false, as they've never risen. The true meaning of the title, or what I mean to say, is I believe Linux desktops are superior to Windows (post-Windows 7), but don't agree they'll gain any mainstream traction because of the current state of modern day DEs (some WMs are good (dwm, i3, openbox...) but normies won't take time to understand them).</p>
 </section>
 
 <section>
-<b><small>2021-04-24 at 23:43:22</small></b>
-<p>I recently starting programming in Python again. Feels good. I forgot about the pure, forced simplicity that you feel while writing Python code. Forced indentation, forced syntax, one line per command, etc. I wish you could assign specific data types though, but that's just from an aesthetic point of view. I feel it makes them easier to spot.</p>
-
-<p>I forgot about how easy it is to write good code quickly. You have so many tools at your finger tips. Modules galore. I suppose there's a reason to so many using it as the ultimate high level language, despite its (lack of) speed. Because of its writing speed, I was able to recreate my recycle bin script entirely in python, and grep with a few args so far.</p>
-
-<p>Also, the site theme is black on white again. The black background felt too depressing.</p>
+<p><b>2021-04-28</b></p>
+<p><a href="../computing/offline_proofing_windows_7.php">Comfy/Offline Proof Windows (7)</a></p>
+<p><b>Why would I want to do this?</b> Do you enjoy the soulless feel of modern day Windows? Do you enjoy not owning your music, movies, videos, and games? Do you enjoy DRM? Do you want to continue to lose your long history of YouTube and Spotify playlists because Google, Spotify, and Netflix removes them seemingly for no reason? I, myself, enjoy "possessing" each individual file of the things I enjoy, such as albums, movies, TV shows, etc. This allows me to share as I wish, move as I wish, watch as I wish (no more Spotify premium license), and most importantly: Do as I wish. No one will be able to spy on you, or see your listening habits. You can truly be alone doing whatever it may be.</p>
 </section>
 
 <section>
-<b><small>2021-04-19 at 06:25:48</small></b>
-<p>I just added a new article about <a href="../computing/the_fallacy_of_program_ease.php">the fallacy of computer programs</a>.</p>
+<p><b>2021-04-28</b></p>
+<p><a href="../computing/clamav_the_only_non_shit_antivirus.php">ClamAV: The Only Non-Shit Anti-Virus</a></p>
+<p>If you're resource conscious like myself, you have seen just how bad anti-viruses can be. The issue for me stems from real time protection, something you just don't need if you have common sense. This is why I choose not to use them. This breaks the cycle of bad AVs.</p>
 </section>
 
 <section>
-<b><small>2021-04-18 at 10:57:53</small></b>
-<p>
-I've added a bunch of album reviews/definitions to the music section. I haven't worked on the ones I still need to do. Instead, I did some others that I was sporadically feeling in the moment. Here's what I did:
-<ul>
-<li><a href="../music/albums/disintegration_the_cure.php">Disintegration - The Cure</a></li>
-<li><a href="../music/albums/the_used_the_used.php">The Used - The Used</a></li>
-<li><a href="../music/albums/mad_city_kendrick_lamar.php">Good Kid, M.A.A.D City - Kendrick Lamar</a></li>
-</ul>
-</p>
+<p><b>2021-04-17</b></p>
+<p><a href="../computing/the_fallacy_of_program_ease.php">The Fallacy of Program Ease</a></p>
+<p>Computer people know the notion that some of us want something that "just werkz". Usually this refers to either an operating system like Windows or Mac OS, or a program like VSCode or an App Store. This is a false notion.</p>
 </section>
 
 <section>
-<small><b>2021-04-06 at 16:46:08</b></small>
-<p>Another update to the website, this time, to core functionality:</p>
-<p>It's starting to get difficult to manage so many sub-pages, especially when I want to change the site theme (unfortunately, I do this often). Each time I do, I have to change the settings on each individual page, which takes a while because there's around 100. If I modify a page, I also have to change the date, which sometimes I forget to do. This gets anoying after a while. I solved this by implementing PHP, pretty much just for PHP includes, and dynamic modification date. I no longer need to write the modification date, as it's taken from the metadata of the file.</p>
-<p>I'm glad to have implemented this, as it should increase my productivity in the future, and (hopefully) with less micro-management later.</p>
+<p><b>2021-04-07</b></p>
+<p><a href="../computing/qutebrowser.php">Best Qutebrowser Configuration</a></p>
+<p>I outline superior additions to qutebrowser that aren't default, but should be.</p>
 </section>
 
 <section>
-<small><b>2021-03-21 at 13:06:33</b></small>
-<p>I've been AFK (really just away from my website) for approximately 4 days as I was playing runescape. I take a hiatus every once in a while if I get burnt out from programming, which is what happened recently. I believe I spent 14-16 of my waking hours playing some sort of game. Overall, it was a good time. As I was using Windows 7, I now have more content as to how you can still use Windows 7 in 2021 safely. People don't know, but Windows 7 is still given security updates, but only for enterprise users. I'll show this off later.</p>
+<p> <b> Article Update </b> </p>
+<p><a href="../computing/dwm_bar.php">Dwmbar</a></p>
+<p>Updated dwmbar page to reflect current setup, and additional functions .</p>
 </section>
 
 <section>
-<small><b>2021-03-10 at 13:25:05</b></small>
-<p>New page <a href="../computing/about_rms_website.php">about richard stallman's website</a>.</p>
-<p>I've been working hard on creating some new scripts:</p>
-<p>
-<ul>
-	<li><b>YouTube channel to RSS feed (yt2rss.sh)</b>: Fetches YouTube channel ID from URL (generates RSS readable URLS)</li>
-	<li><b>Wallaper randomizer</b>: Chooses a random wallpaper from ~/pix/wallpapers/ directory and sets it using <code>feh</code></li>
-</ul>
-You can find these on my GitHub page.
-</p>
+<p><b>2021-03-22</b></p>
+<p><a href="../computing/making_windows_7_usable_in_2021.php">Making Windows 7 Safe in 2021</a></p>
+<p><center><img src="https://oswallpapers.com/wp-content/uploads/2016/06/img0.jpg" width=25%></center></p>
+<p>A how-to on making Windows 7 safe to use in 2021.</p>
 </section>
 
 <section>
-<small><b>2021-03-06 at 00:26:37</b></small>
-<p>Added a page dedicated to my recycle bin: <a href="../programming/my_linux_recycle_bin.php">rethyxyz-recycle-bin</a>. It's made to imitate the Windows recycle bin, but for Linux. I also added an <a href="../computing/obscure_linux_errors.php">obscure linux errors</a> page. It'll serve as a repository of the error fixes I've run into in the past, mostly focusing on the obscure ones.</p>
-<p>I still have a lot of articles to write.</p>
-<p>I revised my article categories, now opting to have no sub-categories. When you click on a category, such as computing, you will now see no sub-pages, like Linux. All articles are now displayed from newest to oldest. I also changed the global site font to monospace.</p>
+<p><b>2021-03-10</b></p>
+<p><a href="../computing/bad_openbox_configuration.php">Bad Openbox Configuration</a></p>
+<p>I talk about the bad configuration file that Openbox has. I feel this is partly because of the bad configuration setup.</p>
 </section>
 
 <section>
-<small><b>2021-02-24 at 17:53:33</b></small>
-<p>
-I recently posted an article called <a href="../programming/my_website_theme.php">rethy.xyz Website Theme</a> where I outline my website theme, specifically my themeing constants.
-</p>
-<p>
-<ul>
-	<li><del><b>TODO</b> Make a bash_aliases to vimrc format converter</del></li>
-</ul>
-</p>
+<p><b>2021-03-10</b></p>
+<p><a href="../computing/about_rms_website.php">About Richard Stallman's Website</a></p>
+<p>A collection of weird pages on Richard Stallman's website.</p>
+<p> <center><img src="../computing/files/rms_working_on_laptop_3.PNG" /></center> </p>
 </section>
 
 <section>
-<small><b>2021-02-23 at 00:09:46</b></small>
-<p>
-I have lots to do.
-Still plently of articles to write, and many more coming.
-It seems the next thing I'll be doing is a few more music articles.
-</p>
-<p>
-One on:
-<ul>
-	<li><del><b>TODO</b> Details by Frou Frou</del></li>
-	<li><b>TODO</b> S/T by Elliott Smith</li>
-	<li><del><b>TODO</b> Diorama by Silverchair</del></li>
-	<li><b>TODO</b> Apple by Mother Love Bone</li>
-</ul>
-</p>
+<p><b>2021-03-06</b></p>
+<p><a href="../computing/obscure_linux_errors.php">Obscure Linux Errors</a></p>
+<p>A collection of my fixes for obscure Linux errors.</p>
 </section>
 
 <section>
-<small><b>2021-02-22 at 01:32:21</b></small>
-<p>
-Added <a href="..\programming\taking_notes_in_html.php">Taking Notes in html</a> page.
-It's something I started doing recently, and have been enjoying it a lot.
-It's also nice being able to insert images into my note pages for once, as I had been using vim-wiki prior and for a long time.
-</p>
+<p><b>2021-02-24</b></p>
+<p><a href="../computing/my_linux_recycle_bin.php">rethyxyz-recycle-bin</a></p>
+<p>I made a Windows-like recycle bin system for Linux. Uses <code>rm</code>, and runs a safer alternative. <a href="https://github.com/rethyxyz/rethyxyz-recycle-bin">Download it here</a>.</p>
 </section>
 
-
-
 <section>
-<small><b>2021-02-18 at 8:23 PM</b></small>
-
-<p>
-	Added <a href="../visual_media/apetor.php">Apetor</a>, <a href="../visual_media/amelie.php">Amelie</a>, and <a href="../visual_media/andrew_wood_documentary.php">Andrew Wood</a> pages to <a href="../visual_media/index.php">visual media</a> area.
-</p>
-
-<p>
-	Lots more content coming soon. I'm currently working on:
-</p>
-
-<p>
-<ul>
-	<li><b>TODO</b> The Oxford comma</li>
-	<li><b>TODO</b> Pig Latin 101</li>
-	<li><b>TODO</b> File organizational guidelines</li>
-	<li><b>TODO</b> Mongolia</li>
-	<ul>
-		<li><b>TODO</b> Lake Baikal</li>
-	</ul>
-	<li><b>TODO</b> Debloating Windows 10</li>
-	<li><b>TODO</b> CRT monitor in 2021 as main device</li>
-	<li><del><b>TODO</b> RMS's (Richard Stallman) weird ass website</del></li>
-</ul>
-</p>
+<p><b>2021-02-24</b></p>
+<p><a href="../computing/my_website_theme.php">My Website Theme</a></p>
+<p>I talk about my website theme, and the constants I use in themeing.</p>
 </section>
 
-
-
 <section>
-<small><b>2021-02-12 at 12:45 PM</b></small>
-
-<p>
-	Now added history page.
-	Currently focusing on Central Europe (Celts).
-</p>
+<p><b>2021-02-22</b></p>
+<p><a href="../computing/taking_notes_in_html.php">Taking Notes in HTML</a></p>
+<p> Something I recently started doing. I explain how and why. Consider doing it because of these reasons: <ul> <li>A familiar format</li> <li>Easy to manage</li> <li>Highly customizable (CSS)</li> <li>Powerful</li> <li>Independent</li> <li>Extensible</li> </ul> </p>
 </section>
 
-
-
 <section>
-<small><b>2021-02-12 at 1:49 AM</b></small>
-
-<p>
-	Simplified <a href="../computing/an_efficient_vim.php">An Efficient <code>vim</code></a> page.
-	I removed most of the text talking about each index, it's redundant.
-	Each one, except for the first, is added to your <code>.vimrc</code>, which is obvious, so I don't need to write it each time.
-</p>
-
-<p>
-	Some things I need to research and learn:
-	<ul>
-		<li><b>TODO</b> Human genetics: DNA/Haplogroups</li>
-		<li><b>TODO</b> Go programming</li>
-		<li><b>TODO</b> The history of Europe (doing hallstatt culture a - d right now)</li>
-		<ul>
-			<li><b>TODO</b> Gauls</li>
-			<li><b>TODO</b> The formation of Latin</li>
-		</ul>
-	</ul>
-</p>
-
-<p>I'm currently writing a comprehensive guide of Hallstatt culture A - D (late Bronze Age to early Iron Age). Eventually I'll create an entire guide to Central Europe, going from start of Bronze Age all the way to the Roman Period.</p>
-
-<p>I have another on the go about Great Apes. It's a compendium of every <a href="..\literature\term_definitions.php">extant</a> Great Ape. Upon completion, I may convert it to HTML or embed the PDF into this website (it's being written in LaTeX).</p>
-
-<p>Some reminders so I don't forget about completing them:
-	<ul>
-		<li><b>TODO</b> Great Apes paper</li>
-		<li><b>TODO</b> LaTeX basics; How to get started writing LaTeX</li>
-	</ul>
-</p>
+<p><b>2021-02-18</b></p>
+<p><a href="../music/andrew_wood_documentary.php">Malfunkshun | The Andrew Wood Story</a></p>
+<p> <center> <img src="../music/files/mother_love_bone.jpg" /> </center> </p>
+<p>A documentary about the man behind the bands Malfunkshun and Mother Love Bone, two proto-grunge bands.</p>
+<p>I wrote this quickly after watching the documentary.</p>
 </section>
 
-
-
 <section>
-<small><b>2021-02-10 at 2:16 PM</b></small>
-
-<p>
-	Updated <a href="../computing/my_windows_10_setup.php">My Windows 10 Setup</a> page to reflect my current setup.
-</p>
-
-<p>
-	I'm also working on a data forwarding system to work with <a href="../programming/moses_rat.php">moses.rat</a>.
-	I want it to run as a service on a server, which will forward the information sent from the remote controller onto the next server with the service, which will send it onto the next, and so on.
-	This'll create a sort of proxy system so you don't have to directly connect with the CnC.
-	It's not yet complete, but you can find it on my <a href="https://github.com/rethyxyz/">GitHub</a> under the repository <a href="https://github.com/rethyxyz/command_chain">command_chain</a>.
-</p>
-
-<p>
-	Don't forget, it's for research purposes only.
-</p>
-
-<p>
-	Beside that, I need to update the moses.rat page to include some infographs of it in action.
-</p>
-
-<br>
-
-<p>
-	<b>TODO</b> Update moses.rat page to include infographics of the thing in action (screenshot of desktops, and remote command execution).
-</p>
+<p><b>2021-02-12</b></p>
+<p><a href="../history/hallstatt_culture.php">Hallstatt Culture A-D</a></p>
 </section>
 
-
-
 <section>
-<small><b>2021-02-09 at 12:31 AM</b> (exact same time as last)</small>
-
-<p>
-	I'm finally pushing somewhat of a final theme for this website.
-	I ended up opting for straight lines rather than round ones for the boxes and such.
-</p>
-
-<br>
-
-<p>
-	<del><b>TODO</b> Add koss_headphones page to music and hardware index</del>
-</p>
-
-<p>
-	<del><b>TODO</b> Add windows software page to windows index</del>
-</p>
-
-<p>
-	<del><b>TODO</b> Add images to literature and visual media pages</del>
-</p>
+<p><b>2021-02-10</b></p>
+<p><a href="../computing/why_ricing_isnt_a_waste_of_time.php">Why Ricing Isn't a Waste of Time</a></p>
+<p>Stop dissing ricing.</p>
 </section>
 
-
+<section>
+<p><b>2021-02-07</b></p>
+<p><a href="../computing/making_vim_feel_like_emacs.php">Making vim Feel Like Emacs</a></p>
+<p>Most of the time I'm using my computer, I stay in <code>vim</code>, something <code>Emacs</code> users love to brag about. I wrote an article explaining how I accomplish this in <code>vim</code>.</p>
+<p><center><img src="../computing/files/emacs_like_vim_2021_02_08.PNG" /></center></p>
+<p>Note the WSL Bash terminal at the top. I'm running Windows 10 (as of 2021-04-11, I'm running Windows 7. See <a href="../computing/making_windows_7_usable_in_2021.php">here</a> as to how).</p>
+</section>
 
 <section>
-<small><b>2021-02-08 at 12:31 AM</b></small> <br>
+<p><b>2021-02-03</b></p>
+<p><a href="../computing/the_power_of_thinkpads.php">The Power of ThinkPads</a></p>
+<p><center><img src="../computing/files/T500.jpg" width=50% /></center></p>
+<p>The Power of ThinkPads: Customizability, extensibility, and durability.</p>
+</section>
 
-<p><center><img src="files/working_on_website_2021_02_08.png" /></center></p>
+<section>
+<p><b>2020-01-29</b></p>
+<p><a href="../computing/the_best_windows_software.php">The Best Windows Software</a></p>
+<p>A list of the most essential Windows software.</p>
+</section>
 
-<p>I'm currently overtaking a big overhaul of my website. It's going to be much improved, and will be made to support more content than just articles. As shown by this page, I'll also have a sort of updates page showing what I'm doing, or for my future self to eventually do. The latter will be in the form of TODOs. You will see those eventually.</p>
+<section>
+<p><b>2021-01-27</b></p>
+<p><a href="../computing/the_unix_hater_handbook_overview.php">The Unix Hater's Handbook</a></p>
+<p>My overview of the Unix Hater's Handbook.</p>
+<p>If you're a self-proclaimed Linux <i>"wizard"</i> like myself, you've already heard the author's arguments. Basically, they bring up some good points, but they're nothing new.</p>
+<p><img src="https://upload.wikimedia.org/wikipedia/en/7/77/UNIX-HATERS_Handbook_cover_ISBN_1-56884-203-1.png" /></p>
+</section>
 
-<p>
-	<center><img src="files/site_before_2021_02_08.png" /><br><br></center>
-	Before...<br><br>
-	<center><img src="files/site_after_2021_02_08.png" /><br><br></center>
-	After.
-</p>
+<section>
+<p><b>2020-01-27</b></p>
+<p><a href="../music/koss_headphones_the_only_headphones_youll_need.php">Koss Headphones: The Only Headphones You'll Ever Need</a></p>
+<p>I talk about my various Koss brand headphones, and how they're epitome of the ultimate price to performance.</p>
+</section>
+
+<section>
+<p><b>2021-01-26</b></p>
+<p><a href="../computing/mpv_youtube_quality_picker.php">Mpv Youtube Quality Picker</a></p>
+<p>A how-to on installing <code>mpv-youtube-quality-picker.</code> Bringing awareness to this great script.</p>
+</section>
+
+<section>
+<p><b>2021-01-25</b></p>
+<p><a href="../computing/moses_rat.php">moses.rat</a></p>
+<p>A modified version of moses. A tiny RAT targeting Windows systems.</p>
+</section>
+
+<section>
+<p><b>2021-01-23</b></p>
+<p><a href="../computing/a_case_for_tiling_window_manager_usage.php">A Case for Tiling Window Manager Usage</a></p>
+<p>A rebuttal against Xah Lee's article titled "Why Tiling Window Manager Sucks", and common arguments about tiling windows managers.</p>
+</section>
+
+<section>
+<p><b>2020-12-25</b></p>
+<p><a href="../computing/dwm_bar.php">My dwm Status Bar</a></p>
+<p>An overview of my <code>dwm</code> status bar.</p>
+<p><img src="../computing/files/dwm_bar.png" /></p>
+</section>
+
+<section>
+<p><b>2020-12-25</b></p>
+<p><a href="../computing/my_dwm_configuration.php">My dwm Configuration</a></p>
+<p><img src="../computing/files/dwm_setup.png" /></p>
+<p>What my <code>dwm</code> setup entails.</p>
+</section>
+
+<section>
+<p><b>2020-12-23</b></p>
+<p><a href="../computing/an_efficient_vim.php">An efficient vim</a></p>
+<p><code>Vim</code> built in auto-complete, <code>vim</code> built in fzf, defining filetype specific macros, persistent macros, and more.</p>
+</section>
+
+<section>
+<p><b>2020-12-20</b></p>
+<p><a href="../computing/randomizing_current_wallpaper.php">Randomizing Current Wallpaper in Linux</a></p>
+<p>Randomizes wallpapers found in a specific folder structure.</p>
+</section>
+
+<section>
+<p><b>2020-12-20</b></p>
+<p><a href="../computing/config_converter_for_linux.php">File Hierarchy Converter</a></p>
+<p>Converts between my E550 and Desktop directory structures.</p>
+</section>
+
+<section>
+<p><b>2020-12-16</b></p>
+<p><a href="../computing/the_best_way_to_consume_media.php">The Best Way to Consume Media: Newsboat</a></p>
+<p>The best RSS reader out there for Linux.</p>
+</section>
+
+<section>
+<p><b>2020-12-11</b></p>
+<p><a href="../computing/why_gaming_vpns_are_a_scam.php">Gaming VPNs Are Scams</a></p>
+</section>
+
+<section>
+<p><b>2020-12-10</b></p>
+<p><a href="../computing/my_windows_10_setup.php">My Windows 7/10 Setup</a></p>
+<p>Now updated to reflect my current setup. Now shows my AHK scripts, vim-like programs/addons, my programmable mouse, and gVim.</p>
+</section>
+
+<section>
+<p><b>2020-??-??</b></p>
+<p><a href="../computing/moses.php">Moses: A tiny DDoS botnet utility</a></p>
+<p>A tiny DDoS botnet utility written for research purposes.</p>
+</section>
+
+<section>
+<p><b>2019-??-??</b></p>
+<p><a href="../computing/autohotkey_key_and_basic_command_index.php">AutoHotkey Key and Basic Command Index</a></p>
+<p>An overview of basic AutoHotkey syntax and commands.</p>
+</section>
+
+<section>
+<p><b>2019-??-??</b></p>
+<p><a href="../computing/window_managers.php">Window Managers Explained</a></p>
+<p>A contrast between tiling and floating window managers.</p>
 </section>
 </div> <hr>
 

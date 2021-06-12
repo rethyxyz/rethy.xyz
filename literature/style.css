@@ -1,44 +1,28 @@
-a { color: inherit; }
-
-b { text-shadow: grey 0px 1px 0px; }
-
-big { font-size: 25px; }
-
-blockquote { font-style: italic; }
-
-code { border: solid thin grey; }
-
+/* Sections unlikely to change */
+main { max-width: 100%; }
 html { background-color: #FFFFFF; }
 
-iframe { max-width: 75%; }
-
-main { max-width: 100%; }
-
-table, th, td { border: 1px solid grey; }
-
+.float_left { width: 200; padding: 10; float: left; }
+.float_right { width: 200; padding: 10; float: right; }
 .footer { float: bottom; position: static; display: line; }
-
+a:active { color: #C0F0FC; }
+a:hover { color: #FCFC0C; }
+a:visited { color: #060235; }
+b { text-shadow: grey 0px 1px 0px; }
+big { font-size: 25px; }
+blockquote { font-style: italic; }
 h1, h2, h3 { text-shadow: 2px 2px grey; }
-
-.float_right {
-    width: 200;
-    padding: 10;
-    float: right;
-}
-
-.float_left {
-    width: 200;
-    padding: 10;
-    float: left;
-}
+iframe { max-width: 75%; }
+table, th, td { border: 1px solid grey; }
 
 body {
 	background-color: #dcdcdc;
 	margin: 6 auto;
-	max-width: 900px;
-	padding: 20px;
+	max-width: 1280px;
+	padding: 10px;
     font-family: Arial;
-    outline: 2px grey solid;
+    border: solid thin grey;
+    border-radius: 6px;
 
     -webkit-box-shadow: 4px 3px 8px 1px #969696;
     box-shadow: 4px 3px 8px 1px #969696;
@@ -46,7 +30,6 @@ body {
 
 img {
     border-radius: 6px;
-    border: solid thin grey;
     box-shadow: 10px 10px 5px #ccc;
     max-width: 75%;
     padding: 1px;
@@ -58,7 +41,7 @@ img {
 }
 
 section {
-    border: solid thin grey;
+    border: solid thin black;
     border-radius: 6px;
     padding: .3rem;
     margin: 4px;
@@ -69,31 +52,32 @@ section {
 }
 
 .image_box a {
-    max-width: auto;
-    max-height: auto;
+    border-radius: 6px;
+    border: 2px grey solid;
     display: inline-block;
-    padding: 8px;
-    margin: 4px;
-    font-size: 12px;
+    margin: 2px;
+    max-height: auto;
+    max-width: auto;
+    padding: 2px;
     text-align: center;
 }
 
 .image_box img {
-    border-radius: 6px;
     max-width: 150px;
 
-    -moz-box-shadow: 10px 10px 5px #ccc;
-    -webkit-box-shadow: 10px 10px 5px #ccc;
-    -khtml-box-shadow: 10px 10px 5px #ccc;
+    -moz-box-shadow: 2px 2px 2px #ccc;
+    -webkit-box-shadow: 2px 2px 2px #ccc;
+    -khtml-box-shadow: 2px 2px 2px #ccc;
 }
 
-.back_button a {
+.back_button {
     padding: 8px;
     display: inline-block;
-    border: solid thin grey;
+    border: solid thin black;
     border-radius: 6px;
 
     -moz-box-shadow: 10px 10px 5px #ccc;
     -webkit-box-shadow: 10px 10px 5px #ccc;
     -khtml-box-shadow: 10px 10px 5px #ccc;
 }
+

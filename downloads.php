@@ -7,7 +7,7 @@
 <body>
 <div class="main">
 <h1>Downloads</h1>
-<p><small><b>Swim in the sea of my software...</b></small></p> 
+<p><small><b>Swim in the sea of my software...</b></small></p>
 
 <hr>
 
@@ -70,7 +70,7 @@
 </ul>
 
 <ul>
-	<li><a href="https://github.com/rethy.xyz/4chan_scraper/archive/master.zip">4chan scraper</a></li> 
+	<li><a href="https://github.com/rethy.xyz/4chan_scraper/archive/master.zip">4chan scraper</a></li>
 </ul>
 
 <ul>

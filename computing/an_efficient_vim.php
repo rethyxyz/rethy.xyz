@@ -19,12 +19,10 @@
 <p>You can also auto-complete file paths by pressing <b>Ctrl+x Ctrl+f</b> (<b>Ctrl+n/p</b> for next/previous is optional) which will bring up a similar menu, but for paths instead of keywords.</p>
 
 <h2>vim Built in (Fuzzy) File Finder</h2>
-<p>
-<code>set path+=**</code>
-</p>
+<p> <code>set path+=**</code> </p>
 
 <h2>Bind colon (Command Mode) to semi-colon</h2>
-<p><code>:nmap ; :</code></p>
+<p> <code>:nmap ; :</code> </p>
 
 <h2>Defining FileType specific macros</h2>
 <p>
@@ -81,9 +79,7 @@ Add this to your <code>.vimrc</code>:<br><br>
 </p>
 
 <h2>Backspace in Insert mode</h2>
-<p>
-<code>set backspace=indent,eol,start</code>
-</p>
+<p> <code>set backspace=indent,eol,start</code> </p>
 
 <h2>Open in firefox (browser)</h2>
 <p>
@@ -91,7 +87,6 @@ For Windows:<br><br>
 <code>:map &lt;leader&gt;off :exe ':silent !"C:\Program Files\Mozilla Firefox\firefox.exe" "%"'&lt;CR&gt;</code><br><br>
 For Linux:<br><br>
 <code>map &lt;leader&gt;off :exe ':silent !firefox % &amp;'&lt;CR&gt;</code>
-
 </p>
 
 <h2>Insert date/time by hitting leader + date/time</h2>
@@ -107,14 +102,13 @@ Here's an example of making one for a website link, like my own: <br> <br>
 </p>
 
 <h2>Toggle 80 character column</h2>
-<p>
-</p> <hr>
+<p> <code>map &lt;leader&gt;cc :execute "set colorcolumn=" . (&#38;colorcolumn == "" ? "80" : "")&lt;CR&gt;</code> </p> <hr>
 
 <p>
 See also:
 <ul>
-	<li><a href="making_vim_feel_like_emacs.php">Making vim Feel like Emacs (Without the Bloat)</a></li>
-	<li><a href="the_fallacy_of_program_ease.php">The Fallacy of Program Ease</a></li>
+<li><a href="making_vim_feel_like_emacs.php">Making vim Feel like Emacs (Without the Bloat)</a></li>
+<li><a href="the_fallacy_of_program_ease.php">The Fallacy of Program Ease</a></li>
 </ul>
 </p>
 

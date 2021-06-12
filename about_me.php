@@ -21,7 +21,7 @@
 </div>
 
 <p>Primarily, I'm an autodidact with a focus on programming and computing. Secondly, I'm interested in music, film, philosophy, and most other forms of learning.</p>
-    
+
 <p>I'm a long time internet user. I have - and I mean it - spend countless hours in Internet communities ranging from the top (Twitch (I know every big Twitch thing in the past 10 years), YouTube (same explanation as Twitch, but longer), to some other, more obscure ones (imageboards and such).</p>
 
 <p>I'm also a high functioning Linux user, and other times Windows as well.</p>
