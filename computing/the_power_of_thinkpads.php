@@ -9,8 +9,10 @@
 <h1>The Power of ThinkPads</h1>
 <p><b><small>Created: 2021-01-30 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></small></b></p><hr>
 
+<p>My lengthy history with ThinkPads.</p><br>
+
 <h1>T500</h1>
-<p><center><img src="files/T500.jpg" width=50% /></center></p>
+<p><center><img src="files/T500.jpg" width=50% /></center></p><br>
 <p>
   The first ThinkPad I owned was one of these:
   <ul>
@@ -49,10 +51,10 @@
     <iframe src="https://www.youtube.com/watch?v=zbJJRXM0PRs"></iframe><br>
     <p><small>Sub to this person for /g/ certified CS, ThinkPad, programming, and hardware videos.</small></p>
   </center>
-</p>
+</p><br>
 
 <h1>E550 (Previous)</h1>
-<p><center><img src="files/E550.jpg" width="50%" /></center></p>
+<p><center><img src="files/E550.jpg" width="50%" /></center></p><br>
 
 <p>
   <ul>
@@ -71,7 +73,7 @@
 </p>
 
 <p>
-  I normally run <code>dwm</code>, <code>i3wm</code>, or Windows if I'm messing with Cyber security/pen-testing stuff. I used to hate running Windows, as I'm better with Linux, but I've gotten used to it by using AutoHotkey, WSL, and gVim. These days it's super usable. Some days I even enjoy the ease of Windows... Other times not so much, as I end up feeling to constricted. Anyway, seeing as the laptop has 8 GB DDR3L, one SSD and a 1TB HDD (swapped CD drive for a hard drive bay), and a TrackPoint (not as good as the T500's), it's not a bad system. Plus, the battery life is better than the T500. And of course it's usable, it's still a fairly new laptop, but it's not something that I would have purchased myself if it wasn't given to me for free. The only reason I'm using it now is because I have two of them, and they do the job. There's no reason to go and spend money on another system when you have one (or two in my case) that works just fine.
+  I normally run <code>dwm</code>, <code>i3wm</code>, or Windows if I'm messing with Cyber security/pen-testing stuff. I used to hate running Windows, as I'm better with Linux, but I've gotten used to it by using AutoHotkey, WSL, and gVim. These days it's super usable. Some days I even enjoy the ease of Windows... Other times not so much, as I end up feeling too constricted. Anyway, seeing as the laptop has 8 GB DDR3L, one SSD and a 1TB HDD (swapped CD drive for a hard drive bay), and a TrackPoint (not as good as the T500's), it's not a bad system. Plus, the battery life is better than the T500. And of course it's usable, it's still a fairly new laptop, but it's not something that I would have purchased myself if it wasn't given to me for free. The only reason I'm using it now is because I have two of them, and they do the job. There's no reason to go and spend money on another system when you have one (or two in my case) that works just fine.
 </p>
 
 <p>
@@ -81,9 +83,10 @@
 <h1>E570 (Current)</h1>
 <p>
   <center>
-    <img src="files/e570.png">
+    <img src="files/e570.jpg"><br><br>
+    <small><b>Not the best photo because it looks the same as the E550</b></small>
   </center>
-</p>
+</p><br>
 
 <p>
   Last week, was given an E570 from my mother's work. Finally, I've obtained a "newest" generation system. Though it's lacking in current RAM capacity, it isn't in RAM technology...
@@ -94,7 +97,7 @@
     <li>7th Generation Intel® Core™ i5-7200U Processor (2.50GHz, up to 3.10GHz with Turbo Boost, 3MB Cache)</li>
     <li>Intel HD Graphics 620</li>
     <li>720p HD webcam</li>
-    <li>8 GB DDR4 2133 MHz (I only have 4, other stick was taken out)</li>
+    <li>8 GB DDR4 2133 MHz (I only have 4 GB, other stick was taken out)</li>
     <li>500 GB Western Digital Black HDD</li>
     <li>15.6' 1336x768 IPS display</li>
     <li>1 new age Lenovo charging port (rectangle shape), 3 USBs (2 Super Speed, 1 for high power charging), 1 HDMI, 1 VGA, 1 RJ45 port (Ethernet port), and a 3.5mm headphone jack</li>

@@ -9,13 +9,14 @@
 
 <div class="main">
 <h1>Music</h1>
-<p>
-Articles on music related things, and album reviews/write-ups. A page category all about music.
-</p>
+<p>Articles on music related things, and album reviews/write-ups. A page category all about music.</p>
 
-<p>
-  Most of what I'm to be writing are retrospective pieces. I've listened to many albums in the past, and hope to share most of them with others aside from just myself.
-</p>
+<p>Most of what I'm to be writing are retrospective pieces. I've listened to many albums in the past, and hope to share most of them with others aside from just myself.</p>
+
+<br>
+
+<h1><a href="song_blog.php">Song blog</a></h1>
+<p>A long form, single page blog about individual tracks. Mostly electronic stuff. Write-ups not mandatory.</p>
 
 <br>
 <br>

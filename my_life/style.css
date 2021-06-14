@@ -16,10 +16,10 @@ iframe { max-width: 75%; }
 table, th, td { border: 1px solid grey; }
 
 body {
-	background-color: #dcdcdc;
-	margin: 6 auto;
-	max-width: 1280px;
-	padding: 10px;
+    background-color: #dcdcdc;
+    margin: 6 auto;
+    max-width: 900px;
+    padding: 10px;
     font-family: Arial;
     border: solid thin grey;
     border-radius: 6px;

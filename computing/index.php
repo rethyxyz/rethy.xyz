@@ -11,10 +11,7 @@
 
 <div class="main">
 <h1>Computing</h1>
-<p>Articles related to computing (including programming). Things will typically be Arch (Linux), Windows (7 and 10) related, or Bash related. <font color=red>Note</font>: Some articles overlap with other tag sections, so you will find duplicates in some places.</p>
-
-<br>
-<br>
+<p>Articles related to computing (including programming). Things will typically be Arch (Linux), Windows (7 and 10) related, or Bash related. <font color=red>Note</font>: Some articles overlap with other tag sections, so you will find duplicates in some places.</p> <br> <br>
 
 <h1><i>The War on Computing</i></h1>
 <p>My apparent (and warranted) dislike for modern day computing methodologies, manifested into the following pages...</p>
@@ -22,6 +19,7 @@
     <div class="image_box">
         <center>
             <a href="a_case_for_tiling_window_manager_usage.php"><img src="files/dwm_example.png"><p>A Case for Tiling Window Manager Usage</p></a>
+            <a href="a_critique_of_wsl.php"><img src="files/wsl_2_logo.jpg"><p>A Critique of WSL</p></a>
             <a href="foo_bar_bad.php"><img src="files/on_foo_bar.png"><p>Foo Bar Bad</p></a>
             <a href="the_fall_of_linux_desktops.php"><p>The Fall of Linux Desktops</p></a>
             <a href="the_fallacy_of_program_ease.php"><img src="files/airplane_dashboard.png"><p>The Fallacy of Program Ease</p></a>
@@ -109,7 +107,7 @@
 <section>
     <div class="image_box">
         <a href="making_vim_feel_like_emacs.php"><img src="files/emacs_like_vim_2021_02_08.PNG" /><p>Making vim Feel Like Emacs</p></a>
-        <a href="an_efficient_vim.php"><p>An efficient vim</p></a>
+        <a href="an_efficient_vim.php"><img src="files/vim_logo.png"><p>An efficient vim</p></a>
     </div>
 </section>
 

@@ -23,12 +23,18 @@
 </div>
 </section>
 
+<br>
+<br>
+
 <h1>Non-Fiction</h1>
 <section>
 <div class="image_box">
 <a href="../computing/the_unix_hater_handbook_overview.php"><img src="https://upload.wikimedia.org/wikipedia/en/7/77/UNIX-HATERS_Handbook_cover_ISBN_1-56884-203-1.png"><p>The Unix Hater's Handbook</p></a>
 </div>
 </section>
+
+<br>
+<br>
 
 <h1>Lists</h1>
 <section>
