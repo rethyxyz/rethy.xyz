@@ -28,6 +28,15 @@
       </p>
     </div> <hr>
 
+    <h1>Newest article</h1>
+    <p>
+      <ul>
+	<li>
+	  <a href="visual_media/benjamin_button.php">The Curious Case of Benjamin Button</a>
+	</li>
+      </ul>
+    </p>
+
     <h1>Categories</h1>
     <section>
       <div class="image_box">
@@ -40,15 +49,6 @@
         </center>
       </div>
     </section>
-
-    <h1>Newest article</h1>
-    <p>
-      <ul>
-	<li>
-	  <a href="visual_media/benjamin_button.php">The Curious Case of Benjamin Button</a>
-	</li>
-      </ul>
-    </p>
 
     <h1>What I'm doing now</h1>
     <p>

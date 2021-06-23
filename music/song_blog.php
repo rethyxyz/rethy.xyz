@@ -10,6 +10,19 @@
 <p>All about and for individual tracks.</p>
 
 <section>
+<small><b>2021-06-16 at 19:02</b></small><hr>
+<h3>Motorcycle Emptiness - Manic Street Preachers</h3>
+<p><center><iframe src="https://www.youtube.com/watch?v=gavcjNniIvk"></iframe></center></p>
+</section>
+
+<section>
+<small><b>2021-06-16 at 18:43</b></small><hr>
+<h3>In the Comet - Laleh</h3>
+<p><center><iframe src="https://www.youtube.com/watch?v=fOvBSDTaNAo"></iframe></center></p>
+<p>Best song off Sjung.</p>
+</section>
+
+<section>
 <small><b>2021-06-14 at 01:06</b></small><hr>
 <h3>Damaged - Plummet</h3>
 <p><center><iframe src="https://www.youtube.com/watch?v=bDuSnrOUfw0"></iframe></center></p>

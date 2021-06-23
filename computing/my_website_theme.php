@@ -17,7 +17,7 @@
 <li><b>Easy to read font:</b> Comprehensible. Not anti-aliased to oblivion and back. Compatible with all devices. Easy to render.</li>
 <li><b>Back buttons on each page (aside from article pages)</b>: This makes navigation to and fro easy and simple, even if you're computer illiterate.</li>
 <li><b>Just HTML and CSS (and a small amount of PHP)</b>: No Javascript, or Perl. Everything is completely static.</li>
-<li><b>No ads, no cookies, no trackers</b>: No spying will every be done on this website, or any of my websites.</li>
+<li><b>No ads</b>: No ads will every be done on this website, or any of my (personal) websites.</li>
 <li><b>Cross compatible</b>: This site should still look good on a Blackberry Curve 9360, a PC running Internet Explorer, a PS3, etc...</li>
 </ul>
 </p>
