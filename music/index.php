@@ -16,7 +16,7 @@
 <br>
 
 <h1><a href="song_blog.php">Song blog</a></h1>
-<p>A long form, single page blog about individual tracks. Mostly electronic stuff. Write-ups not mandatory.</p>
+<p>A long form, single page blog about individual tracks. Mostly electronic stuff. Write-ups not mandatory. A dumping ground of all things individual.</p>
 
 <br>
 <br>
@@ -25,18 +25,21 @@
 <section>
     <div class="image_box">
         <center>
-        <a href="albums/blonde_frank_ocean.php"><img src="albums/album_covers/blonde_frank_ocean.jpg"><p>Blonde - Frank Ocean</p></a>
-        <a href="albums/dangerous_and_moving_tatu.php"><img src="albums/album_covers/dangerous_and_moving_tatu.jpg" /><p>Dangerous and Moving - t.A.T.u</p></a>
-        <a href="albums/details_frou_frou.php"><img src="albums/album_covers/details_frou_frou.jpg"><p>Details - Frou Frou</p></a>
-        <a href="albums/dinosaurchestra_lemon_demon.php"> <img src="albums/album_covers/dinosaurchestra_lemon_demon.jpg"> <p>Dinosaurchestra - Lemon Demon</p> </a>
-        <a href="albums/diorama_silverchair.php"> <img src="albums/album_covers/diorama_silverchair.jpg"> <p>Diorama - Silverchair</p> </a>
-        <a href="albums/disintegration_the_cure.php"> <img src="albums/album_covers/disintegration_the_cure.png"> <p>Disintegration - The Cure</p> </a>
-        <a href="albums/illinois_sufjan_stevens.php"><img src="albums/album_covers/illinois_sufjan_stevens.jpg"><p>Illinois - Sufjan Stevens</p></a>
-        <a href="albums/laleh_laleh.php"><img src="albums/album_covers/laleh_laleh.jpg" width=300px /><p>Laleh - Laleh</p></a>
-        <a href="albums/mad_city_kendrick_lamar.php"><img src="albums/album_covers/mad_city_kendrick_lamar.jpg"><p>Good Kid, M.A.A.D City - Kendrick Lamar</p></a>
-        <a href="albums/the_orbiting_human_circus_the_music_tapes.php"><img src="albums/album_covers/the_orbiting_human_circus_the_music_tapes.jpg"><p>The Orbiting Human Circus - The Music Tapes</p></a>
-        <a href="albums/the_used_the_used.php"><img src="albums/album_covers/the_used_the_used.jpg"><p>The Used - The Used</p></a>
-        <a href="albums/wide_angle_hybrid.php"><img src="albums/album_covers/wide_angle_hybrid.jpg"><p>Wide Angle - Hybrid</p></a>
+            <a href="albums\dirt_alice_in_chains.php"><img src="albums\album_covers\dirt_alice_in_chains.jpeg" alt="Dirt album cover"><p>Dirt - Alice in Chains</p></a>
+            <a href="albums\100_gecs_100_gecs.php"><img src="albums\album_covers\100_gecs_100_gecs.jpg" alt="100 gecs album cover"><p>100 gecs - 100 gecs</p></a>
+            <a href="albums/blonde_frank_ocean.php"><img src="albums/album_covers/blonde_frank_ocean.jpg"><p>Blonde - Frank Ocean</p></a>
+            <a href="albums/dangerous_and_moving_tatu.php"><img src="albums/album_covers/dangerous_and_moving_tatu.jpg" /><p>Dangerous and Moving - t.A.T.u</p></a>
+            <a href="albums/details_frou_frou.php"><img src="albums/album_covers/details_frou_frou.jpg"><p>Details - Frou Frou</p></a>
+            <a href="albums/dinosaurchestra_lemon_demon.php"> <img src="albums/album_covers/dinosaurchestra_lemon_demon.jpg"> <p>Dinosaurchestra - Lemon Demon</p> </a>
+            <a href="albums/diorama_silverchair.php"> <img src="albums/album_covers/diorama_silverchair.jpg"> <p>Diorama - Silverchair</p> </a>
+            <a href="albums/disintegration_the_cure.php"> <img src="albums/album_covers/disintegration_the_cure.png"> <p>Disintegration - The Cure</p> </a>
+            <a href="albums/illinois_sufjan_stevens.php"><img src="albums/album_covers/illinois_sufjan_stevens.jpg"><p>Illinois - Sufjan Stevens</p></a>
+            <a href="albums/laleh_laleh.php"><img src="albums/album_covers/laleh_laleh.jpg" width=300px /><p>Laleh - Laleh</p></a>
+            <a href="albums/mad_city_kendrick_lamar.php"><img src="albums/album_covers/mad_city_kendrick_lamar.jpg"><p>Good Kid, M.A.A.D City - Kendrick Lamar</p></a>
+            <a href="albums/the_orbiting_human_circus_the_music_tapes.php"><img src="albums/album_covers/the_orbiting_human_circus_the_music_tapes.jpg"><p>The Orbiting Human Circus - The Music Tapes</p></a>
+            <a href="albums/the_used_the_used.php"><img src="albums/album_covers/the_used_the_used.jpg"><p>The Used - The Used</p></a>
+            <a href="albums/wide_angle_hybrid.php"><img src="albums/album_covers/wide_angle_hybrid.jpg"><p>Wide Angle - Hybrid</p></a>
+            <a href="albums\SORRY_4_BEING_FAMOUS_alice_gas.php"><img src="albums\album_covers\SORRY_4_BEING_FAMOUS.jpg" width=300 alt="SORRY 4 BEING FAMOUS album cover"><p>SORRY 4 BEING FAMOUS - Alice Gas</p></a>
         </center>
     </div>
 </section>

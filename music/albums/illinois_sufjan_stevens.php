@@ -19,6 +19,8 @@
 
 <p>The pinnacle (and fullest representation) of the album comes at <i>Come On! Feel Illinoise!</i> The song is really a two parter, starting as a fully orchestral and colorful array, merging in the middle to a more downbeat, lyrically depressive song.</p>
 
+<p>Overall, very nice.</p>
+
 <center><p>Favorite song: <b>Come On! Feel the Illinoise!</b></p></center> <hr>
 
 <p>
