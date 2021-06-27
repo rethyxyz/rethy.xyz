@@ -11,18 +11,13 @@ big { font-size: 25px; }
 iframe { max-width: 75%; }
 blockquote { font-style: italic; }
 table, th, td { border: 1px solid grey; }
-h1 {
-    color: darkred;
-}
-h2 {
-    color: darkgreen;
-}
-h3 {
-    color: darkblue;
-}
 
 a:hover { color: #FCFC0C; }
 a:active { color: #C0F0FC; }
+
+h1 { color: darkred; }
+h2 { color: darkgreen; }
+h3 { color: darkblue; }
 
 body {
     padding: 10px;
@@ -46,7 +41,7 @@ section {
 }
 
 .image_box a {
-    border: 2px grey solid;
+    border: 1px grey solid;
     font-size: 12px;
 
     display: inline-block;
@@ -66,7 +61,6 @@ section {
 
 .back_button {
     border: solid thin black;
-    border-radius: 6px;
 
     padding: 8px;
     display: inline-block;

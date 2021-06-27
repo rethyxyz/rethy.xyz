@@ -20,7 +20,7 @@
 
 <p>Take note that some articles are found in multiple category pages as there is occasionally some crossover.</p>
 
-<p> <center> <b>All content is free from frills and ulterior motives, as it will always be.</b> </center> </p> <hr>
+<p> <center> <b>All content is free from frills and ulterior motives, as it always will.</b> </center> </p> <hr>
 
 <p>If you'd like to learn more about my website design, you can go here: <a href="computing/my_website_theme.php">rethy.xyz website theme</a>.</p>
 

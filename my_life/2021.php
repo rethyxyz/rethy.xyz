@@ -17,6 +17,11 @@
 <p><font color=red>Note</font>: As of 2021-06-09, this page has been updated to act more as a changelog than prior. Hence, the old style is replaced. The two pages will be merged in time, but for now, <a href="2021_backup.php">find the old one here</a>.</p>
 
 <section>
+<p><b>2021-06-27 at 13:29:40</b></p>
+<p>Removed excess theming. I don't want this website to become bloated, so text and box shadows are removed.</p>
+</section>
+
+<section>
 <p><b>2021-06-11 at 00:48:31</b></p>
 <p>Finally ironed out the organization issues on the website. Very nice. If you are reading this, it's finally in effect.</p>
 </section>
