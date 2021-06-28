@@ -14,14 +14,11 @@
 <p>A page for history, about history.</p>
 
 <br>
-<br>
 
 <h1>Europe</h1>
-<div class="image_box">
-<section>
-    <a href="hallstatt_culture.php"><img src="files/hallstatt_pot.png"><p>Hallstatt Culture A-D</p></a>
-</section>
-</div>
+<ul>
+    <a href="hallstatt_culture.php"><p>Hallstatt Culture A-D</p></a>
+</ul>
 
 </div> <hr>
 
