@@ -8,13 +8,9 @@
 <div class="main">
 <h1><center><a href="https://rethy.xyz/">https://rethy.xyz/</a></center></h1>
 
-<p>
-<center><b>Notes on computing, programming, visual media, literature, music, and more.</b></center>
-</p>
+<p><center><i>Notes on computing, programming, visual media, literature, music, and more.</i></center></p>
 
-<p>
-<center><img src='files/shroom0.jpg' height=100px width=100px alt="rethy.xyz icon" /></center>
-</p>
+<p><center><img src='files/shroom0.jpg' height=100px width=100px alt="rethy.xyz icon" /></center></p>
 
 <p>
 <center>
@@ -28,17 +24,18 @@
 </p>
 </div> <hr>
 
-<h1>Newest article</h1>
+<h1><i>Newest article</i></h1>
 <p>
 <ul>
 <li>
-<a href="visual_media/benjamin_button.php">The Curious Case of Benjamin Button</a>
+<a href="music/albums/SORRY_4_BEING_FAMOUS_alice_gas.php">SORRY 4 BEING FAMOUS - Alice Gas</a>
 </li>
 </ul>
 </p>
 
-<h1>Categories</h1>
+<h1><i>Categories</i></h1>
 <section>
+<center>
 <div class="image_box">
 <a href="computing/index.php"><img src="computing/files/tux.gif"><p>Computing</p></a>
 <a href="history/index.php"><img src="history/files/hallstatt_pot.png"><p>History</p></a>
@@ -46,9 +43,10 @@
 <a href="music/index.php"><img src="music/albums/album_covers/disintegration_the_cure.png"> <p>Music</p></a>
 <a href="visual_media/index.php"><img src="visual_media/movies/covers/amelie_cover.jpg"><p>Visual Media</p></a>
 </div>
+</center>
 </section>
 
-<h1>What I'm doing now</h1>
+<h1><i>What I'm doing now</i></h1>
 <p>
 <ul>
 <li>

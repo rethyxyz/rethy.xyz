@@ -22,6 +22,75 @@
 </section>
 
 <section>
+<b><small>2021-06-24</small></b> <hr>
+<p><a href="../music/albums/SORRY_4_BEING_FAMOUS_alice_gas.php">SORRY 4 BEING FAMOUS - Alice Gas</a></p>
+<p><center><img src="../music/albums/album_covers/SORRY_4_BEING_FAMOUS.jpg" width=300 alt="SORRY 4 BEING FAMOUS album cover"></center></p>
+<p>A pretty alright album. Defined as Hyperpop (it's really multigenere, spanning across a multitude of electronic ones).</p>
+</section>
+
+<section>
+<b><small>2021-06-24</small></b> <hr>
+<p><a href="../music/albums/he_has_left_us_alone_a_silver_mt_zion.php">He Has Left Us Alone, But Shafts of Light Sometimes Grace the Corners of Our Rooms - A Silver Mt. Zion</a></p>
+<p><center><img src="../music/albums/album_covers/he_has_left_us_alone_a_silver_mt_zion.jpg" width=300 alt="He Has Left Us (cont.) album cover"></center></p>
+</section>
+
+<section>
+<b><small>2021-06-24</small></b> <hr>
+<p><a href="../music/albums/100_gecs_100_gecs.php">1000 gecs - 100 gecs</a></p>
+<p><center><img src="../music/albums/album_covers/100_gecs_100_gecs.jpg" width=300 alt="1000 gecs album cover"></center></p>
+<p>A semi-humorous hyperpop album. One of the first, and one of the best in class.</p>
+</section>
+
+<section>
+<b><small>2021-06-24</small></b> <hr>
+<p><a href="../music/albums/alexisonfire_alexisonfire.php">Alexisonfire - Alexisonfire</a></p>
+<p><center><img src="../music/albums/album_covers/alexisonfire_alexisonfire.jpg" width=300 alt="alexisonfire album cover"></center></p>
+<p>I believe this band described the album's sound as "two Catholic girls at a school having a knife fight".</p>
+</section>
+
+<section>
+<b><small>2021-06-24</small></b> <hr>
+<p><a href="../music/albums/dirt_alice_in_chains.php">Dirt - Alice in Chains</a></p>
+<p><center><img src="../music/albums/album_covers/dirt_alice_in_chains.jpeg" alt="Dirt album cover" width=300></a></center></p>
+</section>
+
+<section>
+<small><b>2021-06-16 at 19:02</b></small><hr>
+<p><a href="../music/song_blog.php">Added <b>Motorcycle Emptiness - Manic Street Preachers</b> to song blog.</a></p>
+<p><center><iframe src="https://www.youtube.com/watch?v=gavcjNniIvk"></iframe></center></p>
+</section>
+
+<section>
+<small><b>2021-06-16 at 18:43</b></small><hr>
+<p><a href="../music/song_blog.php">Added <b>In the Comet - Laleh</b> to song blog.</a></p>
+<p><center><iframe src="https://www.youtube.com/watch?v=fOvBSDTaNAo"></iframe></center></p>
+</section>
+
+<section>
+<small><b>2021-06-14 at 01:06</b></small><hr>
+<p><a href="../music/song_blog.php">Added <b>Damaged - Plummet</b> to song blog.</a></p>
+<p><center><iframe src="https://www.youtube.com/watch?v=bDuSnrOUfw0"></iframe></center></p>
+</section>
+
+<section>
+<b><small>2021-06-14 at 00:55</small></b><hr>
+<p><a href="../music/song_blog.php">Added <b>Go - Moby</b> to song blog.</a></p>
+<p><center><iframe src="https://www.youtube.com/watch?v=f7upL62_DzA"></iframe></center></p>
+</section>
+
+<section>
+<b><small>2021-06-14</small></b> <hr>
+<p><a href="../computing/a_critique_of_wsl.php">A Critique of WSL</a></p>
+</section>
+
+<section>
+<small><b>2021-06-13</b></small> <hr>
+<p><a href="../visual_media/benjamin_button.php">The Curious Case of Benjamin Button</a></p>
+<p><center><img src="../visual_media/movies/covers/the_curious_case_of_benjamin_button_cover.jpg" width=300 /></center></p>
+<p>Released in 2008: The Curious Case of Benjamin Button.</p>
+</section>
+
+<section>
 <p><b>2021-06-11 at 00:48:31</b></p>
 <p>Finally ironed out the organization issues on the website. Very nice. If you are reading this, it's finally in effect.</p>
 </section>
