@@ -90,7 +90,7 @@
 <br>
 
 <h1><i>Hardware</i></h1>
-<p>About devices that compute or work alongside computers. Keyboards, laptops, desktops, mice, etc... This excludes headphones, are they have a designated section in the <a href="../music/index.php">Music category index</a>.</p><br>
+<p>About devices that compute or work alongside computers. Keyboards, laptops, desktops, mice, etc... This excludes headphones, are they have a designated section in the <a href="../music/index.php">Music category index</a>.</p>
 <ul>
     <a href="the_power_of_thinkpads.php"><p>The Power of ThinkPads</p></a>
 </ul>
