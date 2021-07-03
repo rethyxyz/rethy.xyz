@@ -24,9 +24,11 @@
 
 <p>
 See also:
+<ul>
 <li><a href="100_gecs_100_gecs.php">1000 gecs - 100 gecs</a></li>
 <li><a href="wide_angle_hybrid.php">Wide Angle - Hybrid</a></li>
 <li><a href="the_used_the_used.php">The Used - The Used</a></li>
+</ul>
 </p>
 
 </div> <hr>

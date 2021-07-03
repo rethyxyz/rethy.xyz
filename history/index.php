@@ -15,7 +15,7 @@
 
 <br>
 
-<h1>Europe</h1>
+<h1><i>Europe</i></h1>
 <ul>
     <a href="hallstatt_culture.php"><p>Hallstatt Culture A-D</p></a>
 </ul>

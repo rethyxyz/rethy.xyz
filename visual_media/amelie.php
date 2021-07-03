@@ -18,14 +18,14 @@
 
 <p>Amelie, being one of my favorite movies, is something I've seen plenty of times, and know quite a bit about. Most of all, I enjoy the character that is Amelie, being a sort of Machiavellianistic psychopath, but atypically one who outputs pro-social behavior. I'll start my case later on.</p>
 
-<p>The film is classified as a "comedy", but it belive it shouldn't be. Most humor is the opposite of slapstick, being driven in a sort of dark way. Dry as hell. Besides that, there isn't a lot of comedic value, at least not in an "American sense", not that anyone watched it for that.</p>
+<p>The film is classified as a "comedy", but I belive it shouldn't be. The humor is opposite of slapstick, being driven in a darker way. Dry as hell. Besides that, there isn't a lot of comedic value, at least not in the "American sense", not that anyone watched it for that.</p>
 
 <p>Overall, it's a great piece that focuses heavily on character development to bring forth empathy for each and every character displayed in the film.</p> <br>
 
 <p>
     <center>
         <img src="files\machiavellianism.PNG" /> <br><br>
-        <small><b>For those who don't know, now you know.</b></small>
+        <small><b>The personality trait in reference. Taken from <a href="https://en.wikipedia.org/wiki/Machiavellianism_(psychology)">Wikipedia</a>.</b></small>
     </center>
 </p><br>
 
@@ -36,7 +36,7 @@
 <ul>
     <li>Subtleties</li>
     <ul>
-        <li>Amelie and her mother's eye twitch</li>
+        <li>Eye twitch</li>
         <li>Two characters talk about the subtleties of life, admitting the creators are aware of its important part in film</li>
         <li>Scene coloration</li>
         <li>Hidden things</li>
@@ -57,8 +57,8 @@
         <!--<li>The juxtaposition of innocence and total loss-of (Amelie and her love interest)</li>-->
         <!--<li>Weird Jokes
     <ul>
-        <li>The crack and abortion while pregnant joke</li>
-        <li>Current simultaneous orgasms</li>
+    <li>The crack and abortion while pregnant joke</li>
+    <li>Current simultaneous orgasms</li>
     </ul>-->
 </ul>
 </p>
@@ -112,7 +112,7 @@
 
 
 <h3>Hidden Things</h3>
-<p>I noticed that in this scene, you can see people looking out the window from the shop behind.</p> 
+<p>I noticed that in this scene, you can see people looking out the window from the shop behind.</p>
 
 <p>
     <center>

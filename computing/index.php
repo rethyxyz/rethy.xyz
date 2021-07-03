@@ -41,7 +41,7 @@
 
 <br>
 
-<h1>Linux</h1>
+<h1><i>Linux</i></h1>
 <p>Everything Linux related to and about the fantastic Unix-based operating system called Linux...</p><br>
 <ul>
     <a href="about_rms_website.php"><p>About Richard Stallman's Website</p></a>

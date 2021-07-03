@@ -1,7 +1,6 @@
 /* Sections unlikely to change */
 main { max-width: 100%; }
-
-html { background-image: url(files/bg.png); }
+html { background-color: white; }
 
 .float_left { width: 200; padding: 10; float: left; }
 .float_right { width: 200; padding: 10; float: right; }
@@ -12,30 +11,47 @@ iframe { max-width: 75%; }
 blockquote { font-style: italic; }
 table, th, td { border: 1px solid grey; }
 
-a:hover { color: #FCFC0C; }
+a:hover { color: #0CFC0C; }
 a:active { color: #C0F0FC; }
 
-h1 { color: darkred; }
-h2 { color: darkgreen; }
-h3 { color: darkblue; }
+h1 {
+    color: darkred;
+    text-shadow: 3px 3px 3px grey;
+}
+
+h2 {
+    color: darkgreen;
+    text-shadow: 2px 2px 2px grey;
+}
+
+h3 {
+    color: darkblue;
+    text-shadow: 1px 1px 1px grey;
+}
 
 body {
-    padding: 10px;
+    font-family: Arial;
+    padding: 12px;
     margin: 1em auto;
 
+    border-radius: 6px;
+    border: solid grey 2px;
+
     max-width: 900px;
-    border: solid grey 6px;
-    background-color: white;
+    background-color: #e8f1ff;
+    box-shadow: 7px 7px 3px lightgrey;
 }
 
 img {
-    border: 1px solid black;
     max-width: 75%;
-    padding: 1px;
+    padding: 3px;
+    border-radius: 10px;
 }
 
 section {
-    border: solid thin black;
+    border: 2px solid darkgrey;
+    box-shadow: 3px 3px 3px lightgrey;
+    border-radius: 10px;
     padding: .3rem;
     margin: 4px;
 }
@@ -50,8 +66,8 @@ section {
     max-height: auto;
     max-width: auto;
 
-    margin: 2px;
-    padding: 2px;
+    box-shadow: 2px 2px 2px lightgrey;
+    border-radius: 10px;
 }
 
 .image_box img {
@@ -61,7 +77,9 @@ section {
 
 .back_button {
     border: solid thin black;
+    border-radius: 10px;
 
     padding: 8px;
     display: inline-block;
+    box-shadow: 7px 7px 3px lightgrey;
 }
