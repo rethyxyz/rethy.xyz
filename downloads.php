@@ -16,22 +16,22 @@
 <ul>
 	<li><a href="https://github.com/rethyxyz/RIS">RIS (rethyxyz's Installation Script)</a></li>
 	<ul>
-		<li>My (semi-)modular Arch Linux-based distribution</li>
-		<li>Replicates my text and vim-based tiling window manager (dwm) setup with dotfiles and all</li>
+    <li>My (semi-)modular Arch Linux-based distribution</li>
+    <li>Replicates my text and vim-based tiling window manager (dwm) setup with dotfiles and all</li>
 	</ul>
 </ul>
 
 <ul>
 	<li><a href="https://github.com/rethyxyz/Moses">moses.rat</a></li>
 	<ul>
-		<li>A modified version of Moses</li>
-		<li>A tiny RAT targeting Windows systems</li>
-		<li>Interacts with zombies through temporary HTML pages hosted on a web server</li>
+    <li>A modified version of Moses</li>
+    <li>A tiny RAT targeting Windows systems</li>
+    <li>Interacts with zombies through temporary HTML pages hosted on a web server</li>
 	</ul>
 
 	<li><a href="https://github.com/rethyxyz/GodSpeaks">Godspeaks</a></li>
 	<ul>
-		<li>Python port of Terry Davis's program known by the same name</li>
+    <li>Python port of Terry Davis's program known by the same name</li>
 	</ul>
 </ul>
 
@@ -46,6 +46,7 @@
 <li><a href="https://github.com/rethyxyz/dwmbar">dwmbar</a></li>
 	<ul>
 	<li>A modular status bar for dwm written in Bash</li>
+	<li>Complete with device and network interface auto-detection</li>
 	</ul>
 </ul>
 
@@ -61,10 +62,10 @@
 	<ul>
 	<li>Includes:</li>
 		<ul>
-			<li>Random wallpaper selector written in Bash</li>
-			<li>Mount drive</li>
-			<li>Mount LUKS drive</li>
-			<li>and more...</li>
+        <li>Random wallpaper selector written in Bash</li>
+        <li>Mount drive</li>
+        <li>Mount LUKS drive</li>
+        <li>and more...</li>
 		</ul>
 	</ul>
 </ul>
@@ -76,6 +77,7 @@
 <ul>
 	<li><a href="https://github.com/rethyxyz/rethy.xyz">https://rethy.xyz source code</a></li>
 </ul>
+
 </p>
 </div> <hr>
 

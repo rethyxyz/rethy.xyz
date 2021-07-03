@@ -5,7 +5,7 @@
 </head>
 
 <body>
-<div class="back_button"> <a href="../index.php">Go to site index</a> </div>
+<div class="back_button"><a href="../index.php">Go to site index</a></div>
 
 <div class="main">
 <h1>Music</h1>
@@ -20,7 +20,7 @@
 
 <br>
 
-<h1><i>Albums</i></h1>
+<h1><i>Albums</i></h1><br>
 <ul>
     <a href="albums/100_gecs_100_gecs.php"><p>100 gecs - 100 gecs</p></a>
     <a href="albums/SORRY_4_BEING_FAMOUS_alice_gas.php"><p>SORRY 4 BEING FAMOUS - Alice Gas</p></a>
@@ -29,10 +29,10 @@
     <a href="albums/blonde_frank_ocean.php"><p>Blonde - Frank Ocean</p></a>
     <a href="albums/dangerous_and_moving_tatu.php"><p>Dangerous and Moving - t.A.T.u</p></a>
     <a href="albums/details_frou_frou.php"><p>Details - Frou Frou</p></a>
-    <a href="albums/dinosaurchestra_lemon_demon.php">  <p>Dinosaurchestra - Lemon Demon</p> </a>
-    <a href="albums/diorama_silverchair.php">  <p>Diorama - Silverchair</p> </a>
+    <a href="albums/dinosaurchestra_lemon_demon.php"><p>Dinosaurchestra - Lemon Demon</p> </a>
+    <a href="albums/diorama_silverchair.php"><p>Diorama - Silverchair</p> </a>
     <a href="albums/dirt_alice_in_chains.php"><p>Dirt - Alice in Chains</p></a>
-    <a href="albums/disintegration_the_cure.php">  <p>Disintegration - The Cure</p> </a>
+    <a href="albums/disintegration_the_cure.php"><p>Disintegration - The Cure</p> </a>
     <a href="albums/he_has_left_us_alone_a_silver_mt_zion.php"><p>He Has Left Us Alone (cont.) - A Silver Mt. Zion</p></a>
     <a href="albums/illinois_sufjan_stevens.php"><p>Illinois - Sufjan Stevens</p></a>
     <a href="albums/laleh_laleh.php"><p>Laleh - Laleh</p></a>
