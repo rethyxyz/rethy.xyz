@@ -10,24 +10,14 @@ big { font-size: 25px; }
 iframe { max-width: 75%; }
 blockquote { font-style: italic; }
 table, th, td { border: 1px solid grey; }
+img { max-width: 75%; padding: 3px; border-radius: 10px; }
 
 a:hover { color: #0CFC0C; }
 a:active { color: #C0F0FC; }
 
-h1 {
-    color: darkred;
-    text-shadow: 3px 3px 3px grey;
-}
-
-h2 {
-    color: darkgreen;
-    text-shadow: 2px 2px 2px grey;
-}
-
-h3 {
-    color: darkblue;
-    text-shadow: 1px 1px 1px grey;
-}
+h1 { color: darkred; text-shadow: 3px 3px 3px grey; }
+h2 { color: darkgreen; text-shadow: 2px 2px 2px grey; }
+h3 { color: darkblue; text-shadow: 1px 1px 1px grey; }
 
 body {
     font-family: Arial;
@@ -40,12 +30,6 @@ body {
     max-width: 900px;
     background-color: #e8f1ff;
     box-shadow: 7px 7px 3px lightgrey;
-}
-
-img {
-    max-width: 75%;
-    padding: 3px;
-    border-radius: 10px;
 }
 
 section {
@@ -66,6 +50,8 @@ section {
     max-height: auto;
     max-width: auto;
 
+    margin: 1px;
+    padding: 1px;
     box-shadow: 2px 2px 2px lightgrey;
     border-radius: 10px;
 }

@@ -15,10 +15,18 @@
 <p>
 <center>
 <small>
+<b><a href="donations.php">💲 Donations 💲</a></b>
+</small>
+</center>
+</p>
+<p>
+
+<center>
+<small>
 <a href="about_me.php">About Me</a>
 | <a href="about_this_website.php">About This Website</a>
 | <a href="downloads.php">Downloads</a>
-| <a href="https://github.com/rethyxyz/">My GitHub</a>
+| <a href="https://github.com/rethyxyz">My GitHub</a>
 </small>
 </center>
 </p>
@@ -33,18 +41,20 @@
 </ul>
 </p>
 
+<br>
+
 <h1><i>Categories</i></h1>
 <section>
-<center>
 <div class="image_box">
-<a href="computing/index.php"><img src="computing/files/tux.gif"><p>Computing</p></a>
-<a href="history/index.php"><img src="history/files/hallstatt_pot.png"><p>History</p></a>
-<a href="literature/index.php"><img src="literature/files/menu_bg.jpg"><p>Literature</p></a>
-<a href="music/index.php"><img src="music/albums/album_covers/disintegration_the_cure.png"> <p>Music</p></a>
+<a href="music/index.php"><img src="music/albums/album_covers/disintegration_the_cure.png"> <p>🎵 Music 🎵</p></a>
 <a href="visual_media/index.php"><img src="visual_media/movies/covers/amelie_cover.jpg"><p>Visual Media</p></a>
+<a href="history/index.php"><img src="history/files/hallstatt_pot.png"><p>History</p></a>
+<a href="computing/index.php"><img src="computing/files/tux.gif"><p>Computing</p></a>
+<a href="literature/index.php"><img src="literature/files/menu_bg.jpg"><p>Literature</p></a>
 </div>
-</center>
 </section>
+
+<br>
 
 <h1><i>What I'm doing now</i></h1>
 <p>

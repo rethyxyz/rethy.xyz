@@ -9,19 +9,21 @@
 <h1>Apetor</h1>
 <p><b><small>Created: 2021-02-16 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></small></b></p> <hr>
 
-<p>Apetor: One of my favorite YouTube channels. The one running the channel is named Tor Eckhoff. I first found him during college. Not sure how exactly, probably just YouTube recommendations. Upon finding him, I was instantly hooked. Not just by the humor, but by his simple yet stylistic film making abilities. Also, the landscapes, of course. Most of his videos are outdoors, taking place in Norway. He really makes good use of framing and makes an illusion of fluent movement through smart cuts b-roll footage.</p>
+<p><b>Apetor</b>: One of the best story telling experiences on YouTube.</p>
 
-<p>The day I discovered him, I watched almost every video that night, no exaggeration (okay, maybe some exaggeration). The next day, or week or so, I showed the channel to a friend. He was intrigued too, so we decided to view a bunch of them together, waiting for the rest of our friend group to get ready for a 7:00 PM trip to the bar. This became a topic brought up often between him and I, asking if I had seen the newest video, my views on it, if there was a new one out...</p>
+<p>The man running Apetor is <b>Tor Eckhoff</b>. I first viewed his work during college. Not sure how, exactly, but probably by the grace of YouTube algorithm. Upon discovery, I was instantly hooked. I mean really hooked. Not by the humor, but by the simplicity. Most of his videos are outdoors, taking place in Norway. He really makes good use of framing and the illusion of fluent movement through smart cuts b-roll footage.</p>
 
-<p>The whole alcohol stuff is pretty great too. In almost every video, the man takes a hearty swig of Vodka and ends it with an "ahhhh", something that's signature to his channel. Typically it's a Norweigian brand called Vikingfjord,</p><br>
+<p>The day I discovered him, I watched almost every video that night, no exaggeration (okay, maybe some exaggeration). The next day, or week or so, I showed the channel to a friend. He was intrigued too, so we then viewed a whole bunch of them together, waiting for the rest of our friend group to get ready for a 7:00 PM trip to the bar. This became a topic brought up often between him and I, asking if I had seen the newest video, my views on it, or if there was a new one coming out...</p>
+
+<p>His alcohol consumption and symbolism is the comedic staple defining his channel. In almost every video, the man takes a hearty swig of Vodka and ends it with an "ahhhh", the vocal signature to accompany all. He usually drinks a Norweigian branded Vodka called Vikingfjord.</p><br>
 
 <p>
-<center><img src="files/vikingfjord.jpg" width=400px /></center>
+    <center><img src="files/vikingfjord.jpg" width=400px /></center>
 </p> <br>
 
-<p>but he also has an occasional tendency to drink a whole assortment of Polish, Russian, and some other vodkas (you can view them in the photo below). This is something I can appreciate as a seasoned drinker myself, though I'm mostly a conniseur of fine malt liquor (Colt 45, and JR 6.0, a New Brunswick classic (this is a joke by the way, malt liquor is cheap shit)). The man must have quite the tolerance by now.</p>
+<p>He also has the occasional tendency to drink a whole assortment of Polish, Russian, and Slavic Vodkas (you can view them in the photo below). This is something I can appreciate, as a seasoned drinker myself, though I'm mostly a malt liquor conniseur (Colt 45, and JR 6.0, a New Brunswick classic (this is a joke by the way, malt liquor is cheap shit)). The man must have quite the tolerance by now, but there's not reason to speculate.</p>
 
-<p>He rarely talks in his videos despite being able to speak English well. Instead, he utter Mister bean-esque noises, something that has become part of his usual video vocabulary. The only time he truly spoke for a long while was during a car review video. <a href="https://www.youtube.com/watch?v=fEQAwEquyCc">You can watch it here.</a></p><br>
+<p>He rarely speaks proper words in his videos despite being a fully capable English speaker. Instead, he utters Mister bean-like noises, something on the usual video itinerary. The one time he truly spoke for a long while was during a <a href="https://www.youtube.com/watch?v=fEQAwEquyCc">car review video.</a></p><br>
 
 <p>
 <center>
@@ -37,19 +39,19 @@
 </center>
 </p><br>
 
-<p>Even as I was writing this, I ended up trailing off to re-watch more of his videos. While doing so, I decided I should include my favorite video, being "Making a Tartre Sandwich". I knew this instantly. I love the way it portrays some of the simple enjoyments in life. The freedom of being alone, away from the watchful eye. It's nice for a change, especially if you live in a busy society, sometimes it's nice to take a break.</p><br>
+<p>As I was writing this, I ended up trailing off to refresh my memory. While doing so, I decided I should include my favorite video, being the classic <i>"Making a Tartre Sandwich"</i>. I knew this instantly. I love the way it portrays the simple enjoyments of life. It's good to see people consuming basic food, using natural ingredients.</p><br>
 
 <p>
 <center>
 <img src="files/apetor_tartre_sandwich_1.png" /><br><br>
-<small><b>Very nice collection of Vodka.</b></small>
+<small><b>A very nice collection of Slavic Vodkas.</b></small>
 </center>
 </p><br>
 
 <p>
 <center>
 <img src="files/apetor_tartre_sandwich_2.png" /><br><br>
-<small><b>The sandwich in question.</b></small>
+<small><b>The "Tartre Sandwich".</b></small>
 </center>
 </p><br>
 

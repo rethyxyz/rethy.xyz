@@ -21,7 +21,7 @@
 
 <p>Linux won't catch on with normies because it's a different experience than Windows. I mean, look at GNOME again. It looks similar to Windows: It has over-sized buttons, a status bar system, life like icons for instant recognizability, but suffers from massive inconsistencies (<a href="https://www.windowscentral.com/sites/wpcentral.com/files/styles/larger/public/field/image/2015/07/windows-10-menus_.jpg">just like Windows 10</a>). GNOME has a lot of weird shit randomly thrown in a desktop, like hot corners (why?). When a normie tries GNOME, they don't see it as "cool" or "innovative", they see it as a cheap Windows knockoff, which is what it is. I mean, why use that shit when you can use Windows, the genuine version over the fake?</p>
 
-<p>The solution? Stop using/supporting GNOME and other bad DEs/WMs. They enforce false ideas surrounding how Linux operates. Instead of changing the pure beauty of Linux, embrace it. Show outsiders the things you can do on Linux that you can't do on Windows, and how they work differently. Let them know the process is different, but outcomes the same.</p> <hr>
+<p>The solution? Stop using/supporting GNOME and other bad DEs/WMs. They enforce false ideas surrounding how Linux operates. Instead of changing the pure beauty of Linux, embrace it. Show outsiders the things you can do on Linux that you can't do on Windows, and how they work differently. Let them know the process is different, but the outcome is the same.</p> <hr>
 
 <p>
 See also:

@@ -50,6 +50,8 @@ section {
     max-height: auto;
     max-width: auto;
 
+    margin: 1px;
+    padding: 1px;
     box-shadow: 2px 2px 2px lightgrey;
     border-radius: 10px;
 }

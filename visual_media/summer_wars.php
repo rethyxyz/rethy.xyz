@@ -11,7 +11,7 @@
 
 <p>
     <center>
-        <img src="../visual_media/movies/covers/summer_wars_cover.webp" alt="Movie cover" width="500px" /> <br> <br>
+        <img src="movies/covers/summer_wars_cover.webp" alt="Movie cover" width="500px" /> <br> <br>
         <b>Released in 2009: Summer wars.</b>
     </center>
 </p> <br>
