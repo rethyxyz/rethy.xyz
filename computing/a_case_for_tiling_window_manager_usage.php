@@ -5,6 +5,8 @@
 </head>
 
 <body>
+<div class="back_button"> <a href="index.php">Go to 💻 Computing 💻 index</a> </div>
+
 <div class="main">
 <h1>A Case <i>for</i> Tiling Window Manager Usage</h1>
 
@@ -12,7 +14,7 @@
 
 <p>I've been hearing more and more arguments against tiling window manager usage. Specifically, I've been hearing about disliking TWM usage based on the requirement of having to configure things yourself. To them, it's <i>"a waste of time"</i>. They'd rather run something that immediately takes care of configuration for them.</p>
 
-<p>This narrative has been popping up on sites like /g/ (if you don't know, you won't know), lainchan, forums, etc. I'll be debunk Xah Lee's "Why Tiling Window Manager Sucks" article, as well as some of the typical arguments brought up when speaking against TWMs...</p>
+<p>This narrative has been popping up on sites like /g/ (if you don't know, you won't know), lainchan, forums, etc. I'll be debunk Xah Lee's "Why Tiling Window Manager Sucks" article, as well as some of the typical arguments brought up when speaking against TWMs...</p> <br>
 
 <h2>Typical Statements/Questions</h2>
 <h3>"Linux is only free if you don't value your time."</h3>
@@ -20,7 +22,7 @@
 
 <p>These people have a tendency to repeat this without ever having used any TWM. Don't forget, as the saying goes, don't knock it till you (really) try it!</p>
 
-<p>In addition, using Linux/TWMs is a fantastic way to learn how computers work (at least how traditional operation works). It's important if you are or would like to work in the computing/IT industry, no matter where. Though you could get away with only knowing Windows/Mac OS X, it's not something I'd to risk. By using Linux, you can do whatever you want with YOUR computer. You just don't have the same freedoms while using closed source software, but I'm leaving the point.</p>
+<p>In addition, using Linux/TWMs is a fantastic way to learn how computers work (at least how traditional operation works). It's important if you are or would like to work in the computing/IT industry, no matter where. Though you could get away with only knowing Windows/Mac OS X, it's not something I'd to risk. By using Linux, you can do whatever you want with YOUR computer. You just don't have the same freedoms while using closed source software, but I'm leaving the point.</p> <br>
 
 <h2>Debunking Xah Lee's "<a href="http://xahlee.info/linux/why_tiling_window_manager_sucks.php">Why Tiling Window Manager Sucks</a>" Article</h2>
 <h3>Xah's Sites</h3>
@@ -91,10 +93,10 @@
 <h3>My Conclusion</h3>
 <p>By breaking down each of his points against TWMs, I conclude he isn't saying a whole lot. What he does prove, is he has one hour worth of TWM knowledge.</p>
 
-<hr>
+<br>
 
 <section>
-<b><small>2021-02-16</small></p>
+<b><small>2021-02-16</small></b> <hr>
 <p><img src="files/another_person_posts.PNG" /></p>
 <p>Another damned post on /g/.</p>
 </section>

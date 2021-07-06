@@ -5,6 +5,8 @@
 </head>
 
 <body>
+<div class="back_button"><a href="../index.php">Go to 🎵 Music 🎵 index</a></div>
+
 <div class="main">
 <h1>1000 gecs - 100 gecs</h1>
 <p><b><small>Created: 2021-06-24 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></small></b></p> <hr>

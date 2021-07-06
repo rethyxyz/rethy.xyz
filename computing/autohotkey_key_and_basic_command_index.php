@@ -5,6 +5,8 @@
 </head>
 
 <body>
+<div class="back_button"> <a href="index.php">Go to 💻 Computing 💻 index</a> </div>
+
 <h1>AutoHotkey Key and Basic Command Index</h1>
 <div class="main">
 <p><b><small>Created: 2019-??-?? | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></small></b></p> <hr>
@@ -55,7 +57,7 @@
 <td><center><big><font_red>$F3</font_red></big></center></td>
 <td><center><big><font_red>...</font_red></big></center></td>
 </tr>
-</table> 
+</table>
 
 <p><b>Note</b>: The less than/greater than symbol is actually an arrow which points in the direction of the key you want to bind. Example: &gt; points to the right, &lt; points to the left.</p>
 
@@ -64,7 +66,7 @@
 <code_block><font_green>&lt;#b::</font_green><font_brown>Run</font_brown> "C:\Program Files\Firefox Nightly\firefox.exe"</code_block>
 <br>
 <small>Explanation: Execute program found at path\to\the.exe upon LeftWin+b chord press</small>
-</p> 
+</p>
 <p>
 <code_block><font_green>$F1::</font_green><font_brown>Send</font_brown> !{F4}</code_block>
 <br>

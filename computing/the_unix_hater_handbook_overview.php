@@ -5,6 +5,8 @@
 </head>
 
 <body>
+<div class="back_button"> <a href="index.php">Go to 💻 Computing 💻 index</a> </div>
+
 <div class="main">
 <h1>The Unix Hater's Handbook Overview</h1>
 <p><small><b>Created: 2021-01-26 | Modified : <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></b></small></p>

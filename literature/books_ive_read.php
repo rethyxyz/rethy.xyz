@@ -7,8 +7,7 @@
 <body>
 <div class="main">
 <h1>Books I've Read</h1>
-<p><small><b>Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></b></small></p>
-<hr>
+<p><small><b>Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></b></small></p> <hr>
 
 <p>This page serves as a chronicle of the books that I've read. More will be added whenever I get around to it.</p>
 
@@ -16,9 +15,9 @@
 <li>1Q84 by Haruki Murakami</li>
 <li>After Dark by Haruki Murakami</li>
 <li>Animal Farm by George Orwell</li>
+<li>C Programming Language, 2nd Edition by Dennis M. Ritchie and Brian W. Kernighan</li>
 <li>Crime and Punishment by Fyodor Dostoevesky</li>
 <li>Cyberia - Douglas Rushkoff</li>
-<li>C Programming Language, 2nd Edition by Dennis M. Ritchie and Brian W. Kernighan</li>
 <li>Danny, the Champion of the World</li>
 <li>Hamlet by Shakespeare</li>
 <li>Harry Potter and the Philosophers Stone by J.K. Rowling</li>

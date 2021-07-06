@@ -5,6 +5,8 @@
 </head>
 
 <body>
+<div class="back_button"><a href="../index.php">Go to 🎵 Music 🎵 index</a></div>
+
 <div class="main">
 <h1>Blonde - Frank Ocean</h1>
 <p><b><small>Created: 2021-04-11 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></small></b></p>

@@ -5,21 +5,42 @@
 </head>
 
 <body>
+<div class="back_button"><a href="index.php">Go to 🎵 Music 🎵 index</a></div>
+
 <div class="main">
 <h1>Albums I've Heard</h1>
-<small><b>Created: 2020-??-?? | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></b></small> <hr>
+<small><b>Created: 2020 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></b></small> <hr>
 
 <p>More will be added whenever I listen to and/or get around to adding more. Some entries have short reviews/explainations with them. Keep in mind, just because it's on here, doesn't mean I enjoyed it.</p>
 
 <p><center>Format: <b>Album - Artist</b></center></p>
 
 <ol>
+<li>...I Care Because You Do - Aphex Twin</li>
+<li>10 Years - Armin van Buuren</li>
 <li>10,000 Days - Tool</li>
-<li>100 Gecs - 1000 gecs</li>
+<li>1000 gecs - 100 Gecs</li>
+<li>100th Window - Massive Attack</li>
 <li>200 km h in the Wrong Lane - t.A.T.u</li>
+<li>3-Projects - Gouryella</li>
 <li>6 Feet Beneath the Moon - King Krule</li>
 <li>76 14 - Global Communication</li>
-<li>98.12.28 男達の別れ - フィッシュマンズ</li>
+<li>98.12.28 男達の別れ - Fishmans</li>
+<li><a href="albums/aMOTION_a_perfect_circle.php">aMOTION - A Perfect Circle</a></li>
+<li><a href="albums/alexisonfire_alexisonfire.php">Alexisonfire - Alexisonfire</a></li>
+<li><a href="albums/dangerous_and_moving_tatu.php">Dangerous and Moving - t.A.T.u</a></li>
+<li><a href="albums/details_frou_frou.php">Details - Frou Frou</a></li>
+<li><a href="albums/dinosaurchestra_lemon_demon.php">Dinosaurchestra - Lemon Demon</a></li>
+<li><a href="albums/diorama_silverchair.php">Diorama - Silverchair</a></li>
+<li><a href="albums/dirt_alice_in_chains.php">Dirt - Alice in Chains</a></li>
+<li><a href="albums/disintegration_the_cure.php">Disintegration - The Cure</a></li>
+<li><a href="albums/he_has_left_us_alone_a_silver_mt_zion.php">He Has Left Us Alone, but Shafts of Light Sometimes Grace the Corner of Our Rooms... - A Silver Mt. Zion</a></li>
+<li><a href="albums/illinois_sufjan_stevens.php">Illinois - Sufjan Stevens</a></li>
+<li><a href="albums/mad_city_kendrick_lamar.php">Good Kid, m.A.A.d city - Kendrick Lamar</a></li>
+<li><a href="albums/the_orbiting_human_circus_the_music_tapes.php">The Orbiting Human Circus - The Music Tapes</a></li>
+<li><a href="albums/wide_angle_hybrid.php">Wide Angle - Hybrid</a></li>
+<li><a href="albums/the_used_the_used.php">The Used - The Used</a></li>
+<li>A Collection of Rarities and Previously Unreleased Material - John Maus</li>
 <li>A Crow Looked at Me - Mount Eerie</li>
 <li>A Flair for the Dramatic - Pierce the Veil</li>
 <li>A House - hallstadt</li>
@@ -27,6 +48,7 @@
 <li>A Perfect Circle - Eat the Elephant</li>
 <li>A Shipwreck in the Sand - Silverstein</li>
 <li>Absolution - Muse</li>
+<li>Actually Further Listening 1987-1988 - Pet Shop Boys</li>
 <li>Adrenaline - Deftones</li>
 <li>Afraid of Heights - Billy Talent</li>
 <li>After Laughter - Paramore</li>
@@ -36,6 +58,7 @@
 <li>Alien - Northlane</li>
 <li>All My Heroes Are Cornballs - JPEGMAFIA</li>
 <li>All We Know Is Falling - Paramore</li>
+<li>All's Well That Ends Well - Chiodos</li>
 <li>Altered - Second Movements - SOLAR FIELDS</li>
 <li>Alura - Sweet Trip</li>
 <li>Always Outnumbered, Never Outgunned - The Prodigy</li>
@@ -47,16 +70,18 @@
 <li>Amputechture - The Mars Volta</li>
 <li>Analphabetapolothology - Cap'n Jazz</li>
 <li>Angel Dust - Faith No More</li>
-<li>Another Green World - Eno</li>
+<li>Another Green World - Brian Eno</li>
 <li>Another One - Mac DeMarco</li>
 <li>Antichrist Superstar - Marilyn Manson</li>
 <li>Antics - Interpol</li>
 <li>Apollo Atmospheres and Soundtracks - Brian Eno</li>
+<li>Arca - Arca</li>
 <li>Arcade Fire - Arcade Fire</li>
 <li>Around the Fur - Deftones</li>
 <li>Art Angels - Grimes</li>
 <li>Astral Rejection - I Set My Friends on Fire</li>
 <li>Autobahn - Kraftwerk</li>
+<li>Axe to Fall - Converge</li>
 <li>B.P.Empire - Infected Mushroom</li>
 <li>Back to Black - Amy Winehouse</li>
 <li>Bad Brains - Bad Brains</li>
@@ -73,8 +98,10 @@
 <li>Biophilia - Björk</li>
 <li>Black Foliage Animation Music, Volume 1 - The Olivia Tremor Control</li>
 <li>Black Holes and Revelations - Muse</li>
+<li>Blonde - Frank Ocean</li>
 <li>Blood Fire Death - Bathory</li>
 <li>Blow the Roof - Flux Pavilion</li>
+<li>Blue Lines - Massive Attack</li>
 <li>Blumenkraft - Ott</li>
 <li>Bonito Generation - Kero Kero Bonito</li>
 <li>Born Villain - Marilyn Manson</li>
@@ -93,18 +120,24 @@
 <li>Classical Mushroom - Infected Mushroom</li>
 <li>Clear Moon - Mount Eerie</li>
 <li>Clockwork - deadmau5</li>
+<li>Coda - Led Zeppelin</li>
 <li>Codes and Keys - Death Cab for Cutie</li>
 <li>Collide with the Sky - Pierce the Veil</li>
 <li>Colors - Between the Buried and Me</li>
+<li>Come Clean - Puddle of Mudd</li>
 <li>Come to Daddy - Aphex Twin</li>
 <li>Commit Yourself Completely - Car Seat Headrest</li>
 <li>Control - Pedro the Lion</li>
 <li>Converting Vegetarians - Infected Mushroom</li>
 <li>Crisis - Alexisonfire</li>
 <li>Critical Meat - You Slut!</li>
+<li>Crossfade - Crossfade</li>
+<li>Crystal Castles - Crystal Castles</li>
+<li>Crystal Castles II - Crystal Castles</li>
 <li>DAMN - Kendrick Lamar</li>
 <li>DIM - the GazettE</li>
 <li>DISORDER - Gazette</li>
+<li>Damaged - Plummet</li>
 <li>Dangerous and Moving - t.A.T.u</li>
 <li>Darkbloom - Grimes</li>
 <li>Darkbloom - d'Eon</li>
@@ -114,30 +147,36 @@
 <li>Deftones - Deftones</li>
 <li>Demon Days - Gorillaz</li>
 <li>Det som engang var - Burzum</li>
-<li><a href="albums/details_frou_frou.php">Details - Frou Frou</a></li>
+<li>Details - Frou Frou</li>
 <li>Detrimentalist - Venetian Snares</li>
 <li>Diamond Eyes - Deftones</li>
 <li>Diary - Sunny Day Real Estate</li>
 <li>Dinosaur - Dinosaur Jr</li>
-<li><a href="albums/dinosaurchestra_lemon_demon.php">Dinosaurchestra - Lemon Demon</a></li>
-<li><a href="albums/diorama_silverchair.php">Diorama - Silverchair</a></li>
+<li>Dinosaurchestra - Lemon Demon</li>
+<li>Diorama - Silverchair</li>
 <li>Dirt - Alice in Chains</li>
 <li>Discoveries - Northlane</li>
 <li>Discovering the Waterfront - Silverstein</li>
-<li><a href="albums/disintegration_the_cure.php">Disintegration - The Cure</a></li>
+<li>Disintegration - The Cure</li>
 <li>Doolittle - Pixies</li>
 <li>Doppelgänger - The Fall of Troy</li>
+<li>Dots and Loops - Stereolab</li>
 <li>Drukqs - Aphex Twin</li>
+<li>Dubstep DnB Collection - Mt Eden</li>
 <li>Dude Ranch - blink-182</li>
 <li>Dummy - Portishead</li>
 <li>Dvořák - Piano Quintets Ops. 5 and 81 (Richter, Borodin Quartet) - Dvorak</li>
+<li>Dvořák - Piano Quintets Ops. 5 and 81 (Richter, Borodin Quartet) [FLAC] - Dvorak</li>
 <li>Dvořák - Symphonies Nos. 7 and 9 (Kubelík) - Dvorak</li>
 <li>ESCM - BT</li>
 <li>Eat Me, Drink Me - Marilyn Manson</li>
+<li>Eat the Elephant - A Perfect Circle</li>
 <li>EitherOr - Elliott Smith</li>
 <li>Elements of Life - Tiesto</li>
 <li>Elliott Smith - Elliott Smith</li>
 <li>Ellipse - Imogen Heap</li>
+<li>Emperor Tomato Ketchup - Stereolab</li>
+<li>Endless - Frank Ocean</li>
 <li>Enema of the State - blink-182</li>
 <li>Europe - hallstadt</li>
 <li>Everything Is - Neutral Milk Hotel</li>
@@ -152,19 +191,32 @@
 <li>Figure 8 - Elliott Smith</li>
 <li>Filosofem - Burzum</li>
 <li>Filth - Venetian Snares</li>
+<li>Finally Rich - Chief Keef</li>
 <li>Five Leaves Left - Nick Drake</li>
 <li>Flash and Gleam - レミオロメン</li>
 <li>Flood Network - katie dey</li>
+<li>Flux Pavilion - Flux Pavilion and Dillon Francis</li>
+<li>Flux Pavilion - Flux Pavilion feat. Childish Gambino</li>
+<li>Flux Pavilion - Flux Pavilion feat. Rosie Oddie</li>
+<li>Flux Pavilion - Flux Pavilion feat. Steve Aoki</li>
+<li>Flux Pavilion - Flux Pavilion feat. Turin Brakes</li>
 <li>Flux Pavilion - Flux Pavilion</li>
 <li>Follow the Leader - Korn</li>
+<li>Four Minute Mile - The Get Up Kids</li>
+<li>Four Post Cards - 吉村弘</li>
 <li>Four-Calendar Café - Cocteau Twins</li>
+<li>Frail Hands - Frail Hands</li>
 <li>Frances the Mute - The Mars Volta</li>
 <li>Frank - Amy Winehouse</li>
 <li>From a Basement on the Hill - Elliott Smith</li>
+<li>Full Collapse - Thursday</li>
 <li>Fun House - The Stooges</li>
 <li>Funeral - Arcade Fire</li>
 <li>Further Down the Spiral - Nine Inch Nails</li>
 <li>Gargantuan - Spooky</li>
+<li>Generation Terrorists - Manic Street Preachers</li>
+<li>Ghost Spirit Frail Hands - Ghost Spirit Frail Hands</li>
+<li>Ghosts 'n' Stuff - deadmau5 feat. Rob Swire</li>
 <li>Girlpool - Girlpool</li>
 <li>Give Up - The Postal Service</li>
 <li>Glory Times - Portishead</li>
@@ -174,6 +226,7 @@
 <li>Graduation - Kanye West</li>
 <li>Greatest Hits - blink-182</li>
 <li>Greatest Hits and Remixes - Skrillex</li>
+<li>Green - Hiroshi Yoshimura</li>
 <li>Gypsyhook EP - Sonny</li>
 <li>HAARP - Muse</li>
 <li>HORIZON - レミオロメン</li>
@@ -181,17 +234,23 @@
 <li>Halfaxa - Grimes</li>
 <li>Hammerheart - Bathory</li>
 <li>Hatful of Hollow - The Smiths</li>
-<li>He Has Left Us Alone, but Shafts of Light Sometimes Grace the Corner of Our Rooms... - A Silver Mt. Zion</li>
 <li>Heaven or Las Vegas - Cocteau Twins</li>
+<li>Heligoland - Massive Attack</li>
+<li>Hemispheres - Rush</li>
 <li>Here Comes the Cowboy - Mac DeMarco</li>
 <li>Hi, How Are You. The Unfinished Album - Daniel Johnston</li>
 <li>Hold Your Horse Is - Hella</li>
 <li>Holland, 1945 - Neutral Milk Hotel</li>
 <li>Holy Wood (In the Shadow of the Valley of Death) - Marilyn Manson</li>
 <li>Homogenic - Björk</li>
+<li>Hook Me Up - The Veronicas</li>
+<li>Horizons - Parkway Drive</li>
+<li>Houses of the Holy - Led Zeppelin</li>
 <li>How It Feels to Be Something On - Sunny Day Real Estate</li>
 <li>How to Leave Town - Car Seat Headrest</li>
 <li>Huge Chrome Cylinder Box Unfolding - Venetian Snares</li>
+<li>Hybrid Theory - Linkin Park</li>
+<li>Hydroponic Garden - Carbon Based Lifeforms</li>
 <li>Hypnotize - System of a Down</li>
 <li>I Brought You My Bullets, You Brought Me Your Love - My Chemical Romance</li>
 <li>I Could Live in Hope - Low</li>
@@ -203,23 +262,34 @@
 <li>In Rainbows - Radiohead</li>
 <li>In Rainbows Disk 2 - Radiohead</li>
 <li>In the Aeroplane Over the Sea - Neutral Milk Hotel</li>
+<li>In the Court of the Crimson King - King Crimson</li>
 <li>In the Flat Field - Bauhaus</li>
 <li>Indicud - Kid Cudi</li>
+<li>Interloper - Carbon Based Lifeforms</li>
 <li>Intro Bonito - Kero Kero Bonito</li>
 <li>It's My Life - Talk Talk</li>
 <li>James Blake - James Blake</li>
 <li>Jane Doe - Converge</li>
 <li>Jar of Flies - Alice in Chains</li>
+<li>Jesu - Jesu</li>
+<li>Just Be - Tiësto</li>
 <li>Just for a Day - Slowdive</li>
-<li>KIDS SEE GHOSTS - KIDS SEE GHOSTS, Kanye West and Kid Cudi</li>
+<li>Justice - ✝</li>
+<li>Juturna - Circa Survive</li>
+<li>KIDS SEE GHOSTS - KIDS SEE GHOSTS</li>
 <li>Kid A - Radiohead</li>
 <li>Kind of Blue - Miles Davis</li>
 <li>Koi No Yokan - Deftones</li>
 <li>Kokyuu - Lily Chou-Chou</li>
 <li>Korn - Korn</li>
-<li>Kūchū Camp - フィッシュマンズ</li>
+<li>Kūchū Camp - Fishmans</li>
+<li>L'univers de la mer - Dominique Guiot</li>
 <li>LCD Soundsystem - LCD Soundsystem</li>
 <li>LP2 - Sunny Day Real Estate</li>
+<li>Laleh - Laleh</li>
+<li>Led Zeppelin - Led Zeppelin</li>
+<li>Led Zeppelin II - Led Zeppelin</li>
+<li>Led Zeppelin III - Led Zeppelin</li>
 <li>Legend of the Black Shawarma - Infected Mushroom</li>
 <li>Life Is Peachy - Korn</li>
 <li>Life on the Murder Scene - My Chemical Romance</li>
@@ -229,18 +299,25 @@
 <li>Little Earthquakes - Tori Amos</li>
 <li>Live From The UK Sept. 2006 - 16 09 06 Manchester Academy - Billy Talent</li>
 <li>Live and Rare - Korn</li>
-<li>Long Season - フィッシュマンズ</li>
+<li>Live at Montreux 1986 - Talk Talk</li>
+<li>Live at Montreux 1991 1992 - Tori Amos</li>
+<li>London 1986 - Talk Talk</li>
+<li>Long Season - Fishmans</li>
+<li>Love Is Real - John Maus</li>
 <li>Love This Giant - David Byrne and St. Vincent</li>
 <li>Loveless - My Bloody Valentine</li>
 <li>Lust for Life - Iggy Pop</li>
 <li>Léon - Éric Serra</li>
 <li>MEDS - Mt Eden</li>
-<li>MM..Food - MF DOOM</li>
+<li>MM...Food - MF DOOM</li>
+<li>Madre - Arca</li>
 <li>Madvillainy - Madvillain</li>
 <li>Making a Door Less Open - Car Seat Headrest</li>
 <li>Man Alive! - King Krule</li>
 <li>Man on the Moon The End of Day - Kid Cudi</li>
 <li>Manipulator - The Fall of Troy</li>
+<li>MapleStory - MapleStory</li>
+<li>Mars Audiac Quintet - Stereolab</li>
 <li>Mask - Bauhaus</li>
 <li>Meat Is Murder - The Smiths</li>
 <li>Mechanical Animals - Marilyn Manson</li>
@@ -255,20 +332,26 @@
 <li>Meshuggah - obZen</li>
 <li>Mesmer - Northlane</li>
 <li>Metaphorical Music - Nujabes</li>
+<li>Meteora - Linkin Park</li>
 <li>Mezmerize - System of a Down</li>
 <li>Mezzanine - Massive Attack</li>
 <li>Michigan - Sufjan Stevens</li>
 <li>Milk and Kisses - Cocteau Twins</li>
 <li>Milo Goes to College - Descendents</li>
+<li>Minutes to Midnight - Linkin Park</li>
 <li>Misadventures - Pierce the Veil</li>
 <li>Miss Anthropocene - Grimes</li>
 <li>Modal Soul - Nujabes</li>
+<li>Monomania - Deerhunter</li>
 <li>More Monsters and Sprites - Skrillex</li>
 <li>Mount Eerie - the Microphones</li>
+<li>Moving Pictures - Rush</li>
 <li>Mt Eden Album - Mt Eden</li>
 <li>Music From the Penguin Cafe - Penguin Cafe Orchestra</li>
+<li>Music for Nine Post Cards - Hiroshi Yoshimura</li>
 <li>Music for the Jilted Generation - The Prodigy</li>
 <li>Music for the Recently Deceased - I Killed the Prom Queen</li>
+<li>Mutant - Arca</li>
 <li>My Downfall (Original Soundtrack) - Venetian Snares</li>
 <li>My Name Is Skrillex - Skrillex</li>
 <li>NIL - the GazettE</li>
@@ -278,18 +361,22 @@
 <li>Never for Ever - Kate Bush</li>
 <li>New Bermuda - Deafheaven</li>
 <li>New Moon - Elliott Smith</li>
+<li>No Protection - Massive Attack v. Mad Professor</li>
 <li>Nothing Was the Same - Drake</li>
 <li>Now Only - Mount Eerie</li>
 <li>Number 1 Angel - Charli XCX</li>
 <li>OK Computer - Radiohead</li>
+<li>OST - Serial Experiments Lain</li>
 <li>Octahedron - The Mars Volta</li>
 <li>Octavarium - Dream Theater</li>
 <li>On Avery Island - Neutral Milk Hotel</li>
 <li>Operation Doomsday - MF DOOM</li>
+<li>Orange Rhyming Dictionary - Jets to Brazil</li>
 <li>Ordinary Corrupt Human Love - Deafheaven</li>
 <li>Origin of Symmetry - Muse</li>
 <li>Outlandos d'Amour - The Police</li>
 <li>Pablo Honey - Radiohead</li>
+<li>Paprika Original Soundtrack - Susumu Hirasawa</li>
 <li>Paramore - Paramore</li>
 <li>Peel Session 2 - Aphex Twin</li>
 <li>Penance Soirée - The Icarus Line</li>
@@ -305,8 +392,10 @@
 <li>Pop 2 - Charli XCX</li>
 <li>Portishead - Portishead</li>
 <li>Post - Björk</li>
+<li>Powerplant - Girlpool</li>
 <li>Pretty Hate Machine - Nine Inch Nails</li>
 <li>Pulse Demon - Merzbow</li>
+<li>Quiet Forest - 吉村弘</li>
 <li>RIOT! - Paramore</li>
 <li>Radioactive - Yelawolf</li>
 <li>Rage Against the Machine - Rage Against the Machine</li>
@@ -317,10 +406,12 @@
 <li>Red House Painters - Red House Painters</li>
 <li>Redux The First 10 Years - Silverstein</li>
 <li>Reflektor - Arcade Fire</li>
+<li>Refuge Original Motion Picture Soundtrack - Carbon Based Lifeforms</li>
 <li>Reggatta de Blanc - The Police</li>
 <li>Relationship of Command - At the Drive-In</li>
 <li>Renegades - Rage Against the Machine</li>
 <li>Retired Boxer - Daniel Johnston</li>
+<li>Return of the Frog Queen (Expanded Edition) - Jeremy Enigk</li>
 <li>Return to the Sauce - Infected Mushroom</li>
 <li>Richard D. James Album - Aphex Twin</li>
 <li>Ride the Skies - Lightning Bolt</li>
@@ -331,6 +422,7 @@
 <li>Runescape OST - OST</li>
 <li>Rust in Peace - Megadeth</li>
 <li>Rusty - Rodan</li>
+<li>SORRY 4 BEING FAMOUS - Alice Gas</li>
 <li>STACKED RUBBISH - the GazettE</li>
 <li>Salad Days - Mac DeMarco</li>
 <li>Saturday Night Wrist - Deftones</li>
@@ -340,41 +432,47 @@
 <li>See You on the Other Side - Korn</li>
 <li>Selected Ambient Works 85-92 - Aphex Twin</li>
 <li>Selected Ambient Works, Volume II - Aphex Twin</li>
-<li>Serial Experiments Lain - OST</li>
+<li>Serene Velocity A Stereolab Anthology - Stereolab</li>
 <li>Sgt. Pepper's Lonely Hearts Club Band - The Beatles</li>
 <li>Showbiz - Muse</li>
 <li>Silence Yourself - Savages</li>
 <li>Skream! - Skream</li>
-<li>Skrillex - Skrillex, 12th Planet and Kill the Noise</li>
-<li>Skrillex - Skrillex</li>
-<li>Skrillex - Varien</li>
 <li>Slaughter of the Soul - At the Gates</li>
 <li>Slow Riot for New Zero Kanada - Godspeed You! Black Emperor</li>
 <li>Slowdive - Slowdive</li>
 <li>Someday We Will Foresee Obstacles - Syd Matters</li>
 <li>Something About Airplanes - Death Cab for Cutie</li>
+<li>Something to Write Home About - The Get Up Kids</li>
 <li>Songs About Leaving - Carissa's Wierd</li>
+<li>Songs From the Big Chair - Tears for Fears</li>
 <li>Songs of Pain - Daniel Johnston</li>
+<li>Sorry About Tomorrow - Hot Rod Circuit</li>
 <li>Sound of Joy - Sun Ra and the Arkestra</li>
 <li>Sound of Silver (Instrumentals) - LCD Soundsystem</li>
+<li>Soundscape 1 Surround - 吉村弘</li>
 <li>Souvlaki - Slowdive</li>
 <li>Sparks - Imogen Heap</li>
 <li>Speak for Yourself - Imogen Heap</li>
 <li>Spirit Phone - Lemon Demon</li>
+<li>Spirit They're Gone, Spirit They've Vanished - Animal Collective</li>
 <li>Spiritual State - Nujabes</li>
 <li>Steal This Album! - System of a Down</li>
 <li>Stimulus - M-Seven</li>
 <li>Stone and Echo - A Perfect Circle</li>
 <li>Straight Outta Compton - N.W.A</li>
 <li>Strangeways, Here We Come - The Smiths</li>
+<li>Strawberry Jam - Animal Collective</li>
 <li>Sunbather - Deafheaven</li>
+<li>Sung Tongs - Animal Collective</li>
 <li>Synchronicity - The Police</li>
 <li>Syro - Aphex Twin</li>
 <li>TOXIC - the GazettE</li>
 <li>Take a Look in the Mirror - Korn</li>
 <li>Take off Your Pants and Jacket - blink-182</li>
+<li>Take to the Skies - Enter Shikari</li>
 <li>Tales Of The Inexpressible - Shpongle</li>
 <li>Teens of Denial - Car Seat Headrest</li>
+<li>The Ape of Naples - Coil</li>
 <li>The Battle of Los Angeles - Rage Against the Machine</li>
 <li>The Bedlam in Goliath - The Mars Volta</li>
 <li>The Bends - Radiohead</li>
@@ -387,6 +485,7 @@
 <li>The Gathering - Infected Mushroom</li>
 <li>The Golden Age of Grotesque - Marilyn Manson</li>
 <li>The High End of Low - Marilyn Manson</li>
+<li>The Hurting - Tears for Fears</li>
 <li>The Idiot - Iggy Pop</li>
 <li>The Kick Inside - Kate Bush</li>
 <li>The King of Limbs - Radiohead</li>
@@ -397,9 +496,11 @@
 <li>The Money Store - Death Grips</li>
 <li>The New Romance - Pretty Girls Make Graves</li>
 <li>The Ooz - King Krule</li>
-<li><a href="albums/the_orbiting_human_circus_the_music_tapes.php">The Orbiting Human Circus - The Music Tapes</a></li>
+<li>The Orbiting Human Circus - The Music Tapes</li>
 <li>The Paradigm Shift - Korn</li>
+<li>The Path - Notch</li>
 <li>The Path of Totality - Korn</li>
+<li>The Poison - Bullet for My Valentine</li>
 <li>The Powers That B - Death Grips</li>
 <li>The Queen Is Dead - The Smiths</li>
 <li>The Rise and Fall of Ziggy Stardust and the Spiders From Mars - David Bowie</li>
@@ -411,7 +512,7 @@
 <li>The Sound of The Smiths - The Smiths</li>
 <li>The Stooges - The Stooges</li>
 <li>The Suburbs - Arcade Fire</li>
-<li><a href="albums\the_used_the_used.php">The Used - The Used</a></li>
+<li>The Used - The Used</li>
 <li>They're Only Chasing Safety - Underoath</li>
 <li>Third - Portishead</li>
 <li>This Is a Long Drive for Someone With Nothing to Think About - Modest Mouse</li>
@@ -424,12 +525,14 @@
 <li>Town Centre - Squid</li>
 <li>Trans-Europe Express - Kraftwerk</li>
 <li>Transatlanticism - Death Cab for Cutie</li>
+<li>Transient Random-Noise Bursts With Announcements - Stereolab</li>
 <li>Treasure - Cocteau Twins</li>
 <li>True Romance - Charli XCX</li>
 <li>Trunk Muzik 0-60 - Yelawolf</li>
 <li>Trunk Muzik 3 - Yelawolf</li>
 <li>Trunk Muzik Returns - Yelawolf</li>
 <li>Turn On the Bright Lights - Interpol</li>
+<li>Twentythree - Carbon Based Lifeforms</li>
 <li>Twin Fantasy (Face to Face) - Car Seat Headrest</li>
 <li>Twin Fantasy - Car Seat Headrest</li>
 <li>Under the Pink - Tori Amos</li>
@@ -440,6 +543,7 @@
 <li>Utopia - Björk</li>
 <li>Vee Vee - Archers of Loaf</li>
 <li>Velocity Design Comfort - Sweet Trip</li>
+<li>Very - Pet Shop Boys</li>
 <li>Veteran - JPEGMAFIA</li>
 <li>Vexillology - deadmau5</li>
 <li>Vicious Delicious - Infected Mushroom</li>
@@ -447,17 +551,24 @@
 <li>View-Monster - Lemon Demon</li>
 <li>Visions - Grimes</li>
 <li>Volta - Björk</li>
-<li>W.2016ALBUM - deadmau5</li>
+<li>W. 2016ALBUM - deadmau5</li>
 <li>Watch Out! - Alexisonfire</li>
 <li>We Have the Facts and We're Voting Yes - Death Cab for Cutie</li>
+<li>We Must Become the Pitiless Censors of Ourselves - John Maus</li>
 <li>Weezer - Weezer</li>
+<li>Wet Land - Hiroshi Yoshimura</li>
+<li>What Chaos Is Imaginary - Girlpool</li>
 <li>When Broken Is Easily Fixed - Silverstein</li>
 <li>When the Silence Is... - Koan</li>
 <li>White Pony - Deftones</li>
 <li>White Trash Heroes - Archers of Loaf</li>
 <li>Wide Angle - Hybrid</li>
+<li>Wider Angle - Hybrid</li>
+<li>Wildlife - La Dispute</li>
 <li>Windowlicker - Aphex Twin</li>
 <li>With Oden on Our Side - Amon Amarth</li>
+<li>World of Sleepers - Carbon Based Lifeforms</li>
+<li>Wow and Flutter - Stereolab</li>
 <li>XO - Elliott Smith</li>
 <li>XØ - LeATHERMØUTH</li>
 <li>Yanqui U.X.O - Godspeed You! Black Emperor</li>
@@ -471,19 +582,29 @@
 <li>Zenyattà Mondatta - The Police</li>
 <li>Ziggy Stardust and The Spiders From Mars The Motion Picture Soundtrack - David Bowie</li>
 <li>[untitled] - Korn</li>
-<li>album title goes here - deadmau5</li>
-<li>...I Care Because You Do - Aphex Twin</li>
-<li>Paprika Original Soundtrack - Susumu Hirasawa</li>
+<li>_____ - Serial Experiments Lain</li>
 <li>aMOTION - A Perfect Circle</li>
+<li>album title goes here - deadmau5</li>
 <li>at play vol. 4 - deadmau5</li>
 <li>brand new eyes - Paramore</li>
+<li>channel ORANGE - Frank Ocean</li>
 <li>ether - レミオロメン</li>
-<li><a href="albums/mad_city_kendrick_lamar.php">Good Kid, m.A.A.d city - Kendrick Lamar</a></li>
+<li>good Kid, m.A.A.d city - Kendrick Lamar</li>
 <li>i Megaphone - Imogen Heap</li>
+<li>nostalgia,ULTRA - Frank Ocean</li>
+<li>parted departed apart - Frail Hands</li>
 <li>the Glow pt. 2 - the Microphones</li>
+<li>untitled - Korn</li>
 <li>untitled unmastered - Kendrick Lamar</li>
 <li>Élan Vital - Pretty Girls Make Graves</li>
 <li>✝ - Justice</li>
+<li>レミオベスト - レミオロメン</li>
+<li>宇宙 日本 世田谷 - Fishmans</li>
+<li>朝顔 - レミオロメン</li>
+<li>花鳥風月 - レミオロメン</li>
+<li>静けさの本 Static for Piano - 吉村弘; 柴野さつき</li>
+<li>風のクロマ - レミオロメン</li>
+<li>악동뮤지션 - 악동뮤지션</li>
 </ol>
 
 </div> <hr>

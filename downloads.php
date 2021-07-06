@@ -5,6 +5,8 @@
 </head>
 
 <body>
+<div class="back_button"> <a href="index.php">Go to rethy.xyz index</a> </div>
+
 <div class="main">
 <h1>Downloads</h1>
 <p><small><b>Swim in the sea of my software...</b></small></p>

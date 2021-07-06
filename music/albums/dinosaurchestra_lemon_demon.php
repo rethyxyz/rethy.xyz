@@ -5,6 +5,8 @@
 </head>
 
 <body>
+<div class="back_button"><a href="../index.php">Go to 🎵 Music 🎵 index</a></div>
+
 <div class="main">
 <h1>Dinosaurchestra - Lemon Demon</h1>
 <p><small><b>Created: 2020-12-16 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></b></small></p><hr>

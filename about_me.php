@@ -5,9 +5,7 @@
 </head>
 
 <body>
-<div class="back_button">
-    <a href="index.php">Go to site index</a>
-</div>
+<div class="back_button"> <a href="index.php">Go to rethy.xyz index</a> </div>
 
 <div class="main">
 <h1>About Me</h1> <hr>

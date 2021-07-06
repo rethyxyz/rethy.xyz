@@ -5,6 +5,8 @@
 </head>
 
 <body>
+<div class="back_button"> <a href="index.php">Go to 🎬 Visual Media 🎬 index</a> </div>
+
 <div class="main">
 <h1>Summer Wars</h1>
 <p><b><small>Created: 2021-05-21 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></small></b></p> <hr>

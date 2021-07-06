@@ -1,12 +1,14 @@
 <html>
-  <head>
-    <?php include 'header.php';?>
-    <title>rethy.xyz Website Theme - rethy.xyz</title>
-  </head>
+<head>
+<?php include 'header.php';?>
+<title>rethy.xyz Website Theme - rethy.xyz</title>
+</head>
 
-  <body>
-    <div class="main">
-      <h1>rethy.xyz Website Theme</h1>
+<body>
+<div class="back_button"> <a href="index.php">Go to 💻 Computing 💻 index</a> </div>
+
+<div class="main">
+<h1>rethy.xyz Website Theme</h1>
 <p> <b> <small>Created: 2021-02-24 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></small> </b> </p> <hr>
 
 <p>This design is purposeful. I care little about modern day Internet aesthetics. I enforce pure functional in all, especially concerning computing. I will enforce optimality, even if no one else will. That includes this website.</p>
@@ -32,12 +34,12 @@
 <p>
 See also:
 <ul>
-	<li><a href="taking_notes_in_html.php">Taking Notes in HTML</a></li>
+<li><a href="taking_notes_in_html.php">Taking Notes in HTML</a></li>
 </ul>
 </p>
 
 </div> <hr>
 
-		<?php include 'footer.php';?>
-	</body>
+<?php include 'footer.php';?>
+</body>
 </html>

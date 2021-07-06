@@ -5,12 +5,9 @@
 </head>
 
 <body>
-<div class="back_button">
-<a href="index.php">Go to site index</a>
-</div>
+<div class="back_button"> <a href="index.php">Go to rethy.xyz index</a> </div>
 
 <div class="main">
-
 <h1>About This Website</h1> <hr>
 <p><a href="https://rethy.xyz">https://rethy.xyz</a> is about sharing information. Most is computer related, but I also share other things related to learning, like <a href="visual_media/index.php">visual media</a>, <a href="music/index.php">music</a>, <a href="literature/index.php">literature</a>, and whatever else I deem worthy.</p>
 
@@ -20,9 +17,9 @@
 
 <p>Take note that some articles are found in multiple category pages as there is occasionally some crossover.</p>
 
-<p> <center> <b>All content is free from frills and ulterior motives, as it always will.</b> </center> </p> <hr>
-
 <p>If you'd like to learn more about my website design, you can go here: <a href="computing/my_website_theme.php">rethy.xyz website theme</a>.</p>
+
+<p> <center> <b>All content is free from frills and ulterior motives, as it always will.</b> </center> </p>
 
 </div> <hr>
 

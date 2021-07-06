@@ -5,6 +5,8 @@
 </head>
 
 <body>
+<div class="back_button"> <a href="index.php">Go to 💻 Computing 💻 index</a> </div>
+
 <div class="main">
 <h1>The Best Way to Consume Media: Newsboat</h1>
 <small><b>Created: 2020-12-16 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></b></small>
@@ -31,7 +33,7 @@ If that sounds apealing to you, here's how you can get in on it:
 <li><b>Arch based distro</b>: <code>sudo pacman -S newsboat</code></li>
 <li><b>Debian based distro</b>: <code>sudo apt install newsboat</code></li><br>
 </ul>
-To add an RSS feed, simply paste a link into the file in <code>~/.newsboat/urls</code>. Here are a few RSS feeds to get you started: 
+To add an RSS feed, simply paste a link into the file in <code>~/.newsboat/urls</code>. Here are a few RSS feeds to get you started:
 <br>
 <code>
 https://lukesmith.xyz/rss.xml

@@ -5,6 +5,8 @@
 </head>
 
 <body>
+<div class="back_button"> <a href="index.php">Go to 🎬 Visual Media 🎬 index</a> </div>
+
 <div class="main">
 <h1>The Curious Case of Benjamin Button</h1>
 <p><b><small>Created: 2021-06-13 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></small></b></p> <hr>

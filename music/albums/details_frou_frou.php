@@ -5,6 +5,8 @@
 </head>
 
 <body>
+<div class="back_button"><a href="../index.php">Go to 🎵 Music 🎵 index</a></div>
+
 <div class="main">
 <h1>Details - Frou Frou</h1>
 <p><b><small>Created: 2021-04-06 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></small></b></p> <hr>
@@ -15,7 +17,7 @@
 
 <p>An album lacking immediate mainstream success. Instead, it developed cult followings years after, particularly during the mid to late 2000s. I believe the project was a sort of side one, not meant to be long term, but to be more experimental, or, more specifically, non-compromising. I think their dissolution was planned, and amicable.</p>
 
-<p>Initial cult-like groupings populated after the release of the 2004 film <i>Garden State</i> created by Zach Braff. The song <i>Let Go</i> (first track) played at films end, sparking people to seek out the name of the song. Later, after greater accessibility was established, the movie became a devisor within, separating those-in-the-know prior to, being the "superior", and those in post, as the lesser ones.</p>
+<p>Initial cult-like groupings populated after the release of the 2004 film <i>Garden State</i> created by Zach Braff. The song <i>Let Go</i> (first track) played at films end, sparked people to seek the name of the song. Later, after greater accessibility was established, the movie became a devisor within, separating those-in-the-know prior to, being the "superior", and those in post, as the lesser ones.</p>
 
 <p><center><iframe src="https://www.youtube.com/watch?v=vCDZAWLzOJM"></iframe></center></p>
 <p><small><center>Track is <b>Ghetto Symphony</b> by <b>A$AP Rocky</b>. The song sampled is <b>Psychobabble</b>.</center></small></p>
@@ -33,7 +35,7 @@
 
 <p>You can also see it in R&amp;B. The song sucks, but you can find it above. Also, this isn't a tasteful sample, as it's only used for the hook. Plus, it's nearly verbatim.</p>
 
-<p>The only thing I really dislike about the album is the shit lyrics. Lyrics range from romantic relationship, to desire. Boring, and generic.</p>
+<p>The only thing I really dislike about the album is the shit lyrics. Lyrics range from romantic relationship, to desire. Boring, and generic, but I'm glad it's made up for through its rich and inventive instrumentation.</p>
 
 <p><center> Favorite song: <b>Psychobabble</b> </center></p>
 </div> <hr>

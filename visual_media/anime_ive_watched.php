@@ -5,6 +5,8 @@
 </head>
 
 <body>
+<div class="back_button"> <a href="index.php">Go to 🎬 Visual Media 🎬 index</a> </div>
+
 <div class="main">
 <h1>Anime I've Watched</h1>
 

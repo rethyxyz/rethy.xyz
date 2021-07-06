@@ -5,6 +5,8 @@
     </head>
 
 <body>
+<div class="back_button"> <a href="index.php">Go to 💻 Computing 💻 index</a> </div>
+
 <div class="main">
 <h1>Window Managers Explained</h1>
 <hr>

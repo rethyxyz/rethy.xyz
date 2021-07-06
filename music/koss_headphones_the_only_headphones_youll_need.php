@@ -5,6 +5,8 @@
 </head>
 
 <body>
+<div class="back_button"><a href="index.php">Go to 🎵 Music 🎵 index</a></div>
+
 <div class="main">
 <h1>Koss Headphones: The Only Headphones You'll Ever Need</h1>
 <small><b>Created: 2020-01-27 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></b></small> <hr>

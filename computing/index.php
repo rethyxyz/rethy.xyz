@@ -1,16 +1,15 @@
 <html>
 <head>
 <?php include 'header.php';?>
-<title>Computing - rethy.xyz</title>
+<meta name="description" content="Articles related to computing (including programming). Things will typically be Arch (Linux), Windows (7 and 10) related, or Bash related.">
+<title>💻 Computing 💻 - rethy.xyz</title>
 </head>
 
 <body>
-    <div class="back_button">
-       <a href="../index.php">Go to site index</a>
-    </div>
+<div class="back_button"> <a href="../index.php">Go to rethy.xyz index</a> </div>
 
 <div class="main">
-<h1>Computing</h1>
+<h1><center>💻 Computing 💻</center></h1> <hr>
 <p>Articles related to computing (including programming). Things will typically be Arch (Linux), Windows (7 and 10) related, or Bash related. <font color=red>Note</font>: Some articles overlap with other tag sections, so you will find duplicates in some places.</p> <br>
 
 <h2><i>The War on Computing</i></h2>
