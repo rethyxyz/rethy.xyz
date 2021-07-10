@@ -36,7 +36,7 @@
 <p>
 <ul>
 <li>
-<a href="music/albums/SORRY_4_BEING_FAMOUS_alice_gas.php">SORRY 4 BEING FAMOUS - Alice Gas</a>
+<a href="music/albums/true_romance_charli_xcx.php">True Romance - Charli XCX</a>
 </li>
 </ul>
 </p>

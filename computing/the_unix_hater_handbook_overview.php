@@ -81,7 +81,7 @@ Instead of summarizing chapter to chapter, I'll talk about the larger points.</p
 
 <section>
 <b><small>2021-06-27</small></b>
-<p>At this point, I use my script to interact with many programs, totally flawlessly. It's safe to say it was a good time investement.</p>
+<p>At this point, I use my script to interact with many programs, totally flawlessly. It's safe to say it was a good time investment.</p>
 </section>
 
 

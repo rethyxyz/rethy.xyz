@@ -11,11 +11,7 @@
 <h1><center>🎵 Music 🎵</center></h1> <hr>
 <p>Articles on music related things, and album reviews/write-ups. A category page all about music.</p>
 
-<p>Most of what I'm to be writing are retrospective pieces. I've listened to many albums in the past, and hope to share most of them with others aside from just myself.</p>
-
-<p><font color=red>Note</font>: (cont.) meants continuted.</p>
-
-<br>
+<p>Most of what I'm to be writing are retrospective pieces. I've listened to many albums in the past, and hope to share most of them with others aside from just myself.</p> <br>
 
 <h2><a href="song_blog.php">Song blog</a></h2>
 <p>A long form, single page blog about individual tracks. Mostly electronic stuff. Write-ups not mandatory. A dumping ground of all things individual.</p>
@@ -43,6 +39,7 @@
     <a href="albums/mad_city_kendrick_lamar.php"><img src="albums/album_covers/mad_city_kendrick_lamar.jpg" /><p>Good Kid, M.A.A.D City<br>Kendrick Lamar</p></a>
     <a href="albums/the_orbiting_human_circus_the_music_tapes.php"><img src="albums/album_covers/the_orbiting_human_circus_the_music_tapes.jpg" /><p>The Orbiting Human Circus<br>The Music Tapes</p></a>
     <a href="albums/the_used_the_used.php"><img src="albums/album_covers/the_used_the_used.jpg"><p>The Used<br>The Used</p></a>
+    <a href="albums/true_romance_charli_xcx.php"><img src="albums/album_covers\true_romance_charli_xcx.jpg" alt="True Romance album cover"><p>True Romance<br>Charli XCX</p></a>
     <a href="albums/wide_angle_hybrid.php"><img src="albums/album_covers/wide_angle_hybrid.jpg" /><p>Wide Angle<br>Hybrid</p></a>
 </section>
 </center>
