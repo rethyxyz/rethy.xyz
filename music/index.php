@@ -41,6 +41,7 @@
     <a href="albums/the_used_the_used.php"><img src="albums/album_covers/the_used_the_used.jpg"><p>The Used<br>The Used</p></a>
     <a href="albums/true_romance_charli_xcx.php"><img src="albums/album_covers\true_romance_charli_xcx.jpg" alt="True Romance album cover"><p>True Romance<br>Charli XCX</p></a>
     <a href="albums/wide_angle_hybrid.php"><img src="albums/album_covers/wide_angle_hybrid.jpg" /><p>Wide Angle<br>Hybrid</p></a>
+    <a href="albums/with_oden_on_our_side_amon_amarth.php"><img src="albums/album_covers\with_oden_on_our_side_amon_amarth.jpg" alt="With Oden on Our Side album cover"><p>With Oden on Our Side<br>Amon Amarth</p></a>
 </section>
 </center>
 </div>

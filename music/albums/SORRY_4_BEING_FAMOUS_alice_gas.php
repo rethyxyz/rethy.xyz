@@ -1,7 +1,7 @@
 <html>
 <head>
 <?php include 'header.php';?>
-<title>SORRY 4 BEING FAMOUS by Alice Gas- rethy.xyz</title>
+<title>SORRY 4 BEING FAMOUS by Alice Gas - rethy.xyz</title>
 </head>
 
 <body>

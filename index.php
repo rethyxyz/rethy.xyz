@@ -45,12 +45,14 @@
 
 <h1><i>Categories</i></h1>
 <section>
-<div class="image_box">
-<a href="music/index.php"><img src="music/albums/album_covers/disintegration_the_cure.png"> <p>🎵 Music 🎵</p></a>
-<a href="visual_media/index.php"><img src="visual_media/movies/covers/amelie_cover.jpg"><p>🎬 Visual Media 🎬</p></a>
-<a href="history/index.php"><img src="history/files/hallstatt_pot.png"><p>🗺 History 🗺</p></a>
-<a href="computing/index.php"><img src="computing/files/tux.gif"><p>💻 Computing 💻</p></a>
-<a href="literature/index.php"><img src="literature/files/menu_bg.jpg"><p>📖 Literature 📖</p></a>
+<center>
+    <div class="image_box">
+    <a href="music/index.php"><img src="music/albums/album_covers/disintegration_the_cure.png"> <p>🎵 Music 🎵</p></a>
+    <a href="visual_media/index.php"><img src="visual_media/movies/covers/amelie_cover.jpg"><p>🎬 Visual Media 🎬</p></a>
+    <a href="history/index.php"><img src="history/files/hallstatt_pot.png"><p>🗺 History 🗺</p></a>
+    <a href="computing/index.php"><img src="computing/files/tux.gif"><p>💻 Computing 💻</p></a>
+    <a href="literature/index.php"><img src="literature/files/menu_bg.jpg"><p>📖 Literature 📖</p></a>
+</center>
 </div>
 </section>
 
