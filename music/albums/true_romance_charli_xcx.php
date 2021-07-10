@@ -1,15 +1,16 @@
 <html>
 <head>
 <?php include 'header.php';?>
-<title>SORRY 4 BEING FAMOUS by Alice Gas- rethy.xyz</title>
+<meta name="description" content="Charli XCX. True Romance. 2013. Named after the Quentin Tarantino movie by the same name.">
+<title>True Romance by Charli XCX - rethy.xyz</title>
 </head>
 
 <body>
 <div class="back_button"><a href="../index.php">Go to 🎵 Music 🎵 index</a></div>
 
 <div class="main">
-<h1>SORRY 4 BEING FAMOUS - Alice Gas</h1>
-<p><b><small>Created: 2021-06-24 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></small></b></p> <hr>
+<h1>True Romance - Charli XCX</h1>
+<p><b><small>Created: 2021-07-10 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></small></b></p> <hr>
 
 <p><center><img src="album_covers/true_romance_charli_xcx.jpg" width=300 /></center></p>
 
