@@ -19,9 +19,9 @@
 
 <p><center><b><small>Others agree. I'm not the only one.</small></b></center></p> <br>
 
-<p>The reason we started doing this, was because it's something invoked from an old MIT terminology based around phonetics. Like many things in computing, it's old, and traditional. This is, of course, based around what we call "hacker culture".</p>
+<p>The reason we started doing this, was because it's something invoked from old MIT terminology based around military phonetics. Like many things in computing, it's old, and traditional. This is, of course, based around what we call "hacker culture".</p>
 
-<p>Please, everyone, do away with this. Use real world examples, and people bask in the immediate understanding of <b>life</b> connections. Stop being a hacker cultist by putting tradition over understanding!</p>
+<p>Please, everyone, do away with this. Use real world examples, and bask in the immediate understanding of real <b>life</b> connections. Stop being a hacker cultist by putting tradition over understanding.</p>
 
 </div> <hr>
 

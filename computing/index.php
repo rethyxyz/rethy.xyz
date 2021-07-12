@@ -13,7 +13,7 @@
 <p>Articles related to computing (including programming). Things will typically be Arch (Linux), Windows (7 and 10) related, or Bash related. <font color=red>Note</font>: Some articles overlap with other tag sections, so you will find duplicates in some places.</p> <br>
 
 <h2><i>The War on Computing</i></h2>
-<p>My apparent (and warranted) dislike for modern day computing methodologies, manifested into the following pages... Or general computing essays.</p>
+<p>My apparent (and warranted) dislike for modern day computing methodologies, manifested into the following pages... A.k.a. general computing essays.</p>
 <section>
 <div class="image_box">
     <a href="foo_bar_bad.php"><img src="files/on_foo_bar.png" /><p>Foo Bar Bad</p></a>
