@@ -1,61 +1,72 @@
 <html>
 <head>
-    <?php include 'header.php';?>
-    <title>Notes about computing, programming, visual media, literature, music, and more - rethy.xyz</title>
-    <!-- Description for SEO to go here-->
+<?php include 'header.php';?>
+<title>Notes about computing, programming, visual media, literature, music, and more - rethy.xyz</title>
 </head>
 
 <body>
-    <?php include 'menu.php';?>
+<div class="main">
+<h1><center><a href="https://rethy.xyz/">https://rethy.xyz/</a></center></h1>
 
-    <div class="main">
-        <p><img src='files/shroom0.jpg' height=100px width=100px alt="rethy.xyz icon" /></p>
+<p><center><i>Notes on computing, programming, visual media, literature, music, and more.</i></center></p>
 
-        <h1><a href="https://rethy.xyz/">Brody Rethy</a></h1>
+<p><center><img src='files/shroom0.jpg' height=100px width=100px alt="rethy.xyz icon" /></center></p>
 
-        <p>Everything on computing, programming, visual media, literature, music, and more. Not for the faint of heart.</p>
+<p>
+<center>
+<small>
+<b><a href="donations.php">💲 Donations 💲</a></b>
+</small>
+</center>
+</p>
+<p>
 
-        <p>
-        <ul>
-        <li><a href="about_this_website.php">About This Website</a></li>
-        </ul>
-        </p>
+<center>
+<small>
+<a href="about_me.php">About Me</a>
+| <a href="about_this_website.php">About This Website</a>
+| <a href="downloads.php">Downloads</a>
+| <a href="https://github.com/rethyxyz">My GitHub</a>
+</small>
+</center>
+</p>
+</div> <hr>
 
-        <ul>
-        <li>Personal</li>
-            <ul>
-            <li><a href="about_me.php">About Me</a></li>
-            <li><a href="donations.php">Donations 💲</a></li>
-            <li><a href="downloads.php">Downloads</a></li>
-            <li><a href="https://github.com/rethyxyz">GitHub</a></li>
-            <li><a href="my_life/2021.php">What I'm doing now</a></li>
-            </ul>
-        </ul>
+<h1><i>Newest article</i></h1>
+<p>
+<ul>
+<li>
+<a href="music/albums/SORRY_4_BEING_FAMOUS_alice_gas.php">SORRY 4 BEING FAMOUS - Alice Gas</a>
+</li>
+</ul>
+</p>
 
-        <ul>
-        <li>Newest Article</li>
-            <ul>
-            <li><a href="music/albums/true_romance_charli_xcx.php">True Romance - Charli XCX</a></li>
-            </ul>
-        </ul>
+<br>
 
-        <ul>
-        <li>Categories</li>
-            <ul>
-            <li><a href="music/index.php">Music 🎵</a></li>
-            <li><a href="visual_media/index.php">Visual Media 🎬</a></li>
-            <li><a href="history/index.php">History 🗺</a></li>
-            <li><a href="computing/index.php">Computing 💻</a></li>
-            <li><a href="literature/index.php">Literature 📖</a></li>
-            </ul>
-        </ul>
+<h1><i>Categories</i></h1>
+<section>
+<div class="image_box">
+<a href="music/index.php"><img src="music/albums/album_covers/disintegration_the_cure.png"> <p>🎵 Music 🎵</p></a>
+<a href="visual_media/index.php"><img src="visual_media/movies/covers/amelie_cover.jpg"><p>Visual Media</p></a>
+<a href="history/index.php"><img src="history/files/hallstatt_pot.png"><p>History</p></a>
+<a href="computing/index.php"><img src="computing/files/tux.gif"><p>Computing</p></a>
+<a href="literature/index.php"><img src="literature/files/menu_bg.jpg"><p>Literature</p></a>
+</div>
+</section>
 
-        </ul>
-        </p>
+<br>
 
-        <hr>
-    </div>
+<h1><i>What I'm doing now</i></h1>
+<p>
+<ul>
+<li>
+<a href="my_life/2021.php">2021</a>
+</li>
+</ul>
+</p>
 
-    <?php include 'footer.php';?>
+<hr>
+
+<?php include 'footer.php';?>
 </body>
 <html>
