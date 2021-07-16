@@ -22,11 +22,11 @@
   </head>
 
   <body>
-    <div class="back_button"> <a href="index.php">Go to 💻 Computing 💻 index</a> </div>
+    <div class="back_button"> <a href="index.html">Go to 💻 Computing 💻 index</a> </div>
 
     <div class="main">
       <h1>An Efficient vim</h1>
-      <p><small><b>Created: 2020-12-23 | Modified: <?php $filename = basename($_SERVER['PHP_SELF']); echo date ("Y-m-d", filemtime($filename)); ?></b></small></p> <hr>
+      <p><small><b>Created: 2020-12-23 | Modified: 2021-07-16</b></small></p> <hr>
 
       <p>This page serves as a chronicle of the best options/features for creating a truly efficient vim. You can find my entire <code>.vimrc</code> <a href="https://raw.githubusercontent.com/rethyxyz/dotfiles/master/.vimrc">here</a>. Add these to your <code>.vimrc</code>.</p>
 
@@ -47,7 +47,7 @@
       <p>
       I use a lot of macros, most being filetype specific. It would be useless to define each globally. Filetype definitions go like this: <br> <br>
       <code>:autocmd FileType html let @s='macro_contents_goes_here'</code> <br> <br>
-      HTML is the filetype, and everything after that is the macro command. You can also replace HTML with any other filetype, such as .py, .c, .txt, .php, etc.
+      HTML is the filetype, and everything after that is the macro command. You can also replace HTML with any other filetype, such as .py, .c, .txt, .html, etc.
       </p>
 
       <h2>Defining macros in <code>.vimrc</code></h2>
@@ -133,8 +133,8 @@
       <p>
         See also:
         <ul>
-          <li><a href="making_vim_feel_like_emacs.php">Making vim Feel like Emacs (Without the Bloat)</a></li>
-          <li><a href="the_fallacy_of_program_ease.php">The Fallacy of Program Ease</a></li>
+          <li><a href="making_vim_feel_like_emacs.html">Making vim Feel like Emacs (Without the Bloat)</a></li>
+          <li><a href="the_fallacy_of_program_ease.html">The Fallacy of Program Ease</a></li>
         </ul>
       </p>
 

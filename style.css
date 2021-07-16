@@ -26,14 +26,12 @@ h3 { color: darkblue; }
 body { font-family: Arial; color: white; padding: 2px; }
 
 section {
-  border: 3px solid darkgrey;
-  border-radius: 10px;
-  padding: .3rem;
-  margin: 4px;
+  border: 1px solid darkgrey;
+  padding: 4px;
 }
 
 .image_box a {
-  border: 2px grey solid;
+  border: 1px white solid;
   font-size: 12px;
 
   display: inline-block;
@@ -44,7 +42,6 @@ section {
 
   margin: 1px;
   padding: 1px;
-  border-radius: 10px;
 }
 
 .image_box img { max-width: 175px; max-height: 175px; }
