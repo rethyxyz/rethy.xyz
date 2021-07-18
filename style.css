@@ -56,3 +56,5 @@ blockquote {
   border-left: 2px solid grey;
   padding-left: 6px;
 }
+
+small { color: darkgrey; }
